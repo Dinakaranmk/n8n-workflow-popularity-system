@@ -6,7 +6,7 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 47899,
+      "views": 47902,
       "likes": 720,
       "replies": 123,
       "unique_contributors": 0,
@@ -28,13 +28,13 @@
     }
   },
   {
-    "workflow": "Build an ai agent that can do a time schedule for client health and also provide the when he drink water ,wolk,exercise and also provide the doctor booking appointment and also make a time schedule button thats create a time table for the client",
+    "workflow": "Need help Course 2 Workflow",
     "platform": "Forum",
-    "source_id": 234743,
-    "url": "https://community.n8n.io/t/build-an-ai-agent-that-can-do-a-time-schedule-for-client-health-and-also-provide-the-when-he-drink-water-wolk-exercise-and-also-provide-the-doctor-booking-appointment-and-also-make-a-time-schedule-button-thats-create-a-time-table-for-the-client/234743",
+    "source_id": 234800,
+    "url": "https://community.n8n.io/t/need-help-course-2-workflow/234800",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 8,
+      "views": 2,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -48,11 +48,11 @@
     "url": "https://community.n8n.io/t/what-is-the-best-pattern-for-triggering-n-sub-workflows-in-parallel-and-resuming-main-workflow-when-all-complete/233446",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 36,
+      "views": 37,
       "likes": 1,
-      "replies": 3,
+      "replies": 6,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 7
     }
   },
   {
@@ -63,6 +63,20 @@
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 3,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Build an ai agent that can do a time schedule for client health and also provide the when he drink water ,wolk,exercise and also provide the doctor booking appointment and also make a time schedule button thats create a time table for the client",
+    "platform": "Forum",
+    "source_id": 234743,
+    "url": "https://community.n8n.io/t/build-an-ai-agent-that-can-do-a-time-schedule-for-client-health-and-also-provide-the-when-he-drink-water-wolk-exercise-and-also-provide-the-doctor-booking-appointment-and-also-make-a-time-schedule-button-thats-create-a-time-table-for-the-client/234743",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 8,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -90,7 +104,7 @@
     "url": "https://community.n8n.io/t/help-with-my-workflow/229501",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 57,
+      "views": 58,
       "likes": 0,
       "replies": 6,
       "unique_contributors": 0,
@@ -104,7 +118,7 @@
     "url": "https://community.n8n.io/t/parallel-execution/234781",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 1,
+      "views": 2,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -160,7 +174,7 @@
     "url": "https://community.n8n.io/t/what-is-the-outbound-ip-address-used-by-my-self-hosted-n8n-docker-when-sending-emails-through-the-outlook-node-so-i-can-whitelist-it-with-microsoft/234756",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7,
+      "views": 8,
       "likes": 1,
       "replies": 2,
       "unique_contributors": 0,
@@ -258,7 +272,7 @@
     "url": "https://community.n8n.io/t/n8n-global-trigger-workflow-activated/234634",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 12,
+      "views": 13,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -426,7 +440,7 @@
     "url": "https://community.n8n.io/t/mcp-client-node-now-includes-toolcallid-in-tool-calls-bug/219307",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 378,
+      "views": 379,
       "likes": 10,
       "replies": 3,
       "unique_contributors": 0,
@@ -510,7 +524,7 @@
     "url": "https://community.n8n.io/t/fetch-failed-error-when-using-ollama-chat-model-on-localhost-n8n-via-npm/213890",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 182,
+      "views": 183,
       "likes": 0,
       "replies": 5,
       "unique_contributors": 0,
@@ -650,7 +664,7 @@
     "url": "https://community.n8n.io/t/model-output-doesnt-fit-required-format-structured-output-parser/106424",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7270,
+      "views": 7271,
       "likes": 3,
       "replies": 4,
       "unique_contributors": 0,
@@ -683,20 +697,6 @@
       "replies": 2,
       "unique_contributors": 0,
       "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "All External Webhooks Returning 404 on n8n Cloud (Internal Calls Work Normally)",
-    "platform": "Forum",
-    "source_id": 234595,
-    "url": "https://community.n8n.io/t/all-external-webhooks-returning-404-on-n8n-cloud-internal-calls-work-normally/234595",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 7,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
     }
   }
 ]
