@@ -1,0 +1,61 @@
+name: Daily dataset update
+
+on:
+  schedule:
+    - cron: '0 3 * * *'   # daily at 03:00 UTC — change if you want weekly
+  workflow_dispatch:     # allows manual run from Actions UI
+
+jobs:
+  update-dataset:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then python -m pip install -r requirements.txt; else python -m pip install flask google-api-python-client python-dotenv requests pytrends; fi
+
+      - name: Configure .env from secrets
+        run: |
+          echo "YOUTUBE_API_KEY=${{ secrets.YOUTUBE_API_KEY }}" > .env
+          # If you have other secrets, uncomment and add:
+          # echo "DISCOURSE_API_KEY=${{ secrets.DISCOURSE_API_KEY }}" >> .env
+          # echo "DISCOURSE_API_USERNAME=${{ secrets.DISCOURSE_API_USERNAME }}" >> .env
+
+      - name: Run YouTube fetcher
+        run: python yt_fetch_and_save.py
+
+      - name: Run Forum fetcher
+        run: python forum_fetcher.py
+
+      - name: Run Trends fetcher (safe)
+        run: python trends_fetcher.py
+
+      - name: Merge datasets
+        run: python merge_datasets.py
+
+      - name: Show produced files
+        run: ls -lh workflows_*.json || true
+
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add workflows_final.json workflows_real.json workflows_forum.json workflows_trends.json || true
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Automated dataset update: $(date -u +'%Y-%m-%d %H:%M:%S UTC')"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
