@@ -6,7 +6,7 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 47902,
+      "views": 47903,
       "likes": 720,
       "replies": 123,
       "unique_contributors": 0,
@@ -28,13 +28,41 @@
     }
   },
   {
+    "workflow": "about  n8n version",
+    "platform": "Forum",
+    "source_id": 234809,
+    "url": "https://community.n8n.io/t/about-n8n-version/234809",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 0,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Is it possible to create a menu in the form of buttons in the TG bot that, when clicked, will branch out?",
+    "platform": "Forum",
+    "source_id": 234807,
+    "url": "https://community.n8n.io/t/is-it-possible-to-create-a-menu-in-the-form-of-buttons-in-the-tg-bot-that-when-clicked-will-branch-out/234807",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 0,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
     "workflow": "Need help Course 2 Workflow",
     "platform": "Forum",
     "source_id": 234800,
     "url": "https://community.n8n.io/t/need-help-course-2-workflow/234800",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 2,
+      "views": 3,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -62,7 +90,7 @@
     "url": "https://community.n8n.io/t/automating-esp32-iot-sensor-data-workflows-in-n8n/234783",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 3,
+      "views": 4,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -91,10 +119,10 @@
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 5,
-      "likes": 1,
+      "likes": 2,
       "replies": 1,
       "unique_contributors": 0,
-      "engagement_score": 2
+      "engagement_score": 3
     }
   },
   {
@@ -174,7 +202,7 @@
     "url": "https://community.n8n.io/t/what-is-the-outbound-ip-address-used-by-my-self-hosted-n8n-docker-when-sending-emails-through-the-outlook-node-so-i-can-whitelist-it-with-microsoft/234756",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 8,
+      "views": 9,
       "likes": 1,
       "replies": 2,
       "unique_contributors": 0,
@@ -636,7 +664,7 @@
     "url": "https://community.n8n.io/t/send-email-with-multiple-attachment-using-outlook-node/234599",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7,
+      "views": 8,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -664,39 +692,11 @@
     "url": "https://community.n8n.io/t/model-output-doesnt-fit-required-format-structured-output-parser/106424",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7271,
+      "views": 7273,
       "likes": 3,
       "replies": 4,
       "unique_contributors": 0,
       "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "I am unable to display the required “q” field in SerpAPI when I add it to my AI agent",
-    "platform": "Forum",
-    "source_id": 222474,
-    "url": "https://community.n8n.io/t/i-am-unable-to-display-the-required-q-field-in-serpapi-when-i-add-it-to-my-ai-agent/222474",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 283,
-      "likes": 0,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Workflow freezes after several loop iterations (possible memory accumulation)",
-    "platform": "Forum",
-    "source_id": 234016,
-    "url": "https://community.n8n.io/t/workflow-freezes-after-several-loop-iterations-possible-memory-accumulation/234016",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 29,
-      "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
     }
   }
 ]
