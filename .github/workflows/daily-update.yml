@@ -1,3 +1,7 @@
+concurrency:
+  group: dataset-update-${{ github.ref }}
+  cancel-in-progress: true
+
 name: Daily dataset update
 permissions:
   contents: write
