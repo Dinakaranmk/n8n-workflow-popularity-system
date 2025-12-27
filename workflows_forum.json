@@ -6,11 +6,11 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 50151,
-      "likes": 746,
-      "replies": 123,
+      "views": 50326,
+      "likes": 749,
+      "replies": 124,
       "unique_contributors": 0,
-      "engagement_score": 869
+      "engagement_score": 873
     }
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 15978,
+      "views": 16005,
       "likes": 81,
       "replies": 0,
       "unique_contributors": 0,
@@ -28,13 +28,13 @@
     }
   },
   {
-    "workflow": "AI Agent keeps calling same tool with same parameters",
+    "workflow": "Problem in node 'Download File' - Forbidden",
     "platform": "Forum",
-    "source_id": 196961,
-    "url": "https://community.n8n.io/t/ai-agent-keeps-calling-same-tool-with-same-parameters/196961",
+    "source_id": 206832,
+    "url": "https://community.n8n.io/t/problem-in-node-download-file-forbidden/206832",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 108,
+      "views": 38,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -42,318 +42,10 @@
     }
   },
   {
-    "workflow": "I am trying to filter on Airtable not working",
+    "workflow": "Best way to send data from an AI agent to Google Sheets?",
     "platform": "Forum",
-    "source_id": 241019,
-    "url": "https://community.n8n.io/t/i-am-trying-to-filter-on-airtable-not-working/241019",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 10,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Seeking n8n Automation Builder for Ongoing Projects",
-    "platform": "Forum",
-    "source_id": 225219,
-    "url": "https://community.n8n.io/t/seeking-n8n-automation-builder-for-ongoing-projects/225219",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 375,
-      "likes": 3,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Automation Systems Builder (n8n) – Europe (Remote)",
-    "platform": "Forum",
-    "source_id": 235497,
-    "url": "https://community.n8n.io/t/automation-systems-builder-n8n-europe-remote/235497",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 322,
-      "likes": 7,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 9
-    }
-  },
-  {
-    "workflow": "Automation Running too long",
-    "platform": "Forum",
-    "source_id": 241123,
-    "url": "https://community.n8n.io/t/automation-running-too-long/241123",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 17,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "How to Achieve Concurrent Processing of List Data Instead of Sequential Execution Using the Loop Node?",
-    "platform": "Forum",
-    "source_id": 241205,
-    "url": "https://community.n8n.io/t/how-to-achieve-concurrent-processing-of-list-data-instead-of-sequential-execution-using-the-loop-node/241205",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 4,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Using Google Document AI via HTTP Request node",
-    "platform": "Forum",
-    "source_id": 241199,
-    "url": "https://community.n8n.io/t/using-google-document-ai-via-http-request-node/241199",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 6,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "AI Agent node hangs and stops workflow execution (connection lost)",
-    "platform": "Forum",
-    "source_id": 241168,
-    "url": "https://community.n8n.io/t/ai-agent-node-hangs-and-stops-workflow-execution-connection-lost/241168",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 8,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "N8n Cloud Google Drive OAuth2 failing: redirect_uri_mismatch (Gmail + Workspace)",
-    "platform": "Forum",
-    "source_id": 239845,
-    "url": "https://community.n8n.io/t/n8n-cloud-google-drive-oauth2-failing-redirect-uri-mismatch-gmail-workspace/239845",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 213,
-      "likes": 20,
-      "replies": 10,
-      "unique_contributors": 0,
-      "engagement_score": 30
-    }
-  },
-  {
-    "workflow": "\"Something went wrong. Please try again!\" when trying to add Google Sheets OAuth2 API credential",
-    "platform": "Forum",
-    "source_id": 240774,
-    "url": "https://community.n8n.io/t/something-went-wrong-please-try-again-when-trying-to-add-google-sheets-oauth2-api-credential/240774",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 53,
-      "likes": 3,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "Google OAuth (Drive) integration failing in n8n — “Something went wrong” error",
-    "platform": "Forum",
-    "source_id": 206652,
-    "url": "https://community.n8n.io/t/google-oauth-drive-integration-failing-in-n8n-something-went-wrong-error/206652",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 82,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Check PDF (Contents) > Upload to Google Drive > Rename at Google Drive",
-    "platform": "Forum",
-    "source_id": 238918,
-    "url": "https://community.n8n.io/t/check-pdf-contents-upload-to-google-drive-rename-at-google-drive/238918",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 54,
-      "likes": 2,
-      "replies": 9,
-      "unique_contributors": 0,
-      "engagement_score": 11
-    }
-  },
-  {
-    "workflow": "OAuth 2.0 issue",
-    "platform": "Forum",
-    "source_id": 241154,
-    "url": "https://community.n8n.io/t/oauth-2-0-issue/241154",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 15,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Persistent bad decrypt Error with Credentials Even After Complete Environment Reset and Correct Encryption Key Configuration",
-    "platform": "Forum",
-    "source_id": 240548,
-    "url": "https://community.n8n.io/t/persistent-bad-decrypt-error-with-credentials-even-after-complete-environment-reset-and-correct-encryption-key-configuration/240548",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 22,
-      "likes": 0,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Convert to File: Add encoding and Strip BOM options",
-    "platform": "Forum",
-    "source_id": 84788,
-    "url": "https://community.n8n.io/t/convert-to-file-add-encoding-and-strip-bom-options/84788",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 323,
-      "likes": 0,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "AI Agent Node outputs internal \"Thinking Process\" after upgrading to v1.123.0",
-    "platform": "Forum",
-    "source_id": 231207,
-    "url": "https://community.n8n.io/t/ai-agent-node-outputs-internal-thinking-process-after-upgrading-to-v1-123-0/231207",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 198,
-      "likes": 0,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "SSH node, continue on error",
-    "platform": "Forum",
-    "source_id": 240816,
-    "url": "https://community.n8n.io/t/ssh-node-continue-on-error/240816",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 27,
-      "likes": 1,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Problems with google oauth credentials",
-    "platform": "Forum",
-    "source_id": 240822,
-    "url": "https://community.n8n.io/t/problems-with-google-oauth-credentials/240822",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 35,
-      "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Ideas appreciated : heat pump simulation via n8n framework",
-    "platform": "Forum",
-    "source_id": 240799,
-    "url": "https://community.n8n.io/t/ideas-appreciated-heat-pump-simulation-via-n8n-framework/240799",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 44,
-      "likes": 2,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "N8N 0Auth2 Error? Self hosting coolify, potential edge case bug?",
-    "platform": "Forum",
-    "source_id": 238619,
-    "url": "https://community.n8n.io/t/n8n-0auth2-error-self-hosting-coolify-potential-edge-case-bug/238619",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 50,
-      "likes": 7,
-      "replies": 7,
-      "unique_contributors": 0,
-      "engagement_score": 14
-    }
-  },
-  {
-    "workflow": "Microsoft Ads API SOAP + n8n conflict",
-    "platform": "Forum",
-    "source_id": 237892,
-    "url": "https://community.n8n.io/t/microsoft-ads-api-soap-n8n-conflict/237892",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 50,
-      "likes": 2,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Can't install poppler-utils on Docker Windows for n8n",
-    "platform": "Forum",
-    "source_id": 241095,
-    "url": "https://community.n8n.io/t/cant-install-poppler-utils-on-docker-windows-for-n8n/241095",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 7,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Runner image missing from n8n's Docker registry?",
-    "platform": "Forum",
-    "source_id": 233717,
-    "url": "https://community.n8n.io/t/runner-image-missing-from-n8ns-docker-registry/233717",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 86,
-      "likes": 2,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Unable to connect Slack Trigger ( Request URL not verifiable)",
-    "platform": "Forum",
-    "source_id": 241077,
-    "url": "https://community.n8n.io/t/unable-to-connect-slack-trigger-request-url-not-verifiable/241077",
+    "source_id": 241635,
+    "url": "https://community.n8n.io/t/best-way-to-send-data-from-an-ai-agent-to-google-sheets/241635",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 5,
@@ -364,41 +56,55 @@
     }
   },
   {
-    "workflow": "Auto Rename n8n Workflow Nodes with AI✨",
+    "workflow": "Looking for a freelance n8n automation developer",
     "platform": "Forum",
-    "source_id": 222884,
-    "url": "https://community.n8n.io/t/auto-rename-n8n-workflow-nodes-with-ai/222884",
+    "source_id": 224090,
+    "url": "https://community.n8n.io/t/looking-for-a-freelance-n8n-automation-developer/224090",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 135,
-      "likes": 6,
-      "replies": 3,
+      "views": 600,
+      "likes": 7,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 9
+      "engagement_score": 7
     }
   },
   {
-    "workflow": "Help in workflow",
+    "workflow": "AI Automation Engineer",
     "platform": "Forum",
-    "source_id": 241036,
-    "url": "https://community.n8n.io/t/help-in-workflow/241036",
+    "source_id": 241304,
+    "url": "https://community.n8n.io/t/ai-automation-engineer/241304",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 18,
-      "likes": 1,
-      "replies": 4,
+      "views": 40,
+      "likes": 2,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 5
+      "engagement_score": 4
     }
   },
   {
-    "workflow": "I Have created my n8n cloude account but now i forget email i have used while creating accoumt and now i am unable to login in my account",
+    "workflow": "Stuck a workspace setup",
     "platform": "Forum",
-    "source_id": 241005,
-    "url": "https://community.n8n.io/t/i-have-created-my-n8n-cloude-account-but-now-i-forget-email-i-have-used-while-creating-accoumt-and-now-i-am-unable-to-login-in-my-account/241005",
+    "source_id": 241618,
+    "url": "https://community.n8n.io/t/stuck-a-workspace-setup/241618",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 10,
+      "views": 7,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Google Sheets is not connecting with my workflow",
+    "platform": "Forum",
+    "source_id": 241614,
+    "url": "https://community.n8n.io/t/google-sheets-is-not-connecting-with-my-workflow/241614",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 9,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -406,24 +112,38 @@
     }
   },
   {
-    "workflow": "Code node external node error",
+    "workflow": "Error occued after self hosted n8n update to 2.0 from 1.121",
     "platform": "Forum",
-    "source_id": 240150,
-    "url": "https://community.n8n.io/t/code-node-external-node-error/240150",
+    "source_id": 237072,
+    "url": "https://community.n8n.io/t/error-occued-after-self-hosted-n8n-update-to-2-0-from-1-121/237072",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 24,
+      "views": 80,
       "likes": 0,
-      "replies": 1,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 1
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "Jira Node custom fields and components not working",
+    "workflow": "Hi — I’m new to n8n. My workflow was running fine, but it suddenly stopped: the parent workflow is no longer calling the subworkflow (child workflow). I’ve checked basic settings but can’t find the issue. Can someone help me please? Thank you",
     "platform": "Forum",
-    "source_id": 241020,
-    "url": "https://community.n8n.io/t/jira-node-custom-fields-and-components-not-working/241020",
+    "source_id": 241608,
+    "url": "https://community.n8n.io/t/hi-i-m-new-to-n8n-my-workflow-was-running-fine-but-it-suddenly-stopped-the-parent-workflow-is-no-longer-calling-the-subworkflow-child-workflow-i-ve-checked-basic-settings-but-can-t-find-the-issue-can-someone-help-me-please-thank-you/241608",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 4,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Fetch is not a function in Code Node (All built-ins allowed)",
+    "platform": "Forum",
+    "source_id": 241605,
+    "url": "https://community.n8n.io/t/fetch-is-not-a-function-in-code-node-all-built-ins-allowed/241605",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 6,
@@ -434,69 +154,111 @@
     }
   },
   {
-    "workflow": "Google Sheets OAuth2 API",
+    "workflow": "Content Creation+Publishing+Social Marketing+Analytics Reporting",
     "platform": "Forum",
-    "source_id": 240932,
-    "url": "https://community.n8n.io/t/google-sheets-oauth2-api/240932",
+    "source_id": 184371,
+    "url": "https://community.n8n.io/t/content-creation-publishing-social-marketing-analytics-reporting/184371",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 22,
-      "likes": 2,
-      "replies": 3,
+      "views": 213,
+      "likes": 5,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 5
+      "engagement_score": 7
     }
   },
   {
-    "workflow": "[Feature Request] Add HTTP 403 support for OAuth2 token refresh in generic OAuth2Api credential",
+    "workflow": "Hiring Remote n8n Experts for AI Automation Solutions",
     "platform": "Forum",
-    "source_id": 179197,
-    "url": "https://community.n8n.io/t/feature-request-add-http-403-support-for-oauth2-token-refresh-in-generic-oauth2api-credential/179197",
+    "source_id": 176584,
+    "url": "https://community.n8n.io/t/hiring-remote-n8n-experts-for-ai-automation-solutions/176584",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 168,
-      "likes": 2,
-      "replies": 3,
+      "views": 887,
+      "likes": 11,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 5
+      "engagement_score": 13
     }
   },
   {
-    "workflow": "N8n 2.0 Python Code node blocks all imports (stdlib & external) – how to configure permissions?",
+    "workflow": "Aikido Security failing on a PR Chroma",
     "platform": "Forum",
-    "source_id": 237706,
-    "url": "https://community.n8n.io/t/n8n-2-0-python-code-node-blocks-all-imports-stdlib-external-how-to-configure-permissions/237706",
+    "source_id": 223209,
+    "url": "https://community.n8n.io/t/aikido-security-failing-on-a-pr-chroma/223209",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 297,
-      "likes": 3,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "N8N and Acronis Integration",
-    "platform": "Forum",
-    "source_id": 240967,
-    "url": "https://community.n8n.io/t/n8n-and-acronis-integration/240967",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 8,
-      "likes": 1,
-      "replies": 0,
+      "views": 37,
+      "likes": 0,
+      "replies": 1,
       "unique_contributors": 0,
       "engagement_score": 1
     }
   },
   {
-    "workflow": "WhatsApp Trigger Node Not Receiving Messages from Real Phone",
+    "workflow": "Seeking n8n Automation Builder for Ongoing Projects",
     "platform": "Forum",
-    "source_id": 240953,
-    "url": "https://community.n8n.io/t/whatsapp-trigger-node-not-receiving-messages-from-real-phone/240953",
+    "source_id": 225217,
+    "url": "https://community.n8n.io/t/seeking-n8n-automation-builder-for-ongoing-projects/225217",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 12,
+      "views": 302,
+      "likes": 5,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 6
+    }
+  },
+  {
+    "workflow": "Substack node",
+    "platform": "Forum",
+    "source_id": 152027,
+    "url": "https://community.n8n.io/t/substack-node/152027",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 972,
+      "likes": 3,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 6
+    }
+  },
+  {
+    "workflow": "\"Something went wrong. Please try again!\" when trying to add Google Sheets OAuth2 API credential",
+    "platform": "Forum",
+    "source_id": 240774,
+    "url": "https://community.n8n.io/t/something-went-wrong-please-try-again-when-trying-to-add-google-sheets-oauth2-api-credential/240774",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 86,
+      "likes": 4,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 10
+    }
+  },
+  {
+    "workflow": "400 redirect_",
+    "platform": "Forum",
+    "source_id": 239729,
+    "url": "https://community.n8n.io/t/400-redirect/239729",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 89,
+      "likes": 14,
+      "replies": 10,
+      "unique_contributors": 0,
+      "engagement_score": 24
+    }
+  },
+  {
+    "workflow": "My AI Agent not able to get response from sub-workflow tool call even though the tool returns valid response",
+    "platform": "Forum",
+    "source_id": 241581,
+    "url": "https://community.n8n.io/t/my-ai-agent-not-able-to-get-response-from-sub-workflow-tool-call-even-though-the-tool-returns-valid-response/241581",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 8,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -504,24 +266,10 @@
     }
   },
   {
-    "workflow": "IWhen two Slack Triggers are set in a single workflow, they are not triggered",
+    "workflow": "Refund ComeBack",
     "platform": "Forum",
-    "source_id": 230123,
-    "url": "https://community.n8n.io/t/iwhen-two-slack-triggers-are-set-in-a-single-workflow-they-are-not-triggered/230123",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 39,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "OAuth2 Setup issue",
-    "platform": "Forum",
-    "source_id": 240919,
-    "url": "https://community.n8n.io/t/oauth2-setup-issue/240919",
+    "source_id": 241580,
+    "url": "https://community.n8n.io/t/refund-comeback/241580",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 7,
@@ -532,52 +280,52 @@
     }
   },
   {
-    "workflow": "Gemini File Analysis always return internal error",
+    "workflow": "OAuth2 Google redirect_uri_mismatch on n8n Cloud (custom domain)",
     "platform": "Forum",
-    "source_id": 240867,
-    "url": "https://community.n8n.io/t/gemini-file-analysis-always-return-internal-error/240867",
+    "source_id": 239976,
+    "url": "https://community.n8n.io/t/oauth2-google-redirect-uri-mismatch-on-n8n-cloud-custom-domain/239976",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 11,
-      "likes": 2,
+      "views": 73,
+      "likes": 6,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "N8n Cloud Google Drive OAuth2 failing: redirect_uri_mismatch (Gmail + Workspace)",
+    "platform": "Forum",
+    "source_id": 239845,
+    "url": "https://community.n8n.io/t/n8n-cloud-google-drive-oauth2-failing-redirect-uri-mismatch-gmail-workspace/239845",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 274,
+      "likes": 24,
+      "replies": 13,
+      "unique_contributors": 0,
+      "engagement_score": 37
+    }
+  },
+  {
+    "workflow": "AI Customer Support Agent built with n8n (Sentiment, Urgency & Intent Routing)",
+    "platform": "Forum",
+    "source_id": 241573,
+    "url": "https://community.n8n.io/t/ai-customer-support-agent-built-with-n8n-sentiment-urgency-intent-routing/241573",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 2
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "How to add Vertex Google Gemini 3 Flash Preview",
+    "workflow": "META Apps and N8N integration",
     "platform": "Forum",
-    "source_id": 238034,
-    "url": "https://community.n8n.io/t/how-to-add-vertex-google-gemini-3-flash-preview/238034",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 48,
-      "likes": 1,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Global region support for Google Service Account API credentials",
-    "platform": "Forum",
-    "source_id": 239056,
-    "url": "https://community.n8n.io/t/global-region-support-for-google-service-account-api-credentials/239056",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 27,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "N8n AI Agent node timing out (Connection Timeout) in Premium/Cloud mode – redirects to error page",
-    "platform": "Forum",
-    "source_id": 240846,
-    "url": "https://community.n8n.io/t/n8n-ai-agent-node-timing-out-connection-timeout-in-premium-cloud-mode-redirects-to-error-page/240846",
+    "source_id": 241569,
+    "url": "https://community.n8n.io/t/meta-apps-and-n8n-integration/241569",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 12,
@@ -588,13 +336,41 @@
     }
   },
   {
-    "workflow": "Workflow List UI Load Time Degrades Linearly with Total System User Count (v1.121.3)",
+    "workflow": "Facebook has already updated the v24 API. requested to update the Facebook API",
     "platform": "Forum",
-    "source_id": 228310,
-    "url": "https://community.n8n.io/t/workflow-list-ui-load-time-degrades-linearly-with-total-system-user-count-v1-121-3/228310",
+    "source_id": 237240,
+    "url": "https://community.n8n.io/t/facebook-has-already-updated-the-v24-api-requested-to-update-the-facebook-api/237240",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 55,
+      "views": 43,
+      "likes": 0,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "AI Agent Node outputs internal \"Thinking Process\" after upgrading to v1.123.0",
+    "platform": "Forum",
+    "source_id": 231207,
+    "url": "https://community.n8n.io/t/ai-agent-node-outputs-internal-thinking-process-after-upgrading-to-v1-123-0/231207",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 211,
+      "likes": 0,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "MCP token efficiency",
+    "platform": "Forum",
+    "source_id": 237370,
+    "url": "https://community.n8n.io/t/mcp-token-efficiency/237370",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 43,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -602,45 +378,297 @@
     }
   },
   {
-    "workflow": "Git Clone Permission Issue in new n8n",
+    "workflow": "Google OAuth redirect_uri_mismatch on n8n Cloud – inconsistent redirect URIs",
     "platform": "Forum",
-    "source_id": 237006,
-    "url": "https://community.n8n.io/t/git-clone-permission-issue-in-new-n8n/237006",
+    "source_id": 239983,
+    "url": "https://community.n8n.io/t/google-oauth-redirect-uri-mismatch-on-n8n-cloud-inconsistent-redirect-uris/239983",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 89,
-      "likes": 3,
-      "replies": 3,
+      "views": 134,
+      "likes": 5,
+      "replies": 1,
       "unique_contributors": 0,
       "engagement_score": 6
     }
   },
   {
-    "workflow": "Problem in passing data of previous node to the current node",
+    "workflow": "Loop Over Items does not loop through all items (Firebase → Notion)",
     "platform": "Forum",
-    "source_id": 239648,
-    "url": "https://community.n8n.io/t/problem-in-passing-data-of-previous-node-to-the-current-node/239648",
+    "source_id": 241541,
+    "url": "https://community.n8n.io/t/loop-over-items-does-not-loop-through-all-items-firebase-notion/241541",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 67,
-      "likes": 6,
-      "replies": 8,
+      "views": 7,
+      "likes": 0,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 14
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "Google OAuth Authentication in n8n - From Setup to Connection",
+    "workflow": "Please add publish / unpublish functionality to the main dashboard in ver 2",
     "platform": "Forum",
-    "source_id": 171799,
-    "url": "https://community.n8n.io/t/google-oauth-authentication-in-n8n-from-setup-to-connection/171799",
+    "source_id": 241539,
+    "url": "https://community.n8n.io/t/please-add-publish-unpublish-functionality-to-the-main-dashboard-in-ver-2/241539",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 238,
-      "likes": 7,
-      "replies": 4,
+      "views": 10,
+      "likes": 0,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 11
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Why is my workflow executing multiple times when published (when active)?",
+    "platform": "Forum",
+    "source_id": 241532,
+    "url": "https://community.n8n.io/t/why-is-my-workflow-executing-multiple-times-when-published-when-active/241532",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Duplicating n8n Tasks Where some tasks have been duplicated on trigger but not others",
+    "platform": "Forum",
+    "source_id": 241529,
+    "url": "https://community.n8n.io/t/duplicating-n8n-tasks-where-some-tasks-have-been-duplicated-on-trigger-but-not-others/241529",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "How to provide large data to AI Agent (via file ?)",
+    "platform": "Forum",
+    "source_id": 241526,
+    "url": "https://community.n8n.io/t/how-to-provide-large-data-to-ai-agent-via-file/241526",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 10,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Best approach for login + document download from multiple B2B portals (low frequency, monthly)",
+    "platform": "Forum",
+    "source_id": 237957,
+    "url": "https://community.n8n.io/t/best-approach-for-login-document-download-from-multiple-b2b-portals-low-frequency-monthly/237957",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 20,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Daily analysis of a Google Sheet and emailing the results",
+    "platform": "Forum",
+    "source_id": 239433,
+    "url": "https://community.n8n.io/t/daily-analysis-of-a-google-sheet-and-emailing-the-results/239433",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Response Body JSON is ignored by the Respond to Webhook Node",
+    "platform": "Forum",
+    "source_id": 240381,
+    "url": "https://community.n8n.io/t/response-body-json-is-ignored-by-the-respond-to-webhook-node/240381",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Any way to get complete execution cycle of workflow->sub workflows?",
+    "platform": "Forum",
+    "source_id": 240687,
+    "url": "https://community.n8n.io/t/any-way-to-get-complete-execution-cycle-of-workflow-sub-workflows/240687",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 23,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "WhatsApp Triggers (test number) stopped working",
+    "platform": "Forum",
+    "source_id": 233535,
+    "url": "https://community.n8n.io/t/whatsapp-triggers-test-number-stopped-working/233535",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 56,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Navigation",
+    "platform": "Forum",
+    "source_id": 241309,
+    "url": "https://community.n8n.io/t/navigation/241309",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 11,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "When writing a local image file in n8n and converting it to Base64 format, it keeps failing and not displaying correctly",
+    "platform": "Forum",
+    "source_id": 241328,
+    "url": "https://community.n8n.io/t/when-writing-a-local-image-file-in-n8n-and-converting-it-to-base64-format-it-keeps-failing-and-not-displaying-correctly/241328",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 15,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Deferred actions in n8n",
+    "platform": "Forum",
+    "source_id": 241351,
+    "url": "https://community.n8n.io/t/deferred-actions-in-n8n/241351",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Help with my n8n workflow (Google Sheets → PDF → Drive → Email)",
+    "platform": "Forum",
+    "source_id": 239285,
+    "url": "https://community.n8n.io/t/help-with-my-n8n-workflow-google-sheets-pdf-drive-email/239285",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 129,
+      "likes": 2,
+      "replies": 20,
+      "unique_contributors": 0,
+      "engagement_score": 22
+    }
+  },
+  {
+    "workflow": "Python Node not working in my n8n(self-hosted)",
+    "platform": "Forum",
+    "source_id": 241478,
+    "url": "https://community.n8n.io/t/python-node-not-working-in-my-n8n-self-hosted/241478",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "How can i clean the memory my whatsapp chatbot?",
+    "platform": "Forum",
+    "source_id": 241474,
+    "url": "https://community.n8n.io/t/how-can-i-clean-the-memory-my-whatsapp-chatbot/241474",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 9,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "How to fix this \"2\" that appears for no reason?",
+    "platform": "Forum",
+    "source_id": 241374,
+    "url": "https://community.n8n.io/t/how-to-fix-this-2-that-appears-for-no-reason/241374",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 16,
+      "likes": 1,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "OAuth 2.0 issue",
+    "platform": "Forum",
+    "source_id": 241154,
+    "url": "https://community.n8n.io/t/oauth-2-0-issue/241154",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 36,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "AI Agent node hangs and stops workflow execution (connection lost)",
+    "platform": "Forum",
+    "source_id": 241168,
+    "url": "https://community.n8n.io/t/ai-agent-node-hangs-and-stops-workflow-execution-connection-lost/241168",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 16,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Tengo ptoblemas con un flujo en mi n8n",
+    "platform": "Forum",
+    "source_id": 241455,
+    "url": "https://community.n8n.io/t/tengo-ptoblemas-con-un-flujo-en-mi-n8n/241455",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 6,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
     }
   },
   {
@@ -650,7 +678,7 @@
     "url": "https://community.n8n.io/t/troubleshooting-with-adding-google-oauth-2-credentials/240770",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 27,
+      "views": 33,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -658,45 +686,17 @@
     }
   },
   {
-    "workflow": "Google OAuth2 API Credential Failing with \"OAuth callback state is invalid\" Error",
+    "workflow": "Problems with google oauth credentials",
     "platform": "Forum",
-    "source_id": 240843,
-    "url": "https://community.n8n.io/t/google-oauth2-api-credential-failing-with-oauth-callback-state-is-invalid-error/240843",
+    "source_id": 240822,
+    "url": "https://community.n8n.io/t/problems-with-google-oauth-credentials/240822",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 21,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "How to increment a loop counter variable across several nodes",
-    "platform": "Forum",
-    "source_id": 240223,
-    "url": "https://community.n8n.io/t/how-to-increment-a-loop-counter-variable-across-several-nodes/240223",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 28,
+      "views": 50,
       "likes": 1,
-      "replies": 1,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "With AI Agent > HIL is the key must have",
-    "platform": "Forum",
-    "source_id": 209763,
-    "url": "https://community.n8n.io/t/with-ai-agent-hil-is-the-key-must-have/209763",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 32,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
+      "engagement_score": 3
     }
   }
 ]
