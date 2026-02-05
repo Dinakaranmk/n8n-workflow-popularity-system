@@ -6,7 +6,7 @@
     "url": "https://community.n8n.io/t/security-advisory-additional-exploits-of-expression-escape-vulnerability-leading-to-rce/257941",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 312,
+      "views": 367,
       "likes": 2,
       "replies": 0,
       "unique_contributors": 0,
@@ -20,11 +20,11 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 55956,
-      "likes": 799,
+      "views": 56088,
+      "likes": 801,
       "replies": 133,
       "unique_contributors": 0,
-      "engagement_score": 932
+      "engagement_score": 934
     }
   },
   {
@@ -34,7 +34,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 17084,
+      "views": 17103,
       "likes": 86,
       "replies": 0,
       "unique_contributors": 0,
@@ -42,13 +42,13 @@
     }
   },
   {
-    "workflow": "Form submission hangs forever",
+    "workflow": "Solution to \"Your message was invalid, Please make sure you are sending the exact text requested\" for level 2",
     "platform": "Forum",
-    "source_id": 260283,
-    "url": "https://community.n8n.io/t/form-submission-hangs-forever/260283",
+    "source_id": 260890,
+    "url": "https://community.n8n.io/t/solution-to-your-message-was-invalid-please-make-sure-you-are-sending-the-exact-text-requested-for-level-2/260890",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7,
+      "views": 1,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -56,55 +56,13 @@
     }
   },
   {
-    "workflow": "About getting the badge",
+    "workflow": "Workflow to delete contacts from Lost leads",
     "platform": "Forum",
-    "source_id": 259943,
-    "url": "https://community.n8n.io/t/about-getting-the-badge/259943",
+    "source_id": 260878,
+    "url": "https://community.n8n.io/t/workflow-to-delete-contacts-from-lost-leads/260878",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 7,
-      "likes": 0,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "N8n clickhouse",
-    "platform": "Forum",
-    "source_id": 260074,
-    "url": "https://community.n8n.io/t/n8n-clickhouse/260074",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 26,
-      "likes": 0,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "N8N SQL Output",
-    "platform": "Forum",
-    "source_id": 257570,
-    "url": "https://community.n8n.io/t/n8n-sql-output/257570",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 28,
-      "likes": 2,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Have problem with http post binary",
-    "platform": "Forum",
-    "source_id": 260297,
-    "url": "https://community.n8n.io/t/have-problem-with-http-post-binary/260297",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 5,
+      "views": 1,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -112,27 +70,13 @@
     }
   },
   {
-    "workflow": "\"Webhook not registered\" when trying to test two separate workflows simultaneously in Test Mode",
+    "workflow": "Working on an AI assistant for self-hosted n8n - need your input",
     "platform": "Forum",
-    "source_id": 260298,
-    "url": "https://community.n8n.io/t/webhook-not-registered-when-trying-to-test-two-separate-workflows-simultaneously-in-test-mode/260298",
+    "source_id": 259396,
+    "url": "https://community.n8n.io/t/working-on-an-ai-assistant-for-self-hosted-n8n-need-your-input/259396",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 2,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Task runners in GCP",
-    "platform": "Forum",
-    "source_id": 259823,
-    "url": "https://community.n8n.io/t/task-runners-in-gcp/259823",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 16,
+      "views": 48,
       "likes": 0,
       "replies": 3,
       "unique_contributors": 0,
@@ -140,83 +84,13 @@
     }
   },
   {
-    "workflow": "Scheduled Trigger Nodes Not Running",
+    "workflow": "Waiting for 3 months for Approval",
     "platform": "Forum",
-    "source_id": 260167,
-    "url": "https://community.n8n.io/t/scheduled-trigger-nodes-not-running/260167",
+    "source_id": 260874,
+    "url": "https://community.n8n.io/t/waiting-for-3-months-for-approval/260874",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 14,
-      "likes": 0,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Google Sheets “Append Row” drops rows under high webhook concurrency",
-    "platform": "Forum",
-    "source_id": 254786,
-    "url": "https://community.n8n.io/t/google-sheets-append-row-drops-rows-under-high-webhook-concurrency/254786",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 33,
-      "likes": 0,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Luxon issue on date expression",
-    "platform": "Forum",
-    "source_id": 259841,
-    "url": "https://community.n8n.io/t/luxon-issue-on-date-expression/259841",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 27,
-      "likes": 4,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "N8N_RESTRICT_FILE_ACCESS_TO in 2.0",
-    "platform": "Forum",
-    "source_id": 227750,
-    "url": "https://community.n8n.io/t/n8n-restrict-file-access-to-in-2-0/227750",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 2682,
-      "likes": 10,
-      "replies": 13,
-      "unique_contributors": 0,
-      "engagement_score": 23
-    }
-  },
-  {
-    "workflow": "The service is receiving too many requests from you Too many requests, possible issue on schedul trigger?",
-    "platform": "Forum",
-    "source_id": 259345,
-    "url": "https://community.n8n.io/t/the-service-is-receiving-too-many-requests-from-you-too-many-requests-possible-issue-on-schedul-trigger/259345",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 48,
-      "likes": 5,
-      "replies": 11,
-      "unique_contributors": 0,
-      "engagement_score": 16
-    }
-  },
-  {
-    "workflow": "API Handling",
-    "platform": "Forum",
-    "source_id": 260232,
-    "url": "https://community.n8n.io/t/api-handling/260232",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 20,
+      "views": 3,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -224,13 +98,13 @@
     }
   },
   {
-    "workflow": "Just Passed Course Level 2!",
+    "workflow": "I lost a workflow after I thought I saved, it said I saved so I closed n8n and when I came back all my progress was deleted",
     "platform": "Forum",
-    "source_id": 260248,
-    "url": "https://community.n8n.io/t/just-passed-course-level-2/260248",
+    "source_id": 260868,
+    "url": "https://community.n8n.io/t/i-lost-a-workflow-after-i-thought-i-saved-it-said-i-saved-so-i-closed-n8n-and-when-i-came-back-all-my-progress-was-deleted/260868",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 9,
+      "views": 1,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -238,52 +112,52 @@
     }
   },
   {
-    "workflow": "Use GLM in Ai Agent node N8N - have error",
+    "workflow": "Build 2-Way Task Sync Between Craft.do and Todoist Using n8n (or Make/Zapier Alternative) – Quick Project\"",
     "platform": "Forum",
-    "source_id": 259245,
-    "url": "https://community.n8n.io/t/use-glm-in-ai-agent-node-n8n-have-error/259245",
+    "source_id": 260701,
+    "url": "https://community.n8n.io/t/build-2-way-task-sync-between-craft-do-and-todoist-using-n8n-or-make-zapier-alternative-quick-project/260701",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 23,
-      "likes": 1,
-      "replies": 1,
+      "views": 11,
+      "likes": 2,
+      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 2
     }
   },
   {
-    "workflow": "Workflow Errors",
+    "workflow": "Request re-issue license key for using different domain",
     "platform": "Forum",
-    "source_id": 260215,
-    "url": "https://community.n8n.io/t/workflow-errors/260215",
+    "source_id": 260831,
+    "url": "https://community.n8n.io/t/request-re-issue-license-key-for-using-different-domain/260831",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 17,
+      "views": 1,
       "likes": 0,
-      "replies": 3,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 3
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "N8n is so slow",
+    "workflow": "Externally turn-off SSO",
     "platform": "Forum",
-    "source_id": 260068,
-    "url": "https://community.n8n.io/t/n8n-is-so-slow/260068",
+    "source_id": 229764,
+    "url": "https://community.n8n.io/t/externally-turn-off-sso/229764",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 54,
-      "likes": 1,
-      "replies": 7,
+      "views": 73,
+      "likes": 0,
+      "replies": 1,
       "unique_contributors": 0,
-      "engagement_score": 8
+      "engagement_score": 1
     }
   },
   {
-    "workflow": "Separate internal agent reasoning/tool calls from streamed response output",
+    "workflow": "My first n8n AI agent using ollama(free model)-learning phase",
     "platform": "Forum",
-    "source_id": 260230,
-    "url": "https://community.n8n.io/t/separate-internal-agent-reasoning-tool-calls-from-streamed-response-output/260230",
+    "source_id": 260823,
+    "url": "https://community.n8n.io/t/my-first-n8n-ai-agent-using-ollama-free-model-learning-phase/260823",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 4,
@@ -294,164 +168,24 @@
     }
   },
   {
-    "workflow": "Integration with Teamleader Orbit but Credentials does not auto refresh",
+    "workflow": "Have problem with http post binary",
     "platform": "Forum",
-    "source_id": 260171,
-    "url": "https://community.n8n.io/t/integration-with-teamleader-orbit-but-credentials-does-not-auto-refresh/260171",
+    "source_id": 260297,
+    "url": "https://community.n8n.io/t/have-problem-with-http-post-binary/260297",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 12,
-      "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Code node fails to get assigned/executed every time",
-    "platform": "Forum",
-    "source_id": 260158,
-    "url": "https://community.n8n.io/t/code-node-fails-to-get-assigned-executed-every-time/260158",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 21,
-      "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "The report bug button go to github with wrong template",
-    "platform": "Forum",
-    "source_id": 259846,
-    "url": "https://community.n8n.io/t/the-report-bug-button-go-to-github-with-wrong-template/259846",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 18,
-      "likes": 1,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "I need help from an n8n pro",
-    "platform": "Forum",
-    "source_id": 259780,
-    "url": "https://community.n8n.io/t/i-need-help-from-an-n8n-pro/259780",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 28,
+      "views": 26,
       "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Microsoft Outlook Node not triggering on it's own",
-    "platform": "Forum",
-    "source_id": 256240,
-    "url": "https://community.n8n.io/t/microsoft-outlook-node-not-triggering-on-its-own/256240",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 53,
-      "likes": 0,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Power BI node OAuth authentication fails with “Unable to proceed without access token",
-    "platform": "Forum",
-    "source_id": 259854,
-    "url": "https://community.n8n.io/t/power-bi-node-oauth-authentication-fails-with-unable-to-proceed-without-access-token/259854",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 20,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Option to connect to sandbox instance (Salesforce) [GOT CREATED]",
-    "platform": "Forum",
-    "source_id": 6632,
-    "url": "https://community.n8n.io/t/option-to-connect-to-sandbox-instance-salesforce-got-created/6632",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 1429,
-      "likes": 7,
-      "replies": 6,
-      "unique_contributors": 0,
-      "engagement_score": 13
-    }
-  },
-  {
-    "workflow": "How to persist last run date and use it as start date in a scheduled workflow",
-    "platform": "Forum",
-    "source_id": 259939,
-    "url": "https://community.n8n.io/t/how-to-persist-last-run-date-and-use-it-as-start-date-in-a-scheduled-workflow/259939",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 9,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Test URL Issues",
-    "platform": "Forum",
-    "source_id": 260190,
-    "url": "https://community.n8n.io/t/test-url-issues/260190",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 23,
-      "likes": 1,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "LinkedIn/X Outreach automation",
-    "platform": "Forum",
-    "source_id": 260119,
-    "url": "https://community.n8n.io/t/linkedin-x-outreach-automation/260119",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 18,
-      "likes": 2,
       "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Getting \"The service is receiving too many requests from you\" after one prompt",
-    "platform": "Forum",
-    "source_id": 260195,
-    "url": "https://community.n8n.io/t/getting-the-service-is-receiving-too-many-requests-from-you-after-one-prompt/260195",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 12,
-      "likes": 1,
-      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 1
     }
   },
   {
-    "workflow": "Connection Lost issue working with n8n container on remote host thru SSH tonnel with VSCode",
+    "workflow": "No Inference Provider Available!",
     "platform": "Forum",
-    "source_id": 260198,
-    "url": "https://community.n8n.io/t/connection-lost-issue-working-with-n8n-container-on-remote-host-thru-ssh-tonnel-with-vscode/260198",
+    "source_id": 260806,
+    "url": "https://community.n8n.io/t/no-inference-provider-available/260806",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 5,
@@ -462,108 +196,94 @@
     }
   },
   {
-    "workflow": "I cant use telegram get message node",
+    "workflow": "\"Connection lost\" & \"Invalid origin\" error after updating to v2.x (Docker + CyberPanel)",
     "platform": "Forum",
-    "source_id": 259620,
-    "url": "https://community.n8n.io/t/i-cant-use-telegram-get-message-node/259620",
+    "source_id": 260792,
+    "url": "https://community.n8n.io/t/connection-lost-invalid-origin-error-after-updating-to-v2-x-docker-cyberpanel/260792",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 49,
-      "likes": 1,
-      "replies": 12,
+      "views": 12,
+      "likes": 0,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 13
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "Google Sheets - Row Update Trigger (Test Input/output)",
+    "workflow": "Encountering -405 with Telegram trigger",
     "platform": "Forum",
-    "source_id": 260184,
-    "url": "https://community.n8n.io/t/google-sheets-row-update-trigger-test-input-output/260184",
+    "source_id": 260786,
+    "url": "https://community.n8n.io/t/encountering-405-with-telegram-trigger/260786",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 17,
+      "views": 10,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Google Sheets “Append Row” drops rows under high webhook concurrency",
+    "platform": "Forum",
+    "source_id": 254786,
+    "url": "https://community.n8n.io/t/google-sheets-append-row-drops-rows-under-high-webhook-concurrency/254786",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 45,
       "likes": 3,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Add API option \"think\" in Ollama nodes (to disable/enable thinking mode in the API call)",
+    "platform": "Forum",
+    "source_id": 260776,
+    "url": "https://community.n8n.io/t/add-api-option-think-in-ollama-nodes-to-disable-enable-thinking-mode-in-the-api-call/260776",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "External Task Runner v2.4.8: error when launching runner process",
+    "platform": "Forum",
+    "source_id": 259133,
+    "url": "https://community.n8n.io/t/external-task-runner-v2-4-8-error-when-launching-runner-process/259133",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 62,
+      "likes": 0,
       "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "Initial startup failed: Migration failed",
-    "platform": "Forum",
-    "source_id": 260118,
-    "url": "https://community.n8n.io/t/initial-startup-failed-migration-failed/260118",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 13,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Seeking Guidance: Precise Node Placement to Hide Telegram Buttons in n8n Workflow",
-    "platform": "Forum",
-    "source_id": 260090,
-    "url": "https://community.n8n.io/t/seeking-guidance-precise-node-placement-to-hide-telegram-buttons-in-n8n-workflow/260090",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 16,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "How to remove JSON fields including sub fields from a 'Remove Duplicates' node",
-    "platform": "Forum",
-    "source_id": 259936,
-    "url": "https://community.n8n.io/t/how-to-remove-json-fields-including-sub-fields-from-a-remove-duplicates-node/259936",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 18,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Wise triggers working?",
-    "platform": "Forum",
-    "source_id": 260040,
-    "url": "https://community.n8n.io/t/wise-triggers-working/260040",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 17,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Create Sheets and update Columns",
-    "platform": "Forum",
-    "source_id": 260033,
-    "url": "https://community.n8n.io/t/create-sheets-and-update-columns/260033",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 21,
-      "likes": 2,
-      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 2
     }
   },
   {
-    "workflow": "Npm packages installed in Docker container not found by n8n",
+    "workflow": "New plan, no active workflow limits: introducing n8n new pricing",
     "platform": "Forum",
-    "source_id": 259947,
-    "url": "https://community.n8n.io/t/npm-packages-installed-in-docker-container-not-found-by-n8n/259947",
+    "source_id": 163840,
+    "url": "https://community.n8n.io/t/new-plan-no-active-workflow-limits-introducing-n8n-new-pricing/163840",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 10104,
+      "likes": 114,
+      "replies": 20,
+      "unique_contributors": 0,
+      "engagement_score": 134
+    }
+  },
+  {
+    "workflow": "Agent-AI and Whatsapp tool (to send menssages)",
+    "platform": "Forum",
+    "source_id": 260591,
+    "url": "https://community.n8n.io/t/agent-ai-and-whatsapp-tool-to-send-menssages/260591",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 25,
@@ -574,83 +294,13 @@
     }
   },
   {
-    "workflow": "Negative Execution Time After Updating",
+    "workflow": "N8n Cloud slows down + 503/Cloudflare 524 when Apify “Get dataset items” fails",
     "platform": "Forum",
-    "source_id": 254241,
-    "url": "https://community.n8n.io/t/negative-execution-time-after-updating/254241",
+    "source_id": 260760,
+    "url": "https://community.n8n.io/t/n8n-cloud-slows-down-503-cloudflare-524-when-apify-get-dataset-items-fails/260760",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 81,
-      "likes": 3,
-      "replies": 7,
-      "unique_contributors": 0,
-      "engagement_score": 10
-    }
-  },
-  {
-    "workflow": "Trouble Referencing LLM output",
-    "platform": "Forum",
-    "source_id": 259575,
-    "url": "https://community.n8n.io/t/trouble-referencing-llm-output/259575",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 36,
-      "likes": 0,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "AI Agente or Google Calendar gives wrong dates",
-    "platform": "Forum",
-    "source_id": 259554,
-    "url": "https://community.n8n.io/t/ai-agente-or-google-calendar-gives-wrong-dates/259554",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 40,
-      "likes": 4,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "How to setup SAML Roles with Azure (n8n_instance_role)",
-    "platform": "Forum",
-    "source_id": 260100,
-    "url": "https://community.n8n.io/t/how-to-setup-saml-roles-with-azure-n8n-instance-role/260100",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 16,
-      "likes": 0,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Working on an AI assistant for self-hosted n8n - need your input",
-    "platform": "Forum",
-    "source_id": 259396,
-    "url": "https://community.n8n.io/t/working-on-an-ai-assistant-for-self-hosted-n8n-need-your-input/259396",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 42,
-      "likes": 0,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "2026 n8n Taipei First Meetup: A Massive Success!",
-    "platform": "Forum",
-    "source_id": 260173,
-    "url": "https://community.n8n.io/t/2026-n8n-taipei-first-meetup-a-massive-success/260173",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 2,
+      "views": 6,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -658,15 +308,85 @@
     }
   },
   {
-    "workflow": "Instance level MCP access issues",
+    "workflow": "N8n is so slow",
     "platform": "Forum",
-    "source_id": 259487,
-    "url": "https://community.n8n.io/t/instance-level-mcp-access-issues/259487",
+    "source_id": 260068,
+    "url": "https://community.n8n.io/t/n8n-is-so-slow/260068",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 41,
-      "likes": 4,
-      "replies": 3,
+      "views": 83,
+      "likes": 1,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "Discord Integration throwing an error into the success path",
+    "platform": "Forum",
+    "source_id": 260757,
+    "url": "https://community.n8n.io/t/discord-integration-throwing-an-error-into-the-success-path/260757",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 10,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "N8n not running in the background (onprem)",
+    "platform": "Forum",
+    "source_id": 260723,
+    "url": "https://community.n8n.io/t/n8n-not-running-in-the-background-onprem/260723",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 19,
+      "likes": 1,
+      "replies": 5,
+      "unique_contributors": 0,
+      "engagement_score": 6
+    }
+  },
+  {
+    "workflow": "I have a problem with goggle sheet and if",
+    "platform": "Forum",
+    "source_id": 260665,
+    "url": "https://community.n8n.io/t/i-have-a-problem-with-goggle-sheet-and-if/260665",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "WhatsApp template message accepted by Meta API but not delivered when using a production number",
+    "platform": "Forum",
+    "source_id": 260722,
+    "url": "https://community.n8n.io/t/whatsapp-template-message-accepted-by-meta-api-but-not-delivered-when-using-a-production-number/260722",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Repeated 403 errors on all HTTP requests",
+    "platform": "Forum",
+    "source_id": 260646,
+    "url": "https://community.n8n.io/t/repeated-403-errors-on-all-http-requests/260646",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 20,
+      "likes": 1,
+      "replies": 6,
       "unique_contributors": 0,
       "engagement_score": 7
     }
@@ -678,7 +398,77 @@
     "url": "https://community.n8n.io/t/multi-employee-appointment-booking-with-overlapping-appointments-how-to-solve/259672",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 22,
+      "views": 34,
+      "likes": 2,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Found a bug in n8n with WAIT node- important resolution needed",
+    "platform": "Forum",
+    "source_id": 260737,
+    "url": "https://community.n8n.io/t/found-a-bug-in-n8n-with-wait-node-important-resolution-needed/260737",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "SharePoint Node returns 403 Forbidden in n8n Cloud - How to fix?",
+    "platform": "Forum",
+    "source_id": 197714,
+    "url": "https://community.n8n.io/t/sharepoint-node-returns-403-forbidden-in-n8n-cloud-how-to-fix/197714",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 343,
+      "likes": 16,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 22
+    }
+  },
+  {
+    "workflow": "Problem in node ‘Execute Command‘",
+    "platform": "Forum",
+    "source_id": 260714,
+    "url": "https://community.n8n.io/t/problem-in-node-execute-command/260714",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 14,
+      "likes": 3,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 6
+    }
+  },
+  {
+    "workflow": "Clickup task update custom field",
+    "platform": "Forum",
+    "source_id": 8098,
+    "url": "https://community.n8n.io/t/clickup-task-update-custom-field/8098",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 2110,
+      "likes": 5,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 12
+    }
+  },
+  {
+    "workflow": "Workflows get stuck indefinitely // v2.0.0 // Queue + External task runners",
+    "platform": "Forum",
+    "source_id": 260734,
+    "url": "https://community.n8n.io/t/workflows-get-stuck-indefinitely-v2-0-0-queue-external-task-runners/260734",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 10,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -686,10 +476,108 @@
     }
   },
   {
-    "workflow": "Task request timed out after 60 seconds – n8n Cloud",
+    "workflow": "Ever watched your automation fail in real-time with no way to stop it?",
     "platform": "Forum",
-    "source_id": 260133,
-    "url": "https://community.n8n.io/t/task-request-timed-out-after-60-seconds-n8n-cloud/260133",
+    "source_id": 260637,
+    "url": "https://community.n8n.io/t/ever-watched-your-automation-fail-in-real-time-with-no-way-to-stop-it/260637",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Request: Payment in USD for n8n services",
+    "platform": "Forum",
+    "source_id": 260516,
+    "url": "https://community.n8n.io/t/request-payment-in-usd-for-n8n-services/260516",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 15,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Dynamic variable in webhook path changes URL",
+    "platform": "Forum",
+    "source_id": 65991,
+    "url": "https://community.n8n.io/t/dynamic-variable-in-webhook-path-changes-url/65991",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1216,
+      "likes": 8,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 15
+    }
+  },
+  {
+    "workflow": "Mistral chat this error does not work In version n8n 2.6.3",
+    "platform": "Forum",
+    "source_id": 260706,
+    "url": "https://community.n8n.io/t/mistral-chat-this-error-does-not-work-in-version-n8n-2-6-3/260706",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "[HIRING] n8n & AI Automation Specialist – Mexico Based 🇲🇽 (Remote)",
+    "platform": "Forum",
+    "source_id": 260704,
+    "url": "https://community.n8n.io/t/hiring-n8n-ai-automation-specialist-mexico-based-remote/260704",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "AI agent Streaming Tutorial Complete Guide [ Workflows + Scripts Included ]",
+    "platform": "Forum",
+    "source_id": 167369,
+    "url": "https://community.n8n.io/t/ai-agent-streaming-tutorial-complete-guide-workflows-scripts-included/167369",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1899,
+      "likes": 3,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Level 1 Course Completed - Badge Not Received",
+    "platform": "Forum",
+    "source_id": 159183,
+    "url": "https://community.n8n.io/t/level-1-course-completed-badge-not-received/159183",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 458,
+      "likes": 7,
+      "replies": 25,
+      "unique_contributors": 0,
+      "engagement_score": 32
+    }
+  },
+  {
+    "workflow": "Workspace offline (503) & Connection lost during workflow executions",
+    "platform": "Forum",
+    "source_id": 260413,
+    "url": "https://community.n8n.io/t/workspace-offline-503-connection-lost-during-workflow-executions/260413",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 14,
@@ -697,6 +585,118 @@
       "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "N8n Developer Needed to Build a Flexible Trading Bot (Spot & Futures)",
+    "platform": "Forum",
+    "source_id": 259941,
+    "url": "https://community.n8n.io/t/n8n-developer-needed-to-build-a-flexible-trading-bot-spot-futures/259941",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 71,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Issue with Code Node javascript Timeout in n8n Cloud",
+    "platform": "Forum",
+    "source_id": 259406,
+    "url": "https://community.n8n.io/t/issue-with-code-node-javascript-timeout-in-n8n-cloud/259406",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 81,
+      "likes": 1,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "\"Something went wrong. Please try again!\" when trying to add Google Sheets OAuth2 API credential",
+    "platform": "Forum",
+    "source_id": 240774,
+    "url": "https://community.n8n.io/t/something-went-wrong-please-try-again-when-trying-to-add-google-sheets-oauth2-api-credential/240774",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 198,
+      "likes": 5,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 12
+    }
+  },
+  {
+    "workflow": "Offer a file to download in the chat",
+    "platform": "Forum",
+    "source_id": 260416,
+    "url": "https://community.n8n.io/t/offer-a-file-to-download-in-the-chat/260416",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "I cant use telegram get message node",
+    "platform": "Forum",
+    "source_id": 259620,
+    "url": "https://community.n8n.io/t/i-cant-use-telegram-get-message-node/259620",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 56,
+      "likes": 1,
+      "replies": 13,
+      "unique_contributors": 0,
+      "engagement_score": 14
+    }
+  },
+  {
+    "workflow": "Make Webhook Triggers more RESTful?",
+    "platform": "Forum",
+    "source_id": 260690,
+    "url": "https://community.n8n.io/t/make-webhook-triggers-more-restful/260690",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 5,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Curl not found in Execute Command",
+    "platform": "Forum",
+    "source_id": 260629,
+    "url": "https://community.n8n.io/t/curl-not-found-in-execute-command/260629",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Email customisation not being picked up",
+    "platform": "Forum",
+    "source_id": 257804,
+    "url": "https://community.n8n.io/t/email-customisation-not-being-picked-up/257804",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 15,
+      "likes": 0,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 4
     }
   }
 ]
