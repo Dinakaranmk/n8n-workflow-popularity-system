@@ -6,11 +6,11 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 65148,
-      "likes": 909,
+      "views": 65236,
+      "likes": 910,
       "replies": 151,
       "unique_contributors": 0,
-      "engagement_score": 1060
+      "engagement_score": 1061
     }
   },
   {
@@ -20,7 +20,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 18586,
+      "views": 18609,
       "likes": 99,
       "replies": 0,
       "unique_contributors": 0,
@@ -28,13 +28,27 @@
     }
   },
   {
-    "workflow": "PGVector + n8n RAG: High Token Usage, Slow Performance & Same Results for Different Queries",
+    "workflow": "Howto configure n8n selfhosted for Claude.ai connector with cloudflare",
     "platform": "Forum",
-    "source_id": 288654,
-    "url": "https://community.n8n.io/t/pgvector-n8n-rag-high-token-usage-slow-performance-same-results-for-different-queries/288654",
+    "source_id": 281096,
+    "url": "https://community.n8n.io/t/howto-configure-n8n-selfhosted-for-claude-ai-connector-with-cloudflare/281096",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 3,
+      "views": 116,
+      "likes": 2,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "N 8n courses",
+    "platform": "Forum",
+    "source_id": 288906,
+    "url": "https://community.n8n.io/t/n-8n-courses/288906",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 6,
       "likes": 2,
       "replies": 0,
       "unique_contributors": 0,
@@ -42,195 +56,41 @@
     }
   },
   {
-    "workflow": "How to share credentials across multiple workflows?",
+    "workflow": "Pagination loop",
     "platform": "Forum",
-    "source_id": 288473,
-    "url": "https://community.n8n.io/t/how-to-share-credentials-across-multiple-workflows/288473",
+    "source_id": 288909,
+    "url": "https://community.n8n.io/t/pagination-loop/288909",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 56,
+      "views": 6,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Functionnode crashs",
+    "platform": "Forum",
+    "source_id": 288907,
+    "url": "https://community.n8n.io/t/functionnode-crashs/288907",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 7,
       "likes": 2,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "SuiteCRM Integration",
-    "platform": "Forum",
-    "source_id": 262,
-    "url": "https://community.n8n.io/t/suitecrm-integration/262",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 15379,
-      "likes": 48,
-      "replies": 67,
-      "unique_contributors": 0,
-      "engagement_score": 115
-    }
-  },
-  {
-    "workflow": "Azure OpenAI behind APIM (AI Gateway) – How to authenticate from n8n Agent?",
-    "platform": "Forum",
-    "source_id": 288138,
-    "url": "https://community.n8n.io/t/azure-openai-behind-apim-ai-gateway-how-to-authenticate-from-n8n-agent/288138",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 61,
-      "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 0
+      "engagement_score": 2
     }
   },
   {
-    "workflow": "It seems like I can't start my workflow",
+    "workflow": "GHL API creates contact & opportunity successfully (201) but they never appear in the dashboard — n8n automation",
     "platform": "Forum",
-    "source_id": 288547,
-    "url": "https://community.n8n.io/t/it-seems-like-i-cant-start-my-workflow/288547",
+    "source_id": 288891,
+    "url": "https://community.n8n.io/t/ghl-api-creates-contact-opportunity-successfully-201-but-they-never-appear-in-the-dashboard-n8n-automation/288891",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 28,
-      "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Request for Integration Setup Between Google Chat and Zoho Cliq Using n8n",
-    "platform": "Forum",
-    "source_id": 288012,
-    "url": "https://community.n8n.io/t/request-for-integration-setup-between-google-chat-and-zoho-cliq-using-n8n/288012",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 39,
-      "likes": 0,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Is it possible to use newly added sonnet models with Azure AI Foundry using Azure OpenAI Chat Model?",
-    "platform": "Forum",
-    "source_id": 223806,
-    "url": "https://community.n8n.io/t/is-it-possible-to-use-newly-added-sonnet-models-with-azure-ai-foundry-using-azure-openai-chat-model/223806",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 500,
-      "likes": 15,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 16
-    }
-  },
-  {
-    "workflow": "Workaround for Dynamic Credentials in n8n (Using the Built-in API)",
-    "platform": "Forum",
-    "source_id": 251221,
-    "url": "https://community.n8n.io/t/workaround-for-dynamic-credentials-in-n8n-using-the-built-in-api/251221",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 422,
-      "likes": 10,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 14
-    }
-  },
-  {
-    "workflow": "OIDC configuration for Azure",
-    "platform": "Forum",
-    "source_id": 288153,
-    "url": "https://community.n8n.io/t/oidc-configuration-for-azure/288153",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 42,
-      "likes": 5,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "LinkedIn node does not work anymore. Errore20250401 not supported",
-    "platform": "Forum",
-    "source_id": 288383,
-    "url": "https://community.n8n.io/t/linkedin-node-does-not-work-anymore-errore20250401-not-supported/288383",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 51,
-      "likes": 7,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "How to access file bytes using Python code node?",
-    "platform": "Forum",
-    "source_id": 288599,
-    "url": "https://community.n8n.io/t/how-to-access-file-bytes-using-python-code-node/288599",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 12,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Http://localhost:5678/rest/oauth2-credential/callback",
-    "platform": "Forum",
-    "source_id": 287584,
-    "url": "https://community.n8n.io/t/http-localhost-5678-rest-oauth2-credential-callback/287584",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 53,
-      "likes": 6,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 10
-    }
-  },
-  {
-    "workflow": "V2.16 Google Sheet - Invalid URL",
-    "platform": "Forum",
-    "source_id": 287576,
-    "url": "https://community.n8n.io/t/v2-16-google-sheet-invalid-url/287576",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 40,
-      "likes": 0,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "How my workflow needs to be improved",
-    "platform": "Forum",
-    "source_id": 287991,
-    "url": "https://community.n8n.io/t/how-my-workflow-needs-to-be-improved/287991",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 37,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Connection Lost (repeatedly) - N8N Cloud - Constant Websocket Fail",
-    "platform": "Forum",
-    "source_id": 288555,
-    "url": "https://community.n8n.io/t/connection-lost-repeatedly-n8n-cloud-constant-websocket-fail/288555",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 29,
+      "views": 7,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -238,164 +98,10 @@
     }
   },
   {
-    "workflow": "Cannot find location of n8n env file",
+    "workflow": "How to setup OPENCLAW with discord",
     "platform": "Forum",
-    "source_id": 288566,
-    "url": "https://community.n8n.io/t/cannot-find-location-of-n8n-env-file/288566",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 28,
-      "likes": 3,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "Please add github copilot model support in n8n",
-    "platform": "Forum",
-    "source_id": 273147,
-    "url": "https://community.n8n.io/t/please-add-github-copilot-model-support-in-n8n/273147",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 173,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "CONTRATAÇÃO] Especialista em n8n + Dify para Agente de IA Imobiliário",
-    "platform": "Forum",
-    "source_id": 288532,
-    "url": "https://community.n8n.io/t/contratacao-especialista-em-n8n-dify-para-agente-de-ia-imobiliario/288532",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 43,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Question about HTTP Request from Level 1 Course",
-    "platform": "Forum",
-    "source_id": 78840,
-    "url": "https://community.n8n.io/t/question-about-http-request-from-level-1-course/78840",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 369,
-      "likes": 0,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "Show and Tell: ZapPro — WhatsApp AI Agent Template for n8n (triage, handoff, follow-up)",
-    "platform": "Forum",
-    "source_id": 287523,
-    "url": "https://community.n8n.io/t/show-and-tell-zappro-whatsapp-ai-agent-template-for-n8n-triage-handoff-follow-up/287523",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 54,
-      "likes": 0,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "How to add retry system in flow as we do using the code",
-    "platform": "Forum",
-    "source_id": 288040,
-    "url": "https://community.n8n.io/t/how-to-add-retry-system-in-flow-as-we-do-using-the-code/288040",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 39,
-      "likes": 3,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "RFPs buried in the inbox were killing our win rate — here's the intake workflow I built",
-    "platform": "Forum",
-    "source_id": 287996,
-    "url": "https://community.n8n.io/t/rfps-buried-in-the-inbox-were-killing-our-win-rate-heres-the-intake-workflow-i-built/287996",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 30,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Linkedin native node not working",
-    "platform": "Forum",
-    "source_id": 288287,
-    "url": "https://community.n8n.io/t/linkedin-native-node-not-working/288287",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 113,
-      "likes": 3,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "Quick question about n8n license usage",
-    "platform": "Forum",
-    "source_id": 288437,
-    "url": "https://community.n8n.io/t/quick-question-about-n8n-license-usage/288437",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 42,
-      "likes": 6,
-      "replies": 7,
-      "unique_contributors": 0,
-      "engagement_score": 13
-    }
-  },
-  {
-    "workflow": "PDF to text error in the loop",
-    "platform": "Forum",
-    "source_id": 288426,
-    "url": "https://community.n8n.io/t/pdf-to-text-error-in-the-loop/288426",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 25,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "The $3,200 demurrage fee that taught me to automate shipping document intake",
-    "platform": "Forum",
-    "source_id": 288500,
-    "url": "https://community.n8n.io/t/the-3-200-demurrage-fee-that-taught-me-to-automate-shipping-document-intake/288500",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 16,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Data Extraction with Error Handling in n8n – Catch Failures Before They Wreck Your Workflow",
-    "platform": "Forum",
-    "source_id": 288520,
-    "url": "https://community.n8n.io/t/data-extraction-with-error-handling-in-n8n-catch-failures-before-they-wreck-your-workflow/288520",
+    "source_id": 288858,
+    "url": "https://community.n8n.io/t/how-to-setup-openclaw-with-discord/288858",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 13,
@@ -406,41 +112,13 @@
     }
   },
   {
-    "workflow": "N8n workflows not triggering after restart",
+    "workflow": "Calendly Trigger node 'resource not found' error with PAT and 'required_scopes' error with OAuth2 on v2.13.3",
     "platform": "Forum",
-    "source_id": 288479,
-    "url": "https://community.n8n.io/t/n8n-workflows-not-triggering-after-restart/288479",
+    "source_id": 288857,
+    "url": "https://community.n8n.io/t/calendly-trigger-node-resource-not-found-error-with-pat-and-required-scopes-error-with-oauth2-on-v2-13-3/288857",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 19,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Issue with self-hosted n8n on Hostinger. Intermittent \"Lost Connection to the Server\" and ERR_SSL_PROTOCOL_ERROR after that",
-    "platform": "Forum",
-    "source_id": 288255,
-    "url": "https://community.n8n.io/t/issue-with-self-hosted-n8n-on-hostinger-intermittent-lost-connection-to-the-server-and-err-ssl-protocol-error-after-that/288255",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 34,
-      "likes": 3,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "How to manage large files within n8n cloud",
-    "platform": "Forum",
-    "source_id": 287925,
-    "url": "https://community.n8n.io/t/how-to-manage-large-files-within-n8n-cloud/287925",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 51,
+      "views": 10,
       "likes": 6,
       "replies": 0,
       "unique_contributors": 0,
@@ -448,27 +126,13 @@
     }
   },
   {
-    "workflow": "Uploading files to Dropbox larger than 100 MB",
+    "workflow": "Error - N8N: ERRO: RequestError - Error: Argument error, options.body",
     "platform": "Forum",
-    "source_id": 288424,
-    "url": "https://community.n8n.io/t/uploading-files-to-dropbox-larger-than-100-mb/288424",
+    "source_id": 288868,
+    "url": "https://community.n8n.io/t/error-n8n-erro-requesterror-error-argument-error-options-body/288868",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 26,
-      "likes": 2,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Index branching",
-    "platform": "Forum",
-    "source_id": 288293,
-    "url": "https://community.n8n.io/t/index-branching/288293",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 40,
+      "views": 9,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -476,41 +140,83 @@
     }
   },
   {
-    "workflow": "[HIRING] Claude API + n8n Engineer — 31-Agent Business Intelligence System | Remote",
+    "workflow": "How can I setup ffmpeg in n8n cloud?",
     "platform": "Forum",
-    "source_id": 286780,
-    "url": "https://community.n8n.io/t/hiring-claude-api-n8n-engineer-31-agent-business-intelligence-system-remote/286780",
+    "source_id": 288867,
+    "url": "https://community.n8n.io/t/how-can-i-setup-ffmpeg-in-n8n-cloud/288867",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 325,
-      "likes": 9,
-      "replies": 8,
+      "views": 16,
+      "likes": 6,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 17
+      "engagement_score": 6
     }
   },
   {
-    "workflow": "LinkedIn node fails with NONEXISTENT_VERSION 20250401 in n8n Cloud 2.15.x",
+    "workflow": "🌟 Announcing the n8n Ambassador Program! 🌟",
     "platform": "Forum",
-    "source_id": 288332,
-    "url": "https://community.n8n.io/t/linkedin-node-fails-with-nonexistent-version-20250401-in-n8n-cloud-2-15-x/288332",
+    "source_id": 47996,
+    "url": "https://community.n8n.io/t/announcing-the-n8n-ambassador-program/47996",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 116,
-      "likes": 0,
-      "replies": 1,
+      "views": 6762,
+      "likes": 74,
+      "replies": 17,
+      "unique_contributors": 0,
+      "engagement_score": 91
+    }
+  },
+  {
+    "workflow": "N8n unable to create pdf file from SFTP to Salesforce",
+    "platform": "Forum",
+    "source_id": 288839,
+    "url": "https://community.n8n.io/t/n8n-unable-to-create-pdf-file-from-sftp-to-salesforce/288839",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 1,
+      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 1
     }
   },
   {
-    "workflow": "Show warning when node is auto-renamed on paste (duplicate name)",
+    "workflow": "Since 2.15.0: Attempt to read execution was blocked due to insufficient permissions",
     "platform": "Forum",
-    "source_id": 288495,
-    "url": "https://community.n8n.io/t/show-warning-when-node-is-auto-renamed-on-paste-duplicate-name/288495",
+    "source_id": 288727,
+    "url": "https://community.n8n.io/t/since-2-15-0-attempt-to-read-execution-was-blocked-due-to-insufficient-permissions/288727",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 14,
+      "views": 23,
+      "likes": 2,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "How do you handle API credentials in n8n workflows you share with teammates?",
+    "platform": "Forum",
+    "source_id": 288743,
+    "url": "https://community.n8n.io/t/how-do-you-handle-api-credentials-in-n8n-workflows-you-share-with-teammates/288743",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 30,
+      "likes": 5,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "Issue with DeepL Node Credentials (403 Forbidden) - Fixed with manual HTTP Request",
+    "platform": "Forum",
+    "source_id": 288819,
+    "url": "https://community.n8n.io/t/issue-with-deepl-node-credentials-403-forbidden-fixed-with-manual-http-request/288819",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 9,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -518,66 +224,178 @@
     }
   },
   {
-    "workflow": "New Community Node: Image Hasher – Automatic Perceptual Image Hashing",
+    "workflow": "Demandeur fantôme en double tickets automatiques GLPI",
     "platform": "Forum",
-    "source_id": 199372,
-    "url": "https://community.n8n.io/t/new-community-node-image-hasher-automatic-perceptual-image-hashing/199372",
+    "source_id": 288791,
+    "url": "https://community.n8n.io/t/demandeur-fantome-en-double-tickets-automatiques-glpi/288791",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 312,
-      "likes": 3,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Twilio and whatsapp workflow NEED HELP PLEASE!",
-    "platform": "Forum",
-    "source_id": 288358,
-    "url": "https://community.n8n.io/t/twilio-and-whatsapp-workflow-need-help-please/288358",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 49,
-      "likes": 3,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "Constantly changing schemas",
-    "platform": "Forum",
-    "source_id": 288144,
-    "url": "https://community.n8n.io/t/constantly-changing-schemas/288144",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 40,
+      "views": 9,
       "likes": 0,
-      "replies": 4,
+      "replies": 1,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 1
     }
   },
   {
-    "workflow": "How can I transcribe large MP3/MP4 files in n8n",
+    "workflow": "N8n workflow not saving credentials",
     "platform": "Forum",
-    "source_id": 97863,
-    "url": "https://community.n8n.io/t/how-can-i-transcribe-large-mp3-mp4-files-in-n8n/97863",
+    "source_id": 288759,
+    "url": "https://community.n8n.io/t/n8n-workflow-not-saving-credentials/288759",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 291,
-      "likes": 4,
+      "views": 24,
+      "likes": 1,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Since 2.16 nodes are stuck in waiting",
+    "platform": "Forum",
+    "source_id": 288762,
+    "url": "https://community.n8n.io/t/since-2-16-nodes-are-stuck-in-waiting/288762",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 31,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "[Hiring] Online Collaboration Expert (Remote, USA & South America)",
+    "platform": "Forum",
+    "source_id": 287955,
+    "url": "https://community.n8n.io/t/hiring-online-collaboration-expert-remote-usa-south-america/287955",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 86,
+      "likes": 2,
       "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 2
     }
   },
   {
-    "workflow": "Why should I use a Dedicated SMTP server and what are the best servers?",
+    "workflow": "Automation Builder / n8n + GoHighLevel Integration Specialist",
     "platform": "Forum",
-    "source_id": 288446,
-    "url": "https://community.n8n.io/t/why-should-i-use-a-dedicated-smtp-server-and-what-are-the-best-servers/288446",
+    "source_id": 213931,
+    "url": "https://community.n8n.io/t/automation-builder-n8n-gohighlevel-integration-specialist/213931",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 449,
+      "likes": 6,
+      "replies": 10,
+      "unique_contributors": 0,
+      "engagement_score": 16
+    }
+  },
+  {
+    "workflow": "Community nodes",
+    "platform": "Forum",
+    "source_id": 288833,
+    "url": "https://community.n8n.io/t/community-nodes/288833",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 8,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "How to access file bytes using Python code node?",
+    "platform": "Forum",
+    "source_id": 288599,
+    "url": "https://community.n8n.io/t/how-to-access-file-bytes-using-python-code-node/288599",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 28,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Question about enabling zlib",
+    "platform": "Forum",
+    "source_id": 288671,
+    "url": "https://community.n8n.io/t/question-about-enabling-zlib/288671",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 16,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Two Slack Apps Both Active in Same Channel . I Can't Remove One, Both Bots Responding",
+    "platform": "Forum",
+    "source_id": 288684,
+    "url": "https://community.n8n.io/t/two-slack-apps-both-active-in-same-channel-i-cant-remove-one-both-bots-responding/288684",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 19,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How to send message with image in chatwoot",
+    "platform": "Forum",
+    "source_id": 288805,
+    "url": "https://community.n8n.io/t/how-to-send-message-with-image-in-chatwoot/288805",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 8,
+      "likes": 0,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Chatwoot Error",
+    "platform": "Forum",
+    "source_id": 288808,
+    "url": "https://community.n8n.io/t/chatwoot-error/288808",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 11,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How to Automate PDF Generation with n8n and APITemplate",
+    "platform": "Forum",
+    "source_id": 285354,
+    "url": "https://community.n8n.io/t/how-to-automate-pdf-generation-with-n8n-and-apitemplate/285354",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 86,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "404 My production webhooks are returning 404 'not registered' on my Cloud instance at andresde.app.n8n.cloud even though my workflow is Published. Please re-sync the webhook registrations for my workspace",
+    "platform": "Forum",
+    "source_id": 288745,
+    "url": "https://community.n8n.io/t/404-my-production-webhooks-are-returning-404-not-registered-on-my-cloud-instance-at-andresde-app-n8n-cloud-even-though-my-workflow-is-published-please-re-sync-the-webhook-registrations-for-my-workspace/288745",
     "country": "GLOBAL",
     "popularity_metrics": {
       "views": 19,
@@ -588,27 +406,139 @@
     }
   },
   {
-    "workflow": "Seeking n8n Automation Builder for Ongoing Projects",
+    "workflow": "LinkedIn node does not work anymore. Errore20250401 not supported",
     "platform": "Forum",
-    "source_id": 225219,
-    "url": "https://community.n8n.io/t/seeking-n8n-automation-builder-for-ongoing-projects/225219",
+    "source_id": 288383,
+    "url": "https://community.n8n.io/t/linkedin-node-does-not-work-anymore-errore20250401-not-supported/288383",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 959,
-      "likes": 6,
+      "views": 114,
+      "likes": 8,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 9
+    }
+  },
+  {
+    "workflow": "Connections showing error, but everything still runs",
+    "platform": "Forum",
+    "source_id": 288785,
+    "url": "https://community.n8n.io/t/connections-showing-error-but-everything-still-runs/288785",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 12,
+      "likes": 3,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Save body email as PDF",
+    "platform": "Forum",
+    "source_id": 17730,
+    "url": "https://community.n8n.io/t/save-body-email-as-pdf/17730",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1715,
+      "likes": 5,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 9
+    }
+  },
+  {
+    "workflow": "Decrypting PDF and ZIP",
+    "platform": "Forum",
+    "source_id": 19287,
+    "url": "https://community.n8n.io/t/decrypting-pdf-and-zip/19287",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1221,
+      "likes": 1,
       "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Convert HTML to PDF",
+    "platform": "Forum",
+    "source_id": 34815,
+    "url": "https://community.n8n.io/t/convert-html-to-pdf/34815",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 9986,
+      "likes": 15,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 18
+    }
+  },
+  {
+    "workflow": "Easy Way to Remove Restriction Form PDF",
+    "platform": "Forum",
+    "source_id": 266618,
+    "url": "https://community.n8n.io/t/easy-way-to-remove-restriction-form-pdf/266618",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 164,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Where are the changes recommended by n8n team on submitted workflow?",
+    "platform": "Forum",
+    "source_id": 288352,
+    "url": "https://community.n8n.io/t/where-are-the-changes-recommended-by-n8n-team-on-submitted-workflow/288352",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 46,
+      "likes": 2,
+      "replies": 4,
       "unique_contributors": 0,
       "engagement_score": 6
     }
   },
   {
-    "workflow": "Any idea how to change my n8n creators username?",
+    "workflow": "Payment Failure! Unable to upgrade plan. Visa cards",
     "platform": "Forum",
-    "source_id": 286655,
-    "url": "https://community.n8n.io/t/any-idea-how-to-change-my-n8n-creators-username/286655",
+    "source_id": 288776,
+    "url": "https://community.n8n.io/t/payment-failure-unable-to-upgrade-plan-visa-cards/288776",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 63,
+      "views": 10,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Can't change instance ownership of n8n cloud enterprise",
+    "platform": "Forum",
+    "source_id": 276007,
+    "url": "https://community.n8n.io/t/cant-change-instance-ownership-of-n8n-cloud-enterprise/276007",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 42,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Cannot find location of n8n env file",
+    "platform": "Forum",
+    "source_id": 288566,
+    "url": "https://community.n8n.io/t/cannot-find-location-of-n8n-env-file/288566",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 45,
       "likes": 4,
       "replies": 5,
       "unique_contributors": 0,
@@ -616,27 +546,41 @@
     }
   },
   {
-    "workflow": "Creator Portal 400 Error on Workflow Submission - Need Help",
+    "workflow": "Question about HTTP Request from Level 1 Course",
     "platform": "Forum",
-    "source_id": 265671,
-    "url": "https://community.n8n.io/t/creator-portal-400-error-on-workflow-submission-need-help/265671",
+    "source_id": 78840,
+    "url": "https://community.n8n.io/t/question-about-http-request-from-level-1-course/78840",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 86,
-      "likes": 6,
-      "replies": 4,
+      "views": 375,
+      "likes": 0,
+      "replies": 6,
       "unique_contributors": 0,
-      "engagement_score": 10
+      "engagement_score": 6
     }
   },
   {
-    "workflow": "[n8n Course 1] Data Inconsistency: Gmail shows 85% but Verification shows 77%",
+    "workflow": "How to create meaningful chunk IDs / metadata in n8n vector store (instead of UUIDs)?",
     "platform": "Forum",
-    "source_id": 288409,
-    "url": "https://community.n8n.io/t/n8n-course-1-data-inconsistency-gmail-shows-85-but-verification-shows-77/288409",
+    "source_id": 288735,
+    "url": "https://community.n8n.io/t/how-to-create-meaningful-chunk-ids-metadata-in-n8n-vector-store-instead-of-uuids/288735",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 15,
+      "views": 23,
+      "likes": 3,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Workflow security and vulnerability tool",
+    "platform": "Forum",
+    "source_id": 288749,
+    "url": "https://community.n8n.io/t/workflow-security-and-vulnerability-tool/288749",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 18,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -644,17 +588,73 @@
     }
   },
   {
-    "workflow": "Can't connect my highlevel account",
+    "workflow": "Built with n8n",
     "platform": "Forum",
-    "source_id": 288132,
-    "url": "https://community.n8n.io/t/cant-connect-my-highlevel-account/288132",
+    "source_id": 288747,
+    "url": "https://community.n8n.io/t/built-with-n8n/288747",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 41,
-      "likes": 0,
-      "replies": 1,
+      "views": 13,
+      "likes": 1,
+      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Trying to get the zoom meeting transcription",
+    "platform": "Forum",
+    "source_id": 107825,
+    "url": "https://community.n8n.io/t/trying-to-get-the-zoom-meeting-transcription/107825",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 104,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "PGVector + n8n RAG: High Token Usage, Slow Performance & Same Results for Different Queries",
+    "platform": "Forum",
+    "source_id": 288654,
+    "url": "https://community.n8n.io/t/pgvector-n8n-rag-high-token-usage-slow-performance-same-results-for-different-queries/288654",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 25,
+      "likes": 8,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 11
+    }
+  },
+  {
+    "workflow": "I used Claude via MCP in n8n to build workflows by prompting – here's what you need before you try it yourself",
+    "platform": "Forum",
+    "source_id": 288723,
+    "url": "https://community.n8n.io/t/i-used-claude-via-mcp-in-n8n-to-build-workflows-by-prompting-heres-what-you-need-before-you-try-it-yourself/288723",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 27,
+      "likes": 6,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "Add feature to be able to rollback to older versions. last 10 versions in cloud downloadable?",
+    "platform": "Forum",
+    "source_id": 288726,
+    "url": "https://community.n8n.io/t/add-feature-to-be-able-to-rollback-to-older-versions-last-10-versions-in-cloud-downloadable/288726",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 11,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
     }
   },
   {
@@ -664,7 +664,7 @@
     "url": "https://community.n8n.io/t/automated-email-sending-lead-status-tracking-with-n8n/288253",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 30,
+      "views": 45,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -672,31 +672,31 @@
     }
   },
   {
-    "workflow": "Jira get all issues node is shwoing: Bad request - please check your parameters",
+    "workflow": "Using n8n with img2.ai for simple image generation workflows — has anyone tried something similar?",
     "platform": "Forum",
-    "source_id": 288047,
-    "url": "https://community.n8n.io/t/jira-get-all-issues-node-is-shwoing-bad-request-please-check-your-parameters/288047",
+    "source_id": 288656,
+    "url": "https://community.n8n.io/t/using-n8n-with-img2-ai-for-simple-image-generation-workflows-has-anyone-tried-something-similar/288656",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 40,
-      "likes": 7,
-      "replies": 1,
+      "views": 29,
+      "likes": 0,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 8
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "Feature request: node-level edit permissions",
+    "workflow": "Anthropic credential verification fails on n8n Cloud with enterprise API key",
     "platform": "Forum",
-    "source_id": 286438,
-    "url": "https://community.n8n.io/t/feature-request-node-level-edit-permissions/286438",
+    "source_id": 283616,
+    "url": "https://community.n8n.io/t/anthropic-credential-verification-fails-on-n8n-cloud-with-enterprise-api-key/283616",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 51,
-      "likes": 3,
-      "replies": 1,
+      "views": 34,
+      "likes": 2,
+      "replies": 4,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 6
     }
   }
 ]
