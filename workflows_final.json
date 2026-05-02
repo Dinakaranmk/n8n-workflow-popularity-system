@@ -6,11 +6,11 @@
     "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
     "country": "US",
     "popularity_metrics": {
-      "views": 534037,
-      "likes": 12347,
+      "views": 535426,
+      "likes": 12377,
       "comments": 500,
-      "like_to_view_ratio": 0.02312,
-      "comment_to_view_ratio": 0.000936
+      "like_to_view_ratio": 0.023116,
+      "comment_to_view_ratio": 0.000934
     }
   },
   {
@@ -20,11 +20,25 @@
     "url": "https://www.youtube.com/watch?v=_Wf0NikMyAA",
     "country": "US",
     "popularity_metrics": {
-      "views": 152494,
-      "likes": 3627,
+      "views": 153212,
+      "likes": 3638,
       "comments": 54,
-      "like_to_view_ratio": 0.023785,
-      "comment_to_view_ratio": 0.000354
+      "like_to_view_ratio": 0.023745,
+      "comment_to_view_ratio": 0.000352
+    }
+  },
+  {
+    "workflow": "Seriously, please watch this before you start learning n8n",
+    "platform": "YouTube",
+    "source_id": "ofC4OeNjDx8",
+    "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 217297,
+      "likes": 4627,
+      "comments": 573,
+      "like_to_view_ratio": 0.021293,
+      "comment_to_view_ratio": 0.002637
     }
   },
   {
@@ -34,10 +48,10 @@
     "url": "https://www.youtube.com/watch?v=niHtZBNaJ58",
     "country": "US",
     "popularity_metrics": {
-      "views": 326554,
-      "likes": 13693,
+      "views": 327269,
+      "likes": 13732,
       "comments": 119,
-      "like_to_view_ratio": 0.041932,
+      "like_to_view_ratio": 0.041959,
       "comment_to_view_ratio": 0.000364
     }
   },
@@ -48,39 +62,11 @@
     "url": "https://www.youtube.com/watch?v=_ZpGQ8PpzaE",
     "country": "US",
     "popularity_metrics": {
-      "views": 8514,
+      "views": 8527,
       "likes": 287,
       "comments": 25,
-      "like_to_view_ratio": 0.033709,
-      "comment_to_view_ratio": 0.002936
-    }
-  },
-  {
-    "workflow": "Seriously, please watch this before you start learning n8n",
-    "platform": "YouTube",
-    "source_id": "ofC4OeNjDx8",
-    "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 217039,
-      "likes": 4620,
-      "comments": 573,
-      "like_to_view_ratio": 0.021286,
-      "comment_to_view_ratio": 0.00264
-    }
-  },
-  {
-    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
-    "platform": "YouTube",
-    "source_id": "vcvRVlc_VFg",
-    "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 1209174,
-      "likes": 30768,
-      "comments": 865,
-      "like_to_view_ratio": 0.025445,
-      "comment_to_view_ratio": 0.000715
+      "like_to_view_ratio": 0.033658,
+      "comment_to_view_ratio": 0.002932
     }
   },
   {
@@ -90,67 +76,25 @@
     "url": "https://www.youtube.com/watch?v=1d77LRUS-wc",
     "country": "US",
     "popularity_metrics": {
-      "views": 181093,
-      "likes": 5045,
-      "comments": 266,
-      "like_to_view_ratio": 0.027859,
-      "comment_to_view_ratio": 0.001469
+      "views": 182088,
+      "likes": 5065,
+      "comments": 268,
+      "like_to_view_ratio": 0.027816,
+      "comment_to_view_ratio": 0.001472
     }
   },
   {
-    "workflow": "n8n Just Made Multi Agent AI Way Easier: New AI Agent Tool",
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
     "platform": "YouTube",
-    "source_id": "lW5xEm7iSXk",
-    "url": "https://www.youtube.com/watch?v=lW5xEm7iSXk",
+    "source_id": "vcvRVlc_VFg",
+    "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
     "country": "US",
     "popularity_metrics": {
-      "views": 117022,
-      "likes": 1784,
-      "comments": 87,
-      "like_to_view_ratio": 0.015245,
-      "comment_to_view_ratio": 0.000743
-    }
-  },
-  {
-    "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
-    "platform": "YouTube",
-    "source_id": "ZeJXI2MAhj0",
-    "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 185643,
-      "likes": 5174,
-      "comments": 278,
-      "like_to_view_ratio": 0.027871,
-      "comment_to_view_ratio": 0.001497
-    }
-  },
-  {
-    "workflow": "10 n8n Workflows to Automate Your Entire Business!",
-    "platform": "YouTube",
-    "source_id": "PhVTDydFGo0",
-    "url": "https://www.youtube.com/watch?v=PhVTDydFGo0",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 27423,
-      "likes": 384,
-      "comments": 213,
-      "like_to_view_ratio": 0.014003,
-      "comment_to_view_ratio": 0.007767
-    }
-  },
-  {
-    "workflow": "n8n Quick Start Tutorial: Build Your First AI Agent [2026]",
-    "platform": "YouTube",
-    "source_id": "GuaKeDS6UKU",
-    "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 241365,
-      "likes": 2189,
-      "comments": 69,
-      "like_to_view_ratio": 0.009069,
-      "comment_to_view_ratio": 0.000286
+      "views": 1211723,
+      "likes": 30809,
+      "comments": 865,
+      "like_to_view_ratio": 0.025426,
+      "comment_to_view_ratio": 0.000714
     }
   },
   {
@@ -160,123 +104,25 @@
     "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
     "country": "US",
     "popularity_metrics": {
-      "views": 953174,
-      "likes": 10279,
+      "views": 953573,
+      "likes": 10280,
       "comments": 244,
-      "like_to_view_ratio": 0.010784,
+      "like_to_view_ratio": 0.010781,
       "comment_to_view_ratio": 0.000256
     }
   },
   {
-    "workflow": "How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity",
+    "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
     "platform": "YouTube",
-    "source_id": "lgeXyGR2HJg",
-    "url": "https://www.youtube.com/watch?v=lgeXyGR2HJg",
+    "source_id": "ZeJXI2MAhj0",
+    "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
     "country": "US",
     "popularity_metrics": {
-      "views": 27851,
-      "likes": 1208,
-      "comments": 256,
-      "like_to_view_ratio": 0.043374,
-      "comment_to_view_ratio": 0.009192
-    }
-  },
-  {
-    "workflow": "You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)",
-    "platform": "YouTube",
-    "source_id": "ONgECvZNI3o",
-    "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 2477382,
-      "likes": 94349,
-      "comments": 2594,
-      "like_to_view_ratio": 0.038084,
-      "comment_to_view_ratio": 0.001047
-    }
-  },
-  {
-    "workflow": "n8n will change your life as a developer...",
-    "platform": "YouTube",
-    "source_id": "bS9R6aCVEzw",
-    "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 1147583,
-      "likes": 55266,
-      "comments": 2159,
-      "like_to_view_ratio": 0.048159,
-      "comment_to_view_ratio": 0.001881
-    }
-  },
-  {
-    "workflow": "Build Agents INSTANTLY with n8n's Native Text to Workflow Builder #n8n #artificialintelligence",
-    "platform": "YouTube",
-    "source_id": "rXpHzWXjHrw",
-    "url": "https://www.youtube.com/watch?v=rXpHzWXjHrw",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 27969,
-      "likes": 1278,
-      "comments": 29,
-      "like_to_view_ratio": 0.045693,
-      "comment_to_view_ratio": 0.001037
-    }
-  },
-  {
-    "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
-    "platform": "YouTube",
-    "source_id": "Fy1UCBcgF2o",
-    "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 618275,
-      "likes": 10672,
-      "comments": 255,
-      "like_to_view_ratio": 0.017261,
-      "comment_to_view_ratio": 0.000412
-    }
-  },
-  {
-    "workflow": "How Developers Build n8n Workflows (Made Simple) #techtok #automation #n8n",
-    "platform": "YouTube",
-    "source_id": "D_oWThznAuc",
-    "url": "https://www.youtube.com/watch?v=D_oWThznAuc",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 5353,
-      "likes": 258,
-      "comments": 9,
-      "like_to_view_ratio": 0.048197,
-      "comment_to_view_ratio": 0.001681
-    }
-  },
-  {
-    "workflow": "N8n AI Agents are INSANE!!",
-    "platform": "YouTube",
-    "source_id": "gEElEzKazYA",
-    "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 816396,
-      "likes": 24815,
-      "comments": 446,
-      "like_to_view_ratio": 0.030396,
-      "comment_to_view_ratio": 0.000546
-    }
-  },
-  {
-    "workflow": "These n8n Workflows are INSANE",
-    "platform": "YouTube",
-    "source_id": "WWnuf6jwkRY",
-    "url": "https://www.youtube.com/watch?v=WWnuf6jwkRY",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 2004,
-      "likes": 59,
-      "comments": 9,
-      "like_to_view_ratio": 0.029441,
-      "comment_to_view_ratio": 0.004491
+      "views": 187828,
+      "likes": 5218,
+      "comments": 281,
+      "like_to_view_ratio": 0.027781,
+      "comment_to_view_ratio": 0.001496
     }
   },
   {
@@ -286,39 +132,151 @@
     "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
     "country": "US",
     "popularity_metrics": {
-      "views": 243087,
-      "likes": 10526,
+      "views": 243721,
+      "likes": 10549,
       "comments": 221,
-      "like_to_view_ratio": 0.043301,
-      "comment_to_view_ratio": 0.000909
+      "like_to_view_ratio": 0.043283,
+      "comment_to_view_ratio": 0.000907
     }
   },
   {
-    "workflow": "The ONLY n8n Tutorial You Need for Beginners | How to Build AI Automations for FREE (Step-by-Step)",
+    "workflow": "n8n will change your life as a developer...",
     "platform": "YouTube",
-    "source_id": "uK42llzHjmY",
-    "url": "https://www.youtube.com/watch?v=uK42llzHjmY",
+    "source_id": "bS9R6aCVEzw",
+    "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
     "country": "US",
     "popularity_metrics": {
-      "views": 22835,
-      "likes": 754,
-      "comments": 39,
-      "like_to_view_ratio": 0.033019,
-      "comment_to_view_ratio": 0.001708
+      "views": 1148162,
+      "likes": 55275,
+      "comments": 2159,
+      "like_to_view_ratio": 0.048142,
+      "comment_to_view_ratio": 0.00188
     }
   },
   {
-    "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
+    "workflow": "n8n Just Made Multi Agent AI Way Easier: New AI Agent Tool",
     "platform": "YouTube",
-    "source_id": "Dt6u-yFEpsk",
-    "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
+    "source_id": "lW5xEm7iSXk",
+    "url": "https://www.youtube.com/watch?v=lW5xEm7iSXk",
     "country": "US",
     "popularity_metrics": {
-      "views": 296764,
-      "likes": 5686,
-      "comments": 258,
-      "like_to_view_ratio": 0.01916,
-      "comment_to_view_ratio": 0.000869
+      "views": 117092,
+      "likes": 1785,
+      "comments": 87,
+      "like_to_view_ratio": 0.015244,
+      "comment_to_view_ratio": 0.000743
+    }
+  },
+  {
+    "workflow": "You NEED to Use n8n RIGHT NOW!! (Free, Local, Private)",
+    "platform": "YouTube",
+    "source_id": "ONgECvZNI3o",
+    "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2478476,
+      "likes": 94378,
+      "comments": 2594,
+      "like_to_view_ratio": 0.038079,
+      "comment_to_view_ratio": 0.001047
+    }
+  },
+  {
+    "workflow": "n8n Quick Start Tutorial: Build Your First AI Agent [2026]",
+    "platform": "YouTube",
+    "source_id": "GuaKeDS6UKU",
+    "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 243840,
+      "likes": 2207,
+      "comments": 69,
+      "like_to_view_ratio": 0.009051,
+      "comment_to_view_ratio": 0.000283
+    }
+  },
+  {
+    "workflow": "10 n8n Workflows to Automate Your Entire Business!",
+    "platform": "YouTube",
+    "source_id": "PhVTDydFGo0",
+    "url": "https://www.youtube.com/watch?v=PhVTDydFGo0",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 27463,
+      "likes": 385,
+      "comments": 213,
+      "like_to_view_ratio": 0.014019,
+      "comment_to_view_ratio": 0.007756
+    }
+  },
+  {
+    "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
+    "platform": "YouTube",
+    "source_id": "Fy1UCBcgF2o",
+    "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 618999,
+      "likes": 10681,
+      "comments": 257,
+      "like_to_view_ratio": 0.017255,
+      "comment_to_view_ratio": 0.000415
+    }
+  },
+  {
+    "workflow": "How I built my AI News Assistant ✅ #AI #n8n #ainews #aiautomation #workflow #productivity",
+    "platform": "YouTube",
+    "source_id": "lgeXyGR2HJg",
+    "url": "https://www.youtube.com/watch?v=lgeXyGR2HJg",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 27913,
+      "likes": 1210,
+      "comments": 257,
+      "like_to_view_ratio": 0.043349,
+      "comment_to_view_ratio": 0.009207
+    }
+  },
+  {
+    "workflow": "Master 80% of n8n by Learning Just These 17 Nodes",
+    "platform": "YouTube",
+    "source_id": "tf1mnCVWJkQ",
+    "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 231593,
+      "likes": 7308,
+      "comments": 284,
+      "like_to_view_ratio": 0.031555,
+      "comment_to_view_ratio": 0.001226
+    }
+  },
+  {
+    "workflow": "Create n8n Workflows With Agents | Official MCP",
+    "platform": "YouTube",
+    "source_id": "qgoGuwRpndU",
+    "url": "https://www.youtube.com/watch?v=qgoGuwRpndU",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6102,
+      "likes": 265,
+      "comments": 16,
+      "like_to_view_ratio": 0.043428,
+      "comment_to_view_ratio": 0.002622
+    }
+  },
+  {
+    "workflow": "N8n AI Agents are INSANE!!",
+    "platform": "YouTube",
+    "source_id": "gEElEzKazYA",
+    "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 818379,
+      "likes": 24867,
+      "comments": 446,
+      "like_to_view_ratio": 0.030386,
+      "comment_to_view_ratio": 0.000545
     }
   },
   {
@@ -328,25 +286,67 @@
     "url": "https://www.youtube.com/watch?v=2aC2ly7vKtM",
     "country": "US",
     "popularity_metrics": {
-      "views": 1271493,
-      "likes": 48097,
+      "views": 1272756,
+      "likes": 48154,
       "comments": 537,
-      "like_to_view_ratio": 0.037827,
+      "like_to_view_ratio": 0.037834,
       "comment_to_view_ratio": 0.000422
     }
   },
   {
-    "workflow": "How to Build N8N Workflows with AI in Seconds (No Coding Needed)",
+    "workflow": "Build Agents INSTANTLY with n8n's Native Text to Workflow Builder #n8n #artificialintelligence",
     "platform": "YouTube",
-    "source_id": "BotmxIVpj_s",
-    "url": "https://www.youtube.com/watch?v=BotmxIVpj_s",
+    "source_id": "rXpHzWXjHrw",
+    "url": "https://www.youtube.com/watch?v=rXpHzWXjHrw",
     "country": "US",
     "popularity_metrics": {
-      "views": 4857,
-      "likes": 93,
-      "comments": 64,
-      "like_to_view_ratio": 0.019148,
-      "comment_to_view_ratio": 0.013177
+      "views": 27980,
+      "likes": 1279,
+      "comments": 29,
+      "like_to_view_ratio": 0.045711,
+      "comment_to_view_ratio": 0.001036
+    }
+  },
+  {
+    "workflow": "These n8n Workflows are INSANE",
+    "platform": "YouTube",
+    "source_id": "WWnuf6jwkRY",
+    "url": "https://www.youtube.com/watch?v=WWnuf6jwkRY",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 2006,
+      "likes": 59,
+      "comments": 9,
+      "like_to_view_ratio": 0.029412,
+      "comment_to_view_ratio": 0.004487
+    }
+  },
+  {
+    "workflow": "How Developers Build n8n Workflows (Made Simple) #techtok #automation #n8n",
+    "platform": "YouTube",
+    "source_id": "D_oWThznAuc",
+    "url": "https://www.youtube.com/watch?v=D_oWThznAuc",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 5358,
+      "likes": 258,
+      "comments": 9,
+      "like_to_view_ratio": 0.048152,
+      "comment_to_view_ratio": 0.00168
+    }
+  },
+  {
+    "workflow": "I'll never use n8n the same......",
+    "platform": "YouTube",
+    "source_id": "s96JeuuwLzc",
+    "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 574751,
+      "likes": 17065,
+      "comments": 1539,
+      "like_to_view_ratio": 0.029691,
+      "comment_to_view_ratio": 0.002678
     }
   },
   {
@@ -356,11 +356,11 @@
     "url": "https://www.youtube.com/watch?v=ZcP4BwY9rHw",
     "country": "US",
     "popularity_metrics": {
-      "views": 103952,
+      "views": 104401,
       "likes": 812,
       "comments": 14,
-      "like_to_view_ratio": 0.007811,
-      "comment_to_view_ratio": 0.000135
+      "like_to_view_ratio": 0.007778,
+      "comment_to_view_ratio": 0.000134
     }
   },
   {
@@ -370,11 +370,11 @@
     "url": "https://www.youtube.com/watch?v=0GX7xEeRPIo",
     "country": "US",
     "popularity_metrics": {
-      "views": 8263,
+      "views": 8271,
       "likes": 212,
       "comments": 13,
-      "like_to_view_ratio": 0.025657,
-      "comment_to_view_ratio": 0.001573
+      "like_to_view_ratio": 0.025632,
+      "comment_to_view_ratio": 0.001572
     }
   },
   {
@@ -384,10 +384,10 @@
     "url": "https://www.youtube.com/watch?v=3Ai1EPznlAc",
     "country": "US",
     "popularity_metrics": {
-      "views": 247474,
-      "likes": 4471,
+      "views": 247569,
+      "likes": 4474,
       "comments": 300,
-      "like_to_view_ratio": 0.018067,
+      "like_to_view_ratio": 0.018072,
       "comment_to_view_ratio": 0.001212
     }
   },
@@ -398,39 +398,11 @@
     "url": "https://www.youtube.com/watch?v=cHFKgOmr6rY",
     "country": "US",
     "popularity_metrics": {
-      "views": 10575,
+      "views": 10585,
       "likes": 312,
       "comments": 94,
-      "like_to_view_ratio": 0.029504,
-      "comment_to_view_ratio": 0.008889
-    }
-  },
-  {
-    "workflow": "This Gmail AI Agent classifies/labels incoming Emails and even generates a personal response #n8n",
-    "platform": "YouTube",
-    "source_id": "hxvvl9g7_Zg",
-    "url": "https://www.youtube.com/watch?v=hxvvl9g7_Zg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 30682,
-      "likes": 1098,
-      "comments": 29,
-      "like_to_view_ratio": 0.035786,
-      "comment_to_view_ratio": 0.000945
-    }
-  },
-  {
-    "workflow": "Setup Google Credentials in n8n in 5 Minutes (Google Sheets, Drive, & Gmail)",
-    "platform": "YouTube",
-    "source_id": "lXNIteL16Z0",
-    "url": "https://www.youtube.com/watch?v=lXNIteL16Z0",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 25388,
-      "likes": 887,
-      "comments": 115,
-      "like_to_view_ratio": 0.034938,
-      "comment_to_view_ratio": 0.00453
+      "like_to_view_ratio": 0.029476,
+      "comment_to_view_ratio": 0.00888
     }
   },
   {
@@ -440,11 +412,25 @@
     "url": "https://www.youtube.com/watch?v=l0SiFihbetA",
     "country": "US",
     "popularity_metrics": {
-      "views": 74892,
+      "views": 74953,
       "likes": 1136,
       "comments": 88,
-      "like_to_view_ratio": 0.015169,
-      "comment_to_view_ratio": 0.001175
+      "like_to_view_ratio": 0.015156,
+      "comment_to_view_ratio": 0.001174
+    }
+  },
+  {
+    "workflow": "This Gmail AI Agent classifies/labels incoming Emails and even generates a personal response #n8n",
+    "platform": "YouTube",
+    "source_id": "hxvvl9g7_Zg",
+    "url": "https://www.youtube.com/watch?v=hxvvl9g7_Zg",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 30696,
+      "likes": 1098,
+      "comments": 29,
+      "like_to_view_ratio": 0.03577,
+      "comment_to_view_ratio": 0.000945
     }
   },
   {
@@ -454,11 +440,25 @@
     "url": "https://www.youtube.com/watch?v=IRGXJXhLa_s",
     "country": "US",
     "popularity_metrics": {
-      "views": 3734,
+      "views": 3737,
       "likes": 61,
       "comments": 9,
-      "like_to_view_ratio": 0.016336,
-      "comment_to_view_ratio": 0.00241
+      "like_to_view_ratio": 0.016323,
+      "comment_to_view_ratio": 0.002408
+    }
+  },
+  {
+    "workflow": "Setup Google Credentials in n8n in 5 Minutes (Google Sheets, Drive, & Gmail)",
+    "platform": "YouTube",
+    "source_id": "lXNIteL16Z0",
+    "url": "https://www.youtube.com/watch?v=lXNIteL16Z0",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 25499,
+      "likes": 891,
+      "comments": 115,
+      "like_to_view_ratio": 0.034943,
+      "comment_to_view_ratio": 0.00451
     }
   },
   {
@@ -468,11 +468,11 @@
     "url": "https://www.youtube.com/watch?v=fNBHxZtNPiY",
     "country": "US",
     "popularity_metrics": {
-      "views": 9065,
+      "views": 9063,
       "likes": 136,
       "comments": 34,
-      "like_to_view_ratio": 0.015003,
-      "comment_to_view_ratio": 0.003751
+      "like_to_view_ratio": 0.015006,
+      "comment_to_view_ratio": 0.003752
     }
   },
   {
@@ -482,25 +482,11 @@
     "url": "https://www.youtube.com/watch?v=v-PD0novMJ8",
     "country": "US",
     "popularity_metrics": {
-      "views": 11529,
+      "views": 11531,
       "likes": 141,
       "comments": 39,
-      "like_to_view_ratio": 0.01223,
-      "comment_to_view_ratio": 0.003383
-    }
-  },
-  {
-    "workflow": "How To Build an Email Agent in Under a Minute with n8n  #n8n #agentgpt #artificialintelligence",
-    "platform": "YouTube",
-    "source_id": "PwdayYM_hkU",
-    "url": "https://www.youtube.com/watch?v=PwdayYM_hkU",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 86912,
-      "likes": 2528,
-      "comments": 45,
-      "like_to_view_ratio": 0.029087,
-      "comment_to_view_ratio": 0.000518
+      "like_to_view_ratio": 0.012228,
+      "comment_to_view_ratio": 0.003382
     }
   },
   {
@@ -510,25 +496,11 @@
     "url": "https://www.youtube.com/watch?v=WkltQEhG5_g",
     "country": "US",
     "popularity_metrics": {
-      "views": 30711,
-      "likes": 480,
+      "views": 30734,
+      "likes": 479,
       "comments": 86,
-      "like_to_view_ratio": 0.01563,
-      "comment_to_view_ratio": 0.0028
-    }
-  },
-  {
-    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
-    "platform": "YouTube",
-    "source_id": "_2bfCG9922E",
-    "url": "https://www.youtube.com/watch?v=_2bfCG9922E",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 20485,
-      "likes": 377,
-      "comments": 29,
-      "like_to_view_ratio": 0.018404,
-      "comment_to_view_ratio": 0.001416
+      "like_to_view_ratio": 0.015585,
+      "comment_to_view_ratio": 0.002798
     }
   },
   {
@@ -538,11 +510,39 @@
     "url": "https://www.youtube.com/watch?v=KIJHRq_Tg6o",
     "country": "US",
     "popularity_metrics": {
-      "views": 108564,
-      "likes": 1850,
+      "views": 108686,
+      "likes": 1853,
       "comments": 85,
-      "like_to_view_ratio": 0.017041,
-      "comment_to_view_ratio": 0.000783
+      "like_to_view_ratio": 0.017049,
+      "comment_to_view_ratio": 0.000782
+    }
+  },
+  {
+    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
+    "platform": "YouTube",
+    "source_id": "_2bfCG9922E",
+    "url": "https://www.youtube.com/watch?v=_2bfCG9922E",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 20487,
+      "likes": 377,
+      "comments": 29,
+      "like_to_view_ratio": 0.018402,
+      "comment_to_view_ratio": 0.001416
+    }
+  },
+  {
+    "workflow": "How To Build an Email Agent in Under a Minute with n8n  #n8n #agentgpt #artificialintelligence",
+    "platform": "YouTube",
+    "source_id": "PwdayYM_hkU",
+    "url": "https://www.youtube.com/watch?v=PwdayYM_hkU",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 87124,
+      "likes": 2535,
+      "comments": 45,
+      "like_to_view_ratio": 0.029096,
+      "comment_to_view_ratio": 0.000517
     }
   },
   {
@@ -552,10 +552,10 @@
     "url": "https://www.youtube.com/watch?v=yWU2s3ZfQno",
     "country": "US",
     "popularity_metrics": {
-      "views": 852,
+      "views": 858,
       "likes": 4,
       "comments": 0,
-      "like_to_view_ratio": 0.004695,
+      "like_to_view_ratio": 0.004662,
       "comment_to_view_ratio": 0.0
     }
   },
@@ -566,11 +566,11 @@
     "url": "https://www.youtube.com/watch?v=tSM8NYUKXP4",
     "country": "US",
     "popularity_metrics": {
-      "views": 19112,
+      "views": 19148,
       "likes": 157,
       "comments": 18,
-      "like_to_view_ratio": 0.008215,
-      "comment_to_view_ratio": 0.000942
+      "like_to_view_ratio": 0.008199,
+      "comment_to_view_ratio": 0.00094
     }
   },
   {
@@ -594,11 +594,11 @@
     "url": "https://www.youtube.com/watch?v=ivkwaUrQbXM",
     "country": "US",
     "popularity_metrics": {
-      "views": 9824,
-      "likes": 285,
+      "views": 9837,
+      "likes": 286,
       "comments": 70,
-      "like_to_view_ratio": 0.029011,
-      "comment_to_view_ratio": 0.007125
+      "like_to_view_ratio": 0.029074,
+      "comment_to_view_ratio": 0.007116
     }
   },
   {
@@ -608,11 +608,11 @@
     "url": "https://www.youtube.com/watch?v=988BIzIkhcw",
     "country": "US",
     "popularity_metrics": {
-      "views": 7786,
+      "views": 7789,
       "likes": 189,
       "comments": 21,
-      "like_to_view_ratio": 0.024274,
-      "comment_to_view_ratio": 0.002697
+      "like_to_view_ratio": 0.024265,
+      "comment_to_view_ratio": 0.002696
     }
   },
   {
@@ -622,24 +622,10 @@
     "url": "https://www.youtube.com/watch?v=fmJj5NF1zpA",
     "country": "US",
     "popularity_metrics": {
-      "views": 1727,
+      "views": 1736,
       "likes": 35,
       "comments": 0,
-      "like_to_view_ratio": 0.020266,
-      "comment_to_view_ratio": 0.0
-    }
-  },
-  {
-    "workflow": "n8n Automation Made Simple: Gmail + AI Agent Setup",
-    "platform": "YouTube",
-    "source_id": "HrczDh6tWog",
-    "url": "https://www.youtube.com/watch?v=HrczDh6tWog",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 488,
-      "likes": 10,
-      "comments": 0,
-      "like_to_view_ratio": 0.020492,
+      "like_to_view_ratio": 0.020161,
       "comment_to_view_ratio": 0.0
     }
   },
@@ -650,11 +636,11 @@
     "url": "https://www.youtube.com/watch?v=H1Kt1adcr84",
     "country": "US",
     "popularity_metrics": {
-      "views": 61397,
+      "views": 61423,
       "likes": 1644,
       "comments": 194,
-      "like_to_view_ratio": 0.026777,
-      "comment_to_view_ratio": 0.00316
+      "like_to_view_ratio": 0.026765,
+      "comment_to_view_ratio": 0.003158
     }
   },
   {
@@ -672,16 +658,30 @@
     }
   },
   {
+    "workflow": "n8n Automation Made Simple: Gmail + AI Agent Setup",
+    "platform": "YouTube",
+    "source_id": "HrczDh6tWog",
+    "url": "https://www.youtube.com/watch?v=HrczDh6tWog",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 490,
+      "likes": 10,
+      "comments": 0,
+      "like_to_view_ratio": 0.020408,
+      "comment_to_view_ratio": 0.0
+    }
+  },
+  {
     "workflow": "AI Inbox Organizer for Gmail - Ready to use n8n template",
     "platform": "YouTube",
     "source_id": "L0daoX5b20I",
     "url": "https://www.youtube.com/watch?v=L0daoX5b20I",
     "country": "US",
     "popularity_metrics": {
-      "views": 1415,
+      "views": 1420,
       "likes": 7,
       "comments": 0,
-      "like_to_view_ratio": 0.004947,
+      "like_to_view_ratio": 0.00493,
       "comment_to_view_ratio": 0.0
     }
   },
@@ -692,11 +692,11 @@
     "url": "https://www.youtube.com/watch?v=TFat4IxaQg0",
     "country": "US",
     "popularity_metrics": {
-      "views": 10486,
+      "views": 10500,
       "likes": 214,
       "comments": 36,
-      "like_to_view_ratio": 0.020408,
-      "comment_to_view_ratio": 0.003433
+      "like_to_view_ratio": 0.020381,
+      "comment_to_view_ratio": 0.003429
     }
   },
   {
@@ -706,7 +706,7 @@
     "url": "https://community.n8n.io/t/we-need-your-help-answer-earn/80361",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 66798,
+      "views": 66879,
       "likes": 920,
       "replies": 152,
       "unique_contributors": 0,
@@ -720,7 +720,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 18804,
+      "views": 18820,
       "likes": 101,
       "replies": 0,
       "unique_contributors": 0,
@@ -728,97 +728,13 @@
     }
   },
   {
-    "workflow": "Thinking mode keeps failing",
+    "workflow": "Handling Rate Limits Across Parallel Workflows Without Losing Throughput",
     "platform": "Forum",
-    "source_id": "293181",
-    "url": "https://community.n8n.io/t/thinking-mode-keeps-failing/293181",
+    "source_id": "293419",
+    "url": "https://community.n8n.io/t/handling-rate-limits-across-parallel-workflows-without-losing-throughput/293419",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 9,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Request for n8n Workflow Automation (Google Drive Video Processing)",
-    "platform": "Forum",
-    "source_id": "292947",
-    "url": "https://community.n8n.io/t/request-for-n8n-workflow-automation-google-drive-video-processing/292947",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 60,
-      "likes": 2,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Can't create Salesforce Case without a Type Name value",
-    "platform": "Forum",
-    "source_id": "293182",
-    "url": "https://community.n8n.io/t/cant-create-salesforce-case-without-a-type-name-value/293182",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 10,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Help! Evolution API throws 400 Bad Request [object Object] only on the 2nd item inside an n8n Loop",
-    "platform": "Forum",
-    "source_id": "293177",
-    "url": "https://community.n8n.io/t/help-evolution-api-throws-400-bad-request-object-object-only-on-the-2nd-item-inside-an-n8n-loop/293177",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 9,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Execution guard for n8n workflows — prevents duplicate side effects on retry",
-    "platform": "Forum",
-    "source_id": "291764",
-    "url": "https://community.n8n.io/t/execution-guard-for-n8n-workflows-prevents-duplicate-side-effects-on-retry/291764",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 109,
-      "likes": 8,
-      "replies": 4,
-      "unique_contributors": 0,
-      "engagement_score": 12
-    }
-  },
-  {
-    "workflow": "Read/Write Files from Disk The file \"x\" is not writable",
-    "platform": "Forum",
-    "source_id": "267765",
-    "url": "https://community.n8n.io/t/read-write-files-from-disk-the-file-x-is-not-writable/267765",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 1202,
-      "likes": 3,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 8
-    }
-  },
-  {
-    "workflow": "Handling if errors",
-    "platform": "Forum",
-    "source_id": "293142",
-    "url": "https://community.n8n.io/t/handling-if-errors/293142",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 30,
+      "views": 6,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -826,111 +742,125 @@
     }
   },
   {
-    "workflow": "`workflow exeucution",
+    "workflow": "I Got Local n8n Running in Under Two Minutes Using Codex — Here's Exactly How I Did It",
     "platform": "Forum",
-    "source_id": "293141",
-    "url": "https://community.n8n.io/t/workflow-exeucution/293141",
+    "source_id": "293392",
+    "url": "https://community.n8n.io/t/i-got-local-n8n-running-in-under-two-minutes-using-codex-heres-exactly-how-i-did-it/293392",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 22,
-      "likes": 2,
+      "views": 10,
+      "likes": 5,
       "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Empty resilts",
-    "platform": "Forum",
-    "source_id": "293060",
-    "url": "https://community.n8n.io/t/empty-resilts/293060",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 34,
-      "likes": 4,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Input and Output Never Stop Loading",
-    "platform": "Forum",
-    "source_id": "293003",
-    "url": "https://community.n8n.io/t/input-and-output-never-stop-loading/293003",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 46,
-      "likes": 0,
-      "replies": 6,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Webhook goggle sheet issues",
-    "platform": "Forum",
-    "source_id": "293058",
-    "url": "https://community.n8n.io/t/webhook-goggle-sheet-issues/293058",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 39,
-      "likes": 2,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "N8n Workflow Fails to Resume Safely After Partial Execution (Idempotency & Checkpointing Issue)",
-    "platform": "Forum",
-    "source_id": "293072",
-    "url": "https://community.n8n.io/t/n8n-workflow-fails-to-resume-safely-after-partial-execution-idempotency-checkpointing-issue/293072",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 29,
-      "likes": 4,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "How can I do live chat with n8n support?",
-    "platform": "Forum",
-    "source_id": "293084",
-    "url": "https://community.n8n.io/t/how-can-i-do-live-chat-with-n8n-support/293084",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 36,
-      "likes": 4,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "AWS bedrock invoke using http node not working",
-    "platform": "Forum",
-    "source_id": "292675",
-    "url": "https://community.n8n.io/t/aws-bedrock-invoke-using-http-node-not-working/292675",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 52,
-      "likes": 3,
-      "replies": 2,
       "unique_contributors": 0,
       "engagement_score": 5
     }
   },
   {
-    "workflow": "For each new row in Mysql trigger",
+    "workflow": "Technical Partner for AAA – Rev Share (n8n / APIs / Voice AI)",
     "platform": "Forum",
-    "source_id": "17875",
-    "url": "https://community.n8n.io/t/for-each-new-row-in-mysql-trigger/17875",
+    "source_id": "290574",
+    "url": "https://community.n8n.io/t/technical-partner-for-aaa-rev-share-n8n-apis-voice-ai/290574",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 1485,
+      "views": 98,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Implementing Anthropic-style Agent Skills in n8n: a deep technical walkthrough with Postgres + progressive disclosure",
+    "platform": "Forum",
+    "source_id": "293285",
+    "url": "https://community.n8n.io/t/implementing-anthropic-style-agent-skills-in-n8n-a-deep-technical-walkthrough-with-postgres-progressive-disclosure/293285",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 30,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Keyword-driven profile scraper across Skool, Reddit, Upwork, Twitter/X",
+    "platform": "Forum",
+    "source_id": "290617",
+    "url": "https://community.n8n.io/t/keyword-driven-profile-scraper-across-skool-reddit-upwork-twitter-x/290617",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 139,
+      "likes": 5,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "Projekt: Fullstack-Entwickler für KI-gestützte Voice-SaaS-Lösung gesucht",
+    "platform": "Forum",
+    "source_id": "290426",
+    "url": "https://community.n8n.io/t/projekt-fullstack-entwickler-fur-ki-gestutzte-voice-saas-losung-gesucht/290426",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 139,
+      "likes": 4,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "(HIRING)Automation Engineer Wanted — n8n Core Role — Restaurant Tech Startup",
+    "platform": "Forum",
+    "source_id": "292053",
+    "url": "https://community.n8n.io/t/hiring-automation-engineer-wanted-n8n-core-role-restaurant-tech-startup/292053",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 202,
+      "likes": 4,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Vector nodes store wrong dimension - always 192",
+    "platform": "Forum",
+    "source_id": "293231",
+    "url": "https://community.n8n.io/t/vector-nodes-store-wrong-dimension-always-192/293231",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 30,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Au AI Automation Engineer n8n (EU timezone overlap)",
+    "platform": "Forum",
+    "source_id": "292600",
+    "url": "https://community.n8n.io/t/au-ai-automation-engineer-n8n-eu-timezone-overlap/292600",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 104,
+      "likes": 2,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Freelancer - n8n DevOps – Migrate One-Click Hostinger to Queue Mode (Docker + Redis + PostgreSQL)",
+    "platform": "Forum",
+    "source_id": "291808",
+    "url": "https://community.n8n.io/t/freelancer-n8n-devops-migrate-one-click-hostinger-to-queue-mode-docker-redis-postgresql/291808",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 139,
       "likes": 3,
       "replies": 0,
       "unique_contributors": 0,
@@ -944,7 +874,77 @@
     "url": "https://community.n8n.io/t/hiring-us-tx-founding-engineer-ai-workflows-automation-backend-systems/293082",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 60,
+      "views": 92,
+      "likes": 4,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Request for n8n Workflow Automation (Google Drive Video Processing)",
+    "platform": "Forum",
+    "source_id": "292947",
+    "url": "https://community.n8n.io/t/request-for-n8n-workflow-automation-google-drive-video-processing/292947",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 94,
+      "likes": 4,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Open Collaboration - n8n & Automation Specialists Welcome",
+    "platform": "Forum",
+    "source_id": "290288",
+    "url": "https://community.n8n.io/t/open-collaboration-n8n-automation-specialists-welcome/290288",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 263,
+      "likes": 10,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 10
+    }
+  },
+  {
+    "workflow": "Enable n8n agents to use Agent Skills (SKILL.md + references)",
+    "platform": "Forum",
+    "source_id": "246140",
+    "url": "https://community.n8n.io/t/enable-n8n-agents-to-use-agent-skills-skill-md-references/246140",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 4177,
+      "likes": 11,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 14
+    }
+  },
+  {
+    "workflow": "Input and Output Never Stop Loading",
+    "platform": "Forum",
+    "source_id": "293003",
+    "url": "https://community.n8n.io/t/input-and-output-never-stop-loading/293003",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 67,
+      "likes": 0,
+      "replies": 8,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "I need help with my ai think mode",
+    "platform": "Forum",
+    "source_id": "293262",
+    "url": "https://community.n8n.io/t/i-need-help-with-my-ai-think-mode/293262",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 20,
       "likes": 3,
       "replies": 0,
       "unique_contributors": 0,
@@ -952,17 +952,283 @@
     }
   },
   {
-    "workflow": "Freelancer - n8n DevOps – Migrate One-Click Hostinger to Queue Mode (Docker + Redis + PostgreSQL)",
+    "workflow": "Anyone help me with build my AI agent",
     "platform": "Forum",
-    "source_id": "291808",
-    "url": "https://community.n8n.io/t/freelancer-n8n-devops-migrate-one-click-hostinger-to-queue-mode-docker-redis-postgresql/291808",
+    "source_id": "293228",
+    "url": "https://community.n8n.io/t/anyone-help-me-with-build-my-ai-agent/293228",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 121,
-      "likes": 2,
-      "replies": 0,
+      "views": 34,
+      "likes": 5,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "Workflow re-triggers Gmail Search node after successful completion",
+    "platform": "Forum",
+    "source_id": "293235",
+    "url": "https://community.n8n.io/t/workflow-re-triggers-gmail-search-node-after-successful-completion/293235",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 28,
+      "likes": 0,
+      "replies": 2,
       "unique_contributors": 0,
       "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How To Make The Work Flow Like Below",
+    "platform": "Forum",
+    "source_id": "293257",
+    "url": "https://community.n8n.io/t/how-to-make-the-work-flow-like-below/293257",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 40,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Whatsapp AI Agent for Selling",
+    "platform": "Forum",
+    "source_id": "197879",
+    "url": "https://community.n8n.io/t/whatsapp-ai-agent-for-selling/197879",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 485,
+      "likes": 5,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "Freelancer - n8n Automation Expert – Gmail / Google Sheets / Slack / AI Email Classification",
+    "platform": "Forum",
+    "source_id": "289856",
+    "url": "https://community.n8n.io/t/freelancer-n8n-automation-expert-gmail-google-sheets-slack-ai-email-classification/289856",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 349,
+      "likes": 11,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 11
+    }
+  },
+  {
+    "workflow": "Finished Level 1 Exam - Haven't received results/certificate",
+    "platform": "Forum",
+    "source_id": "290424",
+    "url": "https://community.n8n.io/t/finished-level-1-exam-havent-received-results-certificate/290424",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 117,
+      "likes": 2,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "Looking for skilled n8n freelancers",
+    "platform": "Forum",
+    "source_id": "287113",
+    "url": "https://community.n8n.io/t/looking-for-skilled-n8n-freelancers/287113",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 428,
+      "likes": 6,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 13
+    }
+  },
+  {
+    "workflow": "Thinking mode keeps failing",
+    "platform": "Forum",
+    "source_id": "293181",
+    "url": "https://community.n8n.io/t/thinking-mode-keeps-failing/293181",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 61,
+      "likes": 1,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Is it possible to use newly added sonnet models with Azure AI Foundry using Azure OpenAI Chat Model?",
+    "platform": "Forum",
+    "source_id": "223806",
+    "url": "https://community.n8n.io/t/is-it-possible-to-use-newly-added-sonnet-models-with-azure-ai-foundry-using-azure-openai-chat-model/223806",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 560,
+      "likes": 17,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 19
+    }
+  },
+  {
+    "workflow": "Messenger API Webhook Message to n8n",
+    "platform": "Forum",
+    "source_id": "282081",
+    "url": "https://community.n8n.io/t/messenger-api-webhook-message-to-n8n/282081",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 93,
+      "likes": 1,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Issue with updating credentials via Public API (Contradictory \"allowedDomains\" errors)",
+    "platform": "Forum",
+    "source_id": "293219",
+    "url": "https://community.n8n.io/t/issue-with-updating-credentials-via-public-api-contradictory-alloweddomains-errors/293219",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 21,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Help! Evolution API throws 400 Bad Request [object Object] only on the 2nd item inside an n8n Loop",
+    "platform": "Forum",
+    "source_id": "293177",
+    "url": "https://community.n8n.io/t/help-evolution-api-throws-400-bad-request-object-object-only-on-the-2nd-item-inside-an-n8n-loop/293177",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 27,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Can't create Salesforce Case without a Type Name value",
+    "platform": "Forum",
+    "source_id": "293182",
+    "url": "https://community.n8n.io/t/cant-create-salesforce-case-without-a-type-name-value/293182",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 40,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Handling if errors",
+    "platform": "Forum",
+    "source_id": "293142",
+    "url": "https://community.n8n.io/t/handling-if-errors/293142",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 52,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Execution guard for n8n workflows — prevents duplicate side effects on retry",
+    "platform": "Forum",
+    "source_id": "291764",
+    "url": "https://community.n8n.io/t/execution-guard-for-n8n-workflows-prevents-duplicate-side-effects-on-retry/291764",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 119,
+      "likes": 8,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 12
+    }
+  },
+  {
+    "workflow": "Read/Write Files from Disk The file \"x\" is not writable",
+    "platform": "Forum",
+    "source_id": "267765",
+    "url": "https://community.n8n.io/t/read-write-files-from-disk-the-file-x-is-not-writable/267765",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1222,
+      "likes": 3,
+      "replies": 5,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "N8n Workflow Fails to Resume Safely After Partial Execution (Idempotency & Checkpointing Issue)",
+    "platform": "Forum",
+    "source_id": "293072",
+    "url": "https://community.n8n.io/t/n8n-workflow-fails-to-resume-safely-after-partial-execution-idempotency-checkpointing-issue/293072",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 38,
+      "likes": 4,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "How can I do live chat with n8n support?",
+    "platform": "Forum",
+    "source_id": "293084",
+    "url": "https://community.n8n.io/t/how-can-i-do-live-chat-with-n8n-support/293084",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 45,
+      "likes": 4,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "AWS bedrock invoke using http node not working",
+    "platform": "Forum",
+    "source_id": "292675",
+    "url": "https://community.n8n.io/t/aws-bedrock-invoke-using-http-node-not-working/292675",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 55,
+      "likes": 3,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "For each new row in Mysql trigger",
+    "platform": "Forum",
+    "source_id": "17875",
+    "url": "https://community.n8n.io/t/for-each-new-row-in-mysql-trigger/17875",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 1486,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
     }
   },
   {
@@ -972,11 +1238,11 @@
     "url": "https://community.n8n.io/t/cache-promlem/293081",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 40,
-      "likes": 0,
+      "views": 48,
+      "likes": 1,
       "replies": 4,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 5
     }
   },
   {
@@ -986,7 +1252,7 @@
     "url": "https://community.n8n.io/t/implementing-a-fuzzy-logic-decision-engine-in-n8n/293007",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 14,
+      "views": 19,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -1000,7 +1266,7 @@
     "url": "https://community.n8n.io/t/discord-trigger-node/136314",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 4147,
+      "views": 4162,
       "likes": 2,
       "replies": 3,
       "unique_contributors": 0,
@@ -1014,11 +1280,11 @@
     "url": "https://community.n8n.io/t/subworkflow-from-template/292797",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 36,
-      "likes": 1,
+      "views": 37,
+      "likes": 3,
       "replies": 3,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 6
     }
   },
   {
@@ -1042,7 +1308,7 @@
     "url": "https://community.n8n.io/t/bug-with-an-official-node-not-showing-up-in-n8n-templates-and-search-results-please-help/251467",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 296,
+      "views": 299,
       "likes": 5,
       "replies": 19,
       "unique_contributors": 0,
@@ -1056,7 +1322,7 @@
     "url": "https://community.n8n.io/t/built-a-business-card-scanner-for-my-ceo-finally-one-that-handles-30-cards-in-a-single-photo/293064",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 19,
+      "views": 28,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -1070,7 +1336,7 @@
     "url": "https://community.n8n.io/t/handle-errors/293054",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 25,
+      "views": 29,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -1098,7 +1364,7 @@
     "url": "https://community.n8n.io/t/filter-my-multiple-senders-in-get-many-messages-at-gmail-node/293049",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 23,
+      "views": 24,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -1112,7 +1378,7 @@
     "url": "https://community.n8n.io/t/problem-connecting-n8n-to-telegram-on-hostinger/250058",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 324,
+      "views": 326,
       "likes": 11,
       "replies": 8,
       "unique_contributors": 0,
@@ -1134,272 +1400,6 @@
     }
   },
   {
-    "workflow": "Question about using tools to create workflows fast",
-    "platform": "Forum",
-    "source_id": "293035",
-    "url": "https://community.n8n.io/t/question-about-using-tools-to-create-workflows-fast/293035",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 32,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Snowflake Insert node stopped working after update to 2.17.5",
-    "platform": "Forum",
-    "source_id": "290608",
-    "url": "https://community.n8n.io/t/snowflake-insert-node-stopped-working-after-update-to-2-17-5/290608",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 104,
-      "likes": 1,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "How to implement recursion/looping for HTTP requests in n8n?",
-    "platform": "Forum",
-    "source_id": "292909",
-    "url": "https://community.n8n.io/t/how-to-implement-recursion-looping-for-http-requests-in-n8n/292909",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 43,
-      "likes": 0,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Looking for skilled n8n freelancers",
-    "platform": "Forum",
-    "source_id": "287113",
-    "url": "https://community.n8n.io/t/looking-for-skilled-n8n-freelancers/287113",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 377,
-      "likes": 6,
-      "replies": 7,
-      "unique_contributors": 0,
-      "engagement_score": 13
-    }
-  },
-  {
-    "workflow": "N8n compiler, transforming workflows into reusable scripts",
-    "platform": "Forum",
-    "source_id": "293025",
-    "url": "https://community.n8n.io/t/n8n-compiler-transforming-workflows-into-reusable-scripts/293025",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 28,
-      "likes": 0,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "WhatsApp issue",
-    "platform": "Forum",
-    "source_id": "292129",
-    "url": "https://community.n8n.io/t/whatsapp-issue/292129",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 125,
-      "likes": 5,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "Migrating from node.js to docker install, recovering data",
-    "platform": "Forum",
-    "source_id": "292661",
-    "url": "https://community.n8n.io/t/migrating-from-node-js-to-docker-install-recovering-data/292661",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 67,
-      "likes": 4,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 7
-    }
-  },
-  {
-    "workflow": "Looking for n8n developer to finish AI booking Agent",
-    "platform": "Forum",
-    "source_id": "274545",
-    "url": "https://community.n8n.io/t/looking-for-n8n-developer-to-finish-ai-booking-agent/274545",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 417,
-      "likes": 6,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "How to read Matrix messages in n8n?",
-    "platform": "Forum",
-    "source_id": "292930",
-    "url": "https://community.n8n.io/t/how-to-read-matrix-messages-in-n8n/292930",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 21,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Connection lost - cloud hosted",
-    "platform": "Forum",
-    "source_id": "292228",
-    "url": "https://community.n8n.io/t/connection-lost-cloud-hosted/292228",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 55,
-      "likes": 5,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 10
-    }
-  },
-  {
-    "workflow": "Credentials dynamically",
-    "platform": "Forum",
-    "source_id": "292945",
-    "url": "https://community.n8n.io/t/credentials-dynamically/292945",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 22,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Need help with Google Drive (pardon my English)",
-    "platform": "Forum",
-    "source_id": "292979",
-    "url": "https://community.n8n.io/t/need-help-with-google-drive-pardon-my-english/292979",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 19,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Best approach for AI-powered content-aware cropping of 7000+ wallpaper images?",
-    "platform": "Forum",
-    "source_id": "292949",
-    "url": "https://community.n8n.io/t/best-approach-for-ai-powered-content-aware-cropping-of-7000-wallpaper-images/292949",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 27,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "AI Agent based Playwright MCP using credentials",
-    "platform": "Forum",
-    "source_id": "172708",
-    "url": "https://community.n8n.io/t/ai-agent-based-playwright-mcp-using-credentials/172708",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 2189,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Subject: Gemini Node Issue: \"Resource not found\" - Only \"2.5-flash\" available in dropdown instead of \"1.5\"",
-    "platform": "Forum",
-    "source_id": "292942",
-    "url": "https://community.n8n.io/t/subject-gemini-node-issue-resource-not-found-only-2-5-flash-available-in-dropdown-instead-of-1-5/292942",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 19,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Urgent: Cannot access old n8n.cloud instance with Google login, need help exporting workflows",
-    "platform": "Forum",
-    "source_id": "292936",
-    "url": "https://community.n8n.io/t/urgent-cannot-access-old-n8n-cloud-instance-with-google-login-need-help-exporting-workflows/292936",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 19,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "AI Agent node error: \"Cannot read properties of undefined (reading 'message')\" when using OpenRouter model",
-    "platform": "Forum",
-    "source_id": "292934",
-    "url": "https://community.n8n.io/t/ai-agent-node-error-cannot-read-properties-of-undefined-reading-message-when-using-openrouter-model/292934",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 20,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "My Workflows Deleted - Critical Issue with Instance: fatihseidaa.app.n8n.cloud",
-    "platform": "Forum",
-    "source_id": "292932",
-    "url": "https://community.n8n.io/t/my-workflows-deleted-critical-issue-with-instance-fatihseidaa-app-n8n-cloud/292932",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 20,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "[Bug?] \"terminated\" error with Ollama Embeddings + Qdrant toolVectorStore — no crash, no SIGTERM in logs",
-    "platform": "Forum",
-    "source_id": "292590",
-    "url": "https://community.n8n.io/t/bug-terminated-error-with-ollama-embeddings-qdrant-toolvectorstore-no-crash-no-sigterm-in-logs/292590",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 34,
-      "likes": 2,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
     "workflow": "n8n workflow",
     "platform": "Google",
     "source_id": "n8n workflow",
@@ -1407,7 +1407,6 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        15,
         17,
         15,
         14,
@@ -1416,11 +1415,12 @@
         13,
         13,
         13,
-        9
+        10,
+        11
       ],
-      "start_value": 69,
-      "end_value": 9,
-      "trend_percentage_change": -86.96
+      "start_value": 72,
+      "end_value": 11,
+      "trend_percentage_change": -84.72
     }
   },
   {
@@ -1431,20 +1431,20 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        17,
         14,
+        17,
         16,
-        14,
-        15,
-        15,
         15,
         13,
-        11,
+        12,
         14,
-        7
+        9,
+        10
       ],
-      "start_value": 66,
-      "end_value": 7,
-      "trend_percentage_change": -89.39
+      "start_value": 43,
+      "end_value": 10,
+      "trend_percentage_change": -76.74
     }
   },
   {
@@ -1455,20 +1455,20 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        10,
+        10,
+        10,
+        10,
         12,
         9,
-        15,
-        12,
-        10,
-        13,
-        10,
-        8,
-        5,
+        7,
+        6,
+        7,
         0
       ],
-      "start_value": 71,
+      "start_value": 0,
       "end_value": 0,
-      "trend_percentage_change": -100.0
+      "trend_percentage_change": 0
     }
   },
   {
@@ -1479,18 +1479,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        16,
         10,
-        13,
+        9,
+        9,
         9,
         7,
         9,
-        7,
-        6,
         7,
         4,
         0
       ],
-      "start_value": 54,
+      "start_value": 42,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -1503,13 +1503,13 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        10,
+        6,
+        0,
+        6,
+        7,
         6,
         8,
-        6,
-        0,
-        0,
-        6,
-        0,
         7,
         0,
         0
@@ -1527,15 +1527,15 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        9,
-        13,
+        12,
+        12,
+        12,
         10,
         10,
-        9,
+        8,
         7,
-        6,
-        6,
-        6,
+        7,
+        0,
         0
       ],
       "start_value": 0,
@@ -1558,7 +1558,7 @@
         0,
         0,
         0,
-        85,
+        6,
         0,
         0
       ],
@@ -1575,19 +1575,19 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        9,
-        7,
-        7,
-        7,
         8,
+        6,
+        5,
         7,
         5,
         4,
-        8,
-        0
+        0,
+        5,
+        4,
+        12
       ],
       "start_value": 0,
-      "end_value": 0,
+      "end_value": 12,
       "trend_percentage_change": 0
     }
   },
@@ -1601,18 +1601,18 @@
       "trend_values": [
         8,
         9,
+        10,
         9,
         8,
-        9,
-        7,
-        7,
+        8,
         6,
         4,
-        5
+        3,
+        0
       ],
-      "start_value": 59,
-      "end_value": 5,
-      "trend_percentage_change": -91.53
+      "start_value": 37,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
     }
   },
   {
@@ -1623,14 +1623,14 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        95,
         0,
         0,
         0,
         0,
         0,
         0,
-        91,
+        0,
+        0,
         0,
         0
       ],
@@ -1647,19 +1647,19 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        10,
-        8,
         6,
         6,
-        9,
-        14,
-        8,
         6,
         5,
-        0
+        7,
+        7,
+        6,
+        5,
+        0,
+        13
       ],
       "start_value": 0,
-      "end_value": 0,
+      "end_value": 13,
       "trend_percentage_change": 0
     }
   }
