@@ -1,216 +1,84 @@
 [
   {
-    "workflow": "n8n webhook",
+    "workflow": "n8n workflow",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        9,
-        7,
-        7,
-        8,
-        6,
-        7,
-        6,
-        5,
-        2,
-        0
-      ],
-      "start_value": 35,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n webhook",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        8,
-        8,
-        5,
-        9,
-        5,
+        14,
+        14,
+        13,
+        13,
+        13,
+        13,
         10,
-        7,
-        6,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n whatsapp",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        7,
         9,
-        6,
-        6,
-        5,
-        5,
-        4,
-        3,
-        0,
-        0
+        9,
+        7
       ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
+      "start_value": 60,
+      "end_value": 7,
+      "trend_percentage_change": -88.33
     }
   },
   {
-    "workflow": "n8n whatsapp",
+    "workflow": "n8n workflow",
     "platform": "GoogleTrends",
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        36,
         28,
-        18,
         26,
+        31,
+        35,
+        27,
+        27,
+        24,
         23,
-        24,
-        24,
-        22,
-        19,
-        23
+        23,
+        15
       ],
-      "start_value": 0,
-      "end_value": 23,
-      "trend_percentage_change": 0
+      "start_value": 56,
+      "end_value": 15,
+      "trend_percentage_change": -73.21
     }
   },
   {
-    "workflow": "n8n airtable",
+    "workflow": "n8n automation",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n airtable",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        7,
-        7,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n google sheets",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        5,
-        5,
-        6,
-        3,
-        4,
-        3,
-        5,
-        4,
-        8,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n google sheets",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        8,
-        5,
+        16,
+        16,
+        16,
+        13,
+        12,
+        13,
+        10,
         9,
         7,
+        6
+      ],
+      "start_value": 50,
+      "end_value": 6,
+      "trend_percentage_change": -88.0
+    }
+  },
+  {
+    "workflow": "n8n gmail",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
         10,
         7,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n integration",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        8,
-        12,
         11,
         8,
+        7,
+        6,
         8,
-        7,
-        5,
-        6,
-        5,
-        0
-      ],
-      "start_value": 62,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n integration",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        7,
-        6,
-        0,
-        6,
-        5,
-        5,
-        7,
-        0,
+        9,
         4,
         0
       ],
@@ -220,20 +88,42 @@
     }
   },
   {
-    "workflow": "n8n cron",
+    "workflow": "n8n webhook",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        9,
+        10,
+        10,
+        8,
+        7,
+        8,
+        4,
+        6,
+        9,
+        0
+      ],
+      "start_value": 64,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
+    }
+  },
+  {
+    "workflow": "n8n tutorial",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        5,
+        6,
+        8,
+        7,
+        6,
+        5,
+        5,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        5,
         0
       ],
       "start_value": 0,
@@ -244,39 +134,17 @@
   {
     "workflow": "n8n tutorial",
     "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        8,
-        7,
-        7,
-        11,
-        7,
-        7,
-        5,
-        7,
-        4,
-        0
-      ],
-      "start_value": 100,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n tutorial",
-    "platform": "GoogleTrends",
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        41,
+        54,
+        64,
+        82,
+        78,
+        44,
+        68,
         0,
-        71,
-        100,
-        81,
-        0,
-        65,
-        0,
+        70,
         0,
         0
       ],
