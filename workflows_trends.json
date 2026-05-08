@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "workflow": "n8n workflow",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        12,
+        13,
+        10,
+        9,
+        9,
+        10,
+        13,
+        13,
+        12,
+        9
+      ],
+      "start_value": 57,
+      "end_value": 9,
+      "trend_percentage_change": -84.21
+    }
+  }
+]
