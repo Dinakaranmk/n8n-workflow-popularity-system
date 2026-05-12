@@ -1,41 +1,85 @@
 [
   {
-    "workflow": "n8n workflow",
+    "workflow": "n8n gmail",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        8,
+        5,
         10,
-        9,
-        10,
-        12,
         13,
-        11,
-        10,
         9,
+        13,
+        5,
         10,
-        15
+        11,
+        20
       ],
-      "start_value": 52,
-      "end_value": 15,
-      "trend_percentage_change": -71.15
+      "start_value": 0,
+      "end_value": 20,
+      "trend_percentage_change": 0
     }
   },
   {
-    "workflow": "n8n airtable",
+    "workflow": "n8n google sheets",
     "platform": "GoogleTrends",
-    "country": "IN",
+    "country": "US",
     "popularity_metrics": {
       "trend_values": [
         0,
+        4,
+        4,
+        7,
+        6,
+        5,
+        5,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3,
+        0
+      ],
+      "start_value": 48,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
+    }
+  },
+  {
+    "workflow": "n8n integration",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        5,
+        3,
+        6,
+        8,
+        5,
+        5,
+        6,
+        5,
+        9,
+        8
+      ],
+      "start_value": 46,
+      "end_value": 8,
+      "trend_percentage_change": -82.61
+    }
+  },
+  {
+    "workflow": "n8n tutorial",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        5,
+        6,
+        6,
+        8,
+        8,
+        8,
+        5,
+        8,
+        6,
         0
       ],
       "start_value": 0,
