@@ -1,24 +1,24 @@
 [
   {
-    "workflow": "n8n gmail",
+    "workflow": "n8n workflow",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        8,
-        5,
         10,
         13,
-        9,
         13,
-        5,
+        12,
+        9,
+        10,
         10,
         11,
-        20
+        12,
+        13
       ],
-      "start_value": 0,
-      "end_value": 20,
-      "trend_percentage_change": 0
+      "start_value": 52,
+      "end_value": 13,
+      "trend_percentage_change": -75.0
     }
   },
   {
@@ -27,18 +27,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        0,
-        4,
-        4,
+        5,
+        5,
         7,
+        4,
+        5,
+        7,
+        4,
+        5,
         6,
-        5,
-        5,
-        0,
-        3,
         0
       ],
-      "start_value": 48,
+      "start_value": 56,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -46,23 +46,45 @@
   {
     "workflow": "n8n integration",
     "platform": "GoogleTrends",
-    "country": "US",
+    "country": "IN",
     "popularity_metrics": {
       "trend_values": [
         5,
-        3,
-        6,
+        7,
+        4,
+        0,
         8,
+        4,
         5,
-        5,
-        6,
-        5,
-        9,
-        8
+        4,
+        4,
+        0
       ],
-      "start_value": 46,
-      "end_value": 8,
-      "trend_percentage_change": -82.61
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n cron",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
     }
   },
   {
@@ -72,14 +94,14 @@
     "popularity_metrics": {
       "trend_values": [
         5,
+        4,
         6,
-        6,
-        8,
-        8,
-        8,
-        5,
-        8,
-        6,
+        7,
+        4,
+        0,
+        4,
+        7,
+        4,
         0
       ],
       "start_value": 0,
