@@ -1,1 +1,90 @@
-[]
+[
+  {
+    "workflow": "n8n airtable",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        99,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n google sheets",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        8,
+        8,
+        9,
+        7,
+        8,
+        5,
+        9,
+        6,
+        6,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n integration",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        15,
+        11,
+        16,
+        14,
+        9,
+        10,
+        12,
+        9,
+        11,
+        12
+      ],
+      "start_value": 84,
+      "end_value": 12,
+      "trend_percentage_change": -85.71
+    }
+  },
+  {
+    "workflow": "n8n integration",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
+        7,
+        9,
+        9,
+        10,
+        10,
+        6,
+        5,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  }
+]
