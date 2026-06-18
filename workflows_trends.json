@@ -1,150 +1,18 @@
 [
   {
-    "workflow": "n8n workflow",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        30,
-        28,
-        28,
-        30,
-        28,
-        27,
-        22,
-        26,
-        27,
-        20
-      ],
-      "start_value": 61,
-      "end_value": 20,
-      "trend_percentage_change": -67.21
-    }
-  },
-  {
-    "workflow": "n8n automation",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        39,
-        39,
-        40,
-        40,
-        37,
-        32,
-        29,
-        34,
-        38,
-        33
-      ],
-      "start_value": 97,
-      "end_value": 33,
-      "trend_percentage_change": -65.98
-    }
-  },
-  {
-    "workflow": "n8n gmail",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        20,
-        20,
-        17,
-        18,
-        17,
-        17,
-        24,
-        16,
-        19,
-        13
-      ],
-      "start_value": 0,
-      "end_value": 13,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n webhook",
+    "workflow": "n8n tutorial",
     "platform": "GoogleTrends",
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        13,
-        20,
-        16,
-        13,
-        10,
-        11,
-        14,
-        13,
-        14,
-        10
-      ],
-      "start_value": 82,
-      "end_value": 10,
-      "trend_percentage_change": -87.8
-    }
-  },
-  {
-    "workflow": "n8n whatsapp",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        24,
-        26,
-        25,
-        20,
-        26,
-        24,
-        22,
-        24,
-        28,
-        35
-      ],
-      "start_value": 0,
-      "end_value": 35,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n integration",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        14,
-        17,
-        16,
-        9,
         11,
         11,
-        10,
-        11,
-        12,
-        14
-      ],
-      "start_value": 100,
-      "end_value": 14,
-      "trend_percentage_change": -86.0
-    }
-  },
-  {
-    "workflow": "n8n integration",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        10,
         6,
-        7,
-        9,
-        5,
-        4,
         0,
+        8,
+        10,
         6,
+        11,
         0,
         0
       ],
