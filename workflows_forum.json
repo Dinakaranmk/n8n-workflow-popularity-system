@@ -6,7 +6,7 @@
     "url": "https://community.n8n.io/t/introducing-the-ai-assistant-the-workflow-building-agent-inside-n8n/302667",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 400,
+      "views": 535,
       "likes": 19,
       "replies": 0,
       "unique_contributors": 0,
@@ -20,11 +20,11 @@
     "url": "https://community.n8n.io/t/ai-assistant-on-self-hosted-n8n-early-setup-instructions/302663",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 340,
-      "likes": 11,
+      "views": 417,
+      "likes": 12,
       "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 11
+      "engagement_score": 12
     }
   },
   {
@@ -34,7 +34,7 @@
     "url": "https://community.n8n.io/t/icymi-the-docs-now-have-a-changelog/302591",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 102,
+      "views": 129,
       "likes": 5,
       "replies": 0,
       "unique_contributors": 0,
@@ -48,7 +48,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 19684,
+      "views": 19692,
       "likes": 110,
       "replies": 0,
       "unique_contributors": 0,
@@ -56,17 +56,101 @@
     }
   },
   {
-    "workflow": "Not getting output for stdout or stderr on windows",
+    "workflow": "Observability Across a Large Multi-Tenant n8n Platform",
     "platform": "Forum",
-    "source_id": 302749,
-    "url": "https://community.n8n.io/t/not-getting-output-for-stdout-or-stderr-on-windows/302749",
+    "source_id": 302867,
+    "url": "https://community.n8n.io/t/observability-across-a-large-multi-tenant-n8n-platform/302867",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 40,
-      "likes": 0,
-      "replies": 2,
+      "views": 21,
+      "likes": 1,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 2
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "AI Assistant isn't working. What should I do?",
+    "platform": "Forum",
+    "source_id": 302853,
+    "url": "https://community.n8n.io/t/ai-assistant-isnt-working-what-should-i-do/302853",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 45,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Support for renewal",
+    "platform": "Forum",
+    "source_id": 302752,
+    "url": "https://community.n8n.io/t/support-for-renewal/302752",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 59,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "OpenTelemetry: represent Continue-On-Fail node errors with OTel error semantics (they currently export as OK)",
+    "platform": "Forum",
+    "source_id": 302670,
+    "url": "https://community.n8n.io/t/opentelemetry-represent-continue-on-fail-node-errors-with-otel-error-semantics-they-currently-export-as-ok/302670",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 106,
+      "likes": 3,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Attempting to solve silent failures: how we're detecting runs n8n marks green but broke",
+    "platform": "Forum",
+    "source_id": 302654,
+    "url": "https://community.n8n.io/t/attempting-to-solve-silent-failures-how-were-detecting-runs-n8n-marks-green-but-broke/302654",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 82,
+      "likes": 4,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "Oferta de trabajo",
+    "platform": "Forum",
+    "source_id": 302193,
+    "url": "https://community.n8n.io/t/oferta-de-trabajo/302193",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 328,
+      "likes": 3,
+      "replies": 11,
+      "unique_contributors": 0,
+      "engagement_score": 14
+    }
+  },
+  {
+    "workflow": "N8n到底真免费吗？",
+    "platform": "Forum",
+    "source_id": 302849,
+    "url": "https://community.n8n.io/t/n8n/302849",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 57,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
     }
   },
   {
@@ -76,11 +160,95 @@
     "url": "https://community.n8n.io/t/way-to-implement-observability-across-a-large-multi-tenant-n8n-platform/302729",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 59,
+      "views": 90,
       "likes": 2,
       "replies": 1,
       "unique_contributors": 0,
       "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Instrument Nodes which make use of http request or db queries",
+    "platform": "Forum",
+    "source_id": 302847,
+    "url": "https://community.n8n.io/t/instrument-nodes-which-make-use-of-http-request-or-db-queries/302847",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 40,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Not getting output for stdout or stderr on windows",
+    "platform": "Forum",
+    "source_id": 302749,
+    "url": "https://community.n8n.io/t/not-getting-output-for-stdout-or-stderr-on-windows/302749",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 96,
+      "likes": 0,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 6
+    }
+  },
+  {
+    "workflow": "Support Logs and Metrics in OpenTelemetry and add support for standard otel variables",
+    "platform": "Forum",
+    "source_id": 302827,
+    "url": "https://community.n8n.io/t/support-logs-and-metrics-in-opentelemetry-and-add-support-for-standard-otel-variables/302827",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 43,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Undefined value in edit fields node",
+    "platform": "Forum",
+    "source_id": 302658,
+    "url": "https://community.n8n.io/t/undefined-value-in-edit-fields-node/302658",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 77,
+      "likes": 2,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Strategy for Handling Cross-Tenant Resource Contention in a Large Multi-Tenant",
+    "platform": "Forum",
+    "source_id": 302371,
+    "url": "https://community.n8n.io/t/strategy-for-handling-cross-tenant-resource-contention-in-a-large-multi-tenant/302371",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 96,
+      "likes": 8,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 8
+    }
+  },
+  {
+    "workflow": "How to sign in to new n8n academy?",
+    "platform": "Forum",
+    "source_id": 301269,
+    "url": "https://community.n8n.io/t/how-to-sign-in-to-new-n8n-academy/301269",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 88,
+      "likes": 4,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 5
     }
   },
   {
@@ -90,7 +258,7 @@
     "url": "https://community.n8n.io/t/seeking-a-reliable-n8n-developer-for-ongoing-project-based-work-build-maintain/296828",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 1219,
+      "views": 1243,
       "likes": 7,
       "replies": 2,
       "unique_contributors": 0,
@@ -104,25 +272,11 @@
     "url": "https://community.n8n.io/t/available-for-hire-n8n-claude-llm-automation-developer-python-api-integrations-async-utc-3-en-es/302784",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 22,
+      "views": 47,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Oferta de trabajo",
-    "platform": "Forum",
-    "source_id": 302193,
-    "url": "https://community.n8n.io/t/oferta-de-trabajo/302193",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 281,
-      "likes": 3,
-      "replies": 11,
-      "unique_contributors": 0,
-      "engagement_score": 14
     }
   },
   {
@@ -132,7 +286,7 @@
     "url": "https://community.n8n.io/t/whats-your-most-profitable-n8n-workflow-whats-your-most-profitable-n8n-workflow/302570",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 99,
+      "views": 115,
       "likes": 11,
       "replies": 4,
       "unique_contributors": 0,
@@ -146,11 +300,11 @@
     "url": "https://community.n8n.io/t/why-are-nodes-failing-to-emit-during-a-live-execution-and-throw-no-errors/302554",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 108,
-      "likes": 2,
+      "views": 125,
+      "likes": 3,
       "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 5
     }
   },
   {
@@ -160,7 +314,7 @@
     "url": "https://community.n8n.io/t/http-credential-validation-workaround/302778",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 23,
+      "views": 42,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -174,7 +328,7 @@
     "url": "https://community.n8n.io/t/instance-level-mcp-oauth-re-auth-fails-with-invalid-target-on-n8n-2-29-7-works-on-earlier-version/302460",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 162,
+      "views": 182,
       "likes": 5,
       "replies": 2,
       "unique_contributors": 0,
@@ -188,7 +342,7 @@
     "url": "https://community.n8n.io/t/n8n-builder-wanted-ai-automation-agency-india/297943",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 585,
+      "views": 601,
       "likes": 9,
       "replies": 0,
       "unique_contributors": 0,
@@ -202,25 +356,11 @@
     "url": "https://community.n8n.io/t/triggers-for-supabase-realtime/152336",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 341,
+      "views": 353,
       "likes": 1,
       "replies": 3,
       "unique_contributors": 0,
       "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "OpenTelemetry: represent Continue-On-Fail node errors with OTel error semantics (they currently export as OK)",
-    "platform": "Forum",
-    "source_id": 302670,
-    "url": "https://community.n8n.io/t/opentelemetry-represent-continue-on-fail-node-errors-with-otel-error-semantics-they-currently-export-as-ok/302670",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 67,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
     }
   },
   {
@@ -230,7 +370,7 @@
     "url": "https://community.n8n.io/t/erase-column-value-in-data-table-so-its-empty-null/302772",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 20,
+      "views": 23,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -244,7 +384,7 @@
     "url": "https://community.n8n.io/t/lost-access-to-folders/302771",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 39,
+      "views": 53,
       "likes": 1,
       "replies": 1,
       "unique_contributors": 0,
@@ -258,7 +398,7 @@
     "url": "https://community.n8n.io/t/ai-assistant-caido-instance-ai-credits-returns-500/302648",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 80,
+      "views": 98,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -272,7 +412,7 @@
     "url": "https://community.n8n.io/t/can-n8n-coordinate-an-ai-agent-workflow-for-sketchup-3d-modelling-and-twinmotion-construction-animation/302526",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 51,
+      "views": 58,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -286,7 +426,7 @@
     "url": "https://community.n8n.io/t/need-someone-to-build-an-ai-automation-workflow-just-starting-out-willing-to-pay-flat-fee/276643",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 1429,
+      "views": 1445,
       "likes": 10,
       "replies": 2,
       "unique_contributors": 0,
@@ -300,7 +440,7 @@
     "url": "https://community.n8n.io/t/workflow-connections-become-visually-obscured-by-intermediate-nodes/302761",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 33,
+      "views": 36,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -314,7 +454,7 @@
     "url": "https://community.n8n.io/t/api-key-proxy-for-ai-agents-openrouter-openai-compatible/262590",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 402,
+      "views": 412,
       "likes": 4,
       "replies": 0,
       "unique_contributors": 0,
@@ -328,39 +468,11 @@
     "url": "https://community.n8n.io/t/ageniusdesk-ce-a-free-open-source-control-plane-for-running-multiple-n8n-instances/301089",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 294,
+      "views": 298,
       "likes": 5,
       "replies": 7,
       "unique_contributors": 0,
       "engagement_score": 12
-    }
-  },
-  {
-    "workflow": "Attempting to solve silent failures: how we're detecting runs n8n marks green but broke",
-    "platform": "Forum",
-    "source_id": 302654,
-    "url": "https://community.n8n.io/t/attempting-to-solve-silent-failures-how-were-detecting-runs-n8n-marks-green-but-broke/302654",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 63,
-      "likes": 4,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 5
-    }
-  },
-  {
-    "workflow": "Support for renewal",
-    "platform": "Forum",
-    "source_id": 302752,
-    "url": "https://community.n8n.io/t/support-for-renewal/302752",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 36,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
     }
   },
   {
@@ -370,7 +482,7 @@
     "url": "https://community.n8n.io/t/aligning-n8n-docs-mcp-server-responses-to-a-specific-n8n-version/302653",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 75,
+      "views": 82,
       "likes": 3,
       "replies": 1,
       "unique_contributors": 0,
@@ -384,7 +496,7 @@
     "url": "https://community.n8n.io/t/how-to-connect-locally-running-vllm-gpt-oss-20b-from-n8n/302606",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 117,
+      "views": 121,
       "likes": 5,
       "replies": 4,
       "unique_contributors": 0,
@@ -398,7 +510,7 @@
     "url": "https://community.n8n.io/t/integrations-prompt-engineer-remote-uk-hours-20-50-hr/302688",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 126,
+      "views": 148,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
@@ -406,17 +518,185 @@
     }
   },
   {
-    "workflow": "Undefined value in edit fields node",
+    "workflow": "N8N Academy, Hands on exercise",
     "platform": "Forum",
-    "source_id": 302658,
-    "url": "https://community.n8n.io/t/undefined-value-in-edit-fields-node/302658",
+    "source_id": 302597,
+    "url": "https://community.n8n.io/t/n8n-academy-hands-on-exercise/302597",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 60,
+      "views": 90,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Fix: Unrecognized node type: n8n-nodes-base.start",
+    "platform": "Forum",
+    "source_id": 302732,
+    "url": "https://community.n8n.io/t/fix-unrecognized-node-type-n8n-nodes-base-start/302732",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 30,
       "likes": 1,
       "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "N8N102 Section 1 Hands-on Exercise: Building an API Integration Pipeline - FinalizePipeline 持續回傳「Progress incompleted」",
+    "platform": "Forum",
+    "source_id": 302731,
+    "url": "https://community.n8n.io/t/n8n102-section-1-hands-on-exercise-building-an-api-integration-pipeline-finalizepipeline-progress-incompleted/302731",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 36,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Step 2 of the first Hands-on-Exercise",
+    "platform": "Forum",
+    "source_id": 302726,
+    "url": "https://community.n8n.io/t/step-2-of-the-first-hands-on-exercise/302726",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 44,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "New community node: Amazon Bedrock AgentCore — run production-grade AI agents in your workflows",
+    "platform": "Forum",
+    "source_id": 300990,
+    "url": "https://community.n8n.io/t/new-community-node-amazon-bedrock-agentcore-run-production-grade-ai-agents-in-your-workflows/300990",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 120,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "[FOR HIRE] AI Automation Engineer — n8n, AI Agents & Document/OCR Workflows",
+    "platform": "Forum",
+    "source_id": 302725,
+    "url": "https://community.n8n.io/t/for-hire-ai-automation-engineer-n8n-ai-agents-document-ocr-workflows/302725",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 81,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "WhatsApp Appointment Bot — n8n workflow with Meta Cloud API",
+    "platform": "Forum",
+    "source_id": 301601,
+    "url": "https://community.n8n.io/t/whatsapp-appointment-bot-n8n-workflow-with-meta-cloud-api/301601",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 103,
+      "likes": 4,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "Acessing and changing Calendar Data in Nextcloud",
+    "platform": "Forum",
+    "source_id": 302718,
+    "url": "https://community.n8n.io/t/acessing-and-changing-calendar-data-in-nextcloud/302718",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 50,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "URGENTE: Workflows com timeout de 60 segundos e workspace offline",
+    "platform": "Forum",
+    "source_id": 302716,
+    "url": "https://community.n8n.io/t/urgente-workflows-com-timeout-de-60-segundos-e-workspace-offline/302716",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 47,
+      "likes": 2,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How do I batch incoming webhook messages for 3-5 seconds before processing",
+    "platform": "Forum",
+    "source_id": 302714,
+    "url": "https://community.n8n.io/t/how-do-i-batch-incoming-webhook-messages-for-3-5-seconds-before-processing/302714",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 48,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "Lost Pinned Webhook Data",
+    "platform": "Forum",
+    "source_id": 302712,
+    "url": "https://community.n8n.io/t/lost-pinned-webhook-data/302712",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 43,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "🚀 Hiring: AI & Agentic CEO/COO on NEW subsidiary — Software Integration Partner (Paris) - Equity Or CDI (depends on the profil)",
+    "platform": "Forum",
+    "source_id": 300718,
+    "url": "https://community.n8n.io/t/hiring-ai-agentic-ceo-coo-on-new-subsidiary-software-integration-partner-paris-equity-or-cdi-depends-on-the-profil/300718",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 188,
+      "likes": 2,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "Hi, I need a Vapi + n8n + Twilio integration built. Paid project",
+    "platform": "Forum",
+    "source_id": 223639,
+    "url": "https://community.n8n.io/t/hi-i-need-a-vapi-n8n-twilio-integration-built-paid-project/223639",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 734,
+      "likes": 4,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 5
     }
   }
 ]
