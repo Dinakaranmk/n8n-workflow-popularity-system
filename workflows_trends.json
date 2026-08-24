@@ -5,18 +5,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        7,
         6,
         5,
         7,
         6,
-        6,
+        7,
         5,
         4,
         4,
+        3,
         0
       ],
-      "start_value": 64,
+      "start_value": 74,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -27,62 +27,62 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        25,
         22,
-        25,
+        23,
         28,
         34,
-        29,
-        30,
+        28,
+        28,
         27,
+        24,
+        17,
+        34
+      ],
+      "start_value": 50,
+      "end_value": 34,
+      "trend_percentage_change": -32.0
+    }
+  },
+  {
+    "workflow": "n8n automation",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        7,
+        6,
+        6,
+        7,
+        6,
+        6,
+        5,
+        3,
+        4,
+        0
+      ],
+      "start_value": 63,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
+    }
+  },
+  {
+    "workflow": "n8n automation",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
+        30,
+        24,
+        25,
+        41,
+        35,
+        33,
+        23,
+        23,
         20,
         0
       ],
-      "start_value": 50,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n automation",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        9,
-        7,
-        7,
-        6,
-        6,
-        5,
-        6,
-        5,
-        2,
-        0
-      ],
-      "start_value": 67,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n automation",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        24,
-        24,
-        21,
-        23,
-        35,
-        30,
-        27,
-        22,
-        23,
-        0
-      ],
-      "start_value": 47,
+      "start_value": 65,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -93,14 +93,14 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        0,
-        12,
-        0,
         7,
-        8,
+        6,
         5,
-        5,
-        5,
+        6,
+        4,
+        0,
+        0,
+        0,
         0,
         0
       ],
@@ -115,147 +115,147 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        16,
-        16,
-        15,
-        14,
-        17,
-        18,
-        15,
-        16,
-        13,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n webhook",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        4,
-        3,
-        5,
-        4,
-        3,
-        3,
-        4,
-        2,
-        0,
-        0
-      ],
-      "start_value": 56,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n webhook",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        7,
-        13,
-        13,
-        7,
-        0,
-        6,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n slack",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n slack",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        8,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n whatsapp",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        4,
-        0,
-        0,
-        3,
-        4,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n whatsapp",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        23,
-        17,
         19,
-        23,
-        27,
+        19,
+        15,
+        19,
+        24,
+        19,
+        16,
+        18,
+        14,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n webhook",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        6,
+        3,
+        4,
+        4,
+        4,
+        3,
+        0,
+        0,
+        0
+      ],
+      "start_value": 76,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
+    }
+  },
+  {
+    "workflow": "n8n webhook",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        41,
+        100,
+        66,
+        42,
+        33,
+        41,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n slack",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        0,
+        0,
+        100,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n slack",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n whatsapp",
+    "platform": "GoogleTrends",
+    "country": "US",
+    "popularity_metrics": {
+      "trend_values": [
+        0,
+        0,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n whatsapp",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
+        21,
         25,
-        22,
-        22,
-        17,
+        27,
+        35,
+        31,
+        32,
+        25,
+        28,
+        25,
         0
       ],
       "start_value": 0,
@@ -272,7 +272,7 @@
         0,
         0,
         0,
-        0,
+        7,
         0,
         0,
         0,
@@ -295,16 +295,16 @@
         0,
         0,
         0,
-        0,
+        5,
         0,
         0,
         0,
         0,
         0
       ],
-      "start_value": 0,
+      "start_value": 83,
       "end_value": 0,
-      "trend_percentage_change": 0
+      "trend_percentage_change": -100.0
     }
   },
   {
@@ -313,15 +313,15 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        0,
-        0,
-        52,
-        61,
-        55,
-        99,
+        45,
+        57,
+        65,
+        49,
+        76,
         100,
-        58,
-        43,
+        0,
+        90,
+        59,
         0
       ],
       "start_value": 0,
@@ -335,18 +335,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        7,
-        5,
-        3,
-        4,
         6,
         4,
+        5,
+        5,
         4,
+        3,
         4,
+        0,
         0,
         0
       ],
-      "start_value": 81,
+      "start_value": 79,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -357,32 +357,10 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        7,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n cron",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
+        6,
         0,
         0,
         0,
@@ -406,7 +384,7 @@
         0,
         0,
         0,
-        7,
+        0,
         0,
         0,
         0,
@@ -426,11 +404,11 @@
         0,
         0,
         0,
-        5,
-        6,
         0,
         0,
+        0,
         5,
+        0,
         0,
         0
       ],
