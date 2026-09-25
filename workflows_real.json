@@ -6,11 +6,11 @@
     "url": "https://www.youtube.com/watch?v=_Wf0NikMyAA",
     "country": "US",
     "popularity_metrics": {
-      "views": 307403,
-      "likes": 5878,
+      "views": 309038,
+      "likes": 5885,
       "comments": 73,
-      "like_to_view_ratio": 0.019121,
-      "comment_to_view_ratio": 0.000237
+      "like_to_view_ratio": 0.019043,
+      "comment_to_view_ratio": 0.000236
     }
   },
   {
@@ -20,11 +20,11 @@
     "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
     "country": "US",
     "popularity_metrics": {
-      "views": 763688,
-      "likes": 15998,
+      "views": 765934,
+      "likes": 16023,
       "comments": 558,
-      "like_to_view_ratio": 0.020948,
-      "comment_to_view_ratio": 0.000731
+      "like_to_view_ratio": 0.02092,
+      "comment_to_view_ratio": 0.000729
     }
   },
   {
@@ -34,11 +34,25 @@
     "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
     "country": "US",
     "popularity_metrics": {
-      "views": 1235167,
-      "likes": 56773,
-      "comments": 2155,
-      "like_to_view_ratio": 0.045964,
-      "comment_to_view_ratio": 0.001745
+      "views": 1236100,
+      "likes": 56781,
+      "comments": 2156,
+      "like_to_view_ratio": 0.045936,
+      "comment_to_view_ratio": 0.001744
+    }
+  },
+  {
+    "workflow": "n8n Tutorial for Beginners: How to Build AI Automations for FREE (Step-by-Step)",
+    "platform": "YouTube",
+    "source_id": "Fy1UCBcgF2o",
+    "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 736712,
+      "likes": 12259,
+      "comments": 284,
+      "like_to_view_ratio": 0.01664,
+      "comment_to_view_ratio": 0.000385
     }
   },
   {
@@ -48,11 +62,11 @@
     "url": "https://www.youtube.com/watch?v=dZrP2X4zCGk",
     "country": "US",
     "popularity_metrics": {
-      "views": 5283,
+      "views": 5316,
       "likes": 92,
       "comments": 8,
-      "like_to_view_ratio": 0.017414,
-      "comment_to_view_ratio": 0.001514
+      "like_to_view_ratio": 0.017306,
+      "comment_to_view_ratio": 0.001505
     }
   },
   {
@@ -62,10 +76,10 @@
     "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
     "country": "US",
     "popularity_metrics": {
-      "views": 2613660,
-      "likes": 96651,
+      "views": 2614898,
+      "likes": 96659,
       "comments": 2612,
-      "like_to_view_ratio": 0.036979,
+      "like_to_view_ratio": 0.036965,
       "comment_to_view_ratio": 0.000999
     }
   },
@@ -76,39 +90,11 @@
     "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
     "country": "US",
     "popularity_metrics": {
-      "views": 285965,
-      "likes": 5515,
-      "comments": 614,
-      "like_to_view_ratio": 0.019286,
-      "comment_to_view_ratio": 0.002147
-    }
-  },
-  {
-    "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
-    "platform": "YouTube",
-    "source_id": "niHtZBNaJ58",
-    "url": "https://www.youtube.com/watch?v=niHtZBNaJ58",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 401602,
-      "likes": 16854,
-      "comments": 136,
-      "like_to_view_ratio": 0.041967,
-      "comment_to_view_ratio": 0.000339
-    }
-  },
-  {
-    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
-    "platform": "YouTube",
-    "source_id": "vcvRVlc_VFg",
-    "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 1546706,
-      "likes": 37327,
-      "comments": 907,
-      "like_to_view_ratio": 0.024133,
-      "comment_to_view_ratio": 0.000586
+      "views": 286744,
+      "likes": 5522,
+      "comments": 616,
+      "like_to_view_ratio": 0.019258,
+      "comment_to_view_ratio": 0.002148
     }
   },
   {
@@ -118,11 +104,39 @@
     "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
     "country": "US",
     "popularity_metrics": {
-      "views": 659025,
-      "likes": 18205,
-      "comments": 1567,
-      "like_to_view_ratio": 0.027624,
-      "comment_to_view_ratio": 0.002378
+      "views": 660347,
+      "likes": 18210,
+      "comments": 1568,
+      "like_to_view_ratio": 0.027576,
+      "comment_to_view_ratio": 0.002375
+    }
+  },
+  {
+    "workflow": "The Only 12 n8n AI Automations You'll Ever Need (Steal These)",
+    "platform": "YouTube",
+    "source_id": "niHtZBNaJ58",
+    "url": "https://www.youtube.com/watch?v=niHtZBNaJ58",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 402367,
+      "likes": 16874,
+      "comments": 136,
+      "like_to_view_ratio": 0.041937,
+      "comment_to_view_ratio": 0.000338
+    }
+  },
+  {
+    "workflow": "Build a Whatsapp AI Agent for appointment handling (n8n Tutorial) #n8n #aiautomation",
+    "platform": "YouTube",
+    "source_id": "vcvRVlc_VFg",
+    "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1549829,
+      "likes": 37360,
+      "comments": 907,
+      "like_to_view_ratio": 0.024106,
+      "comment_to_view_ratio": 0.000585
     }
   },
   {
@@ -132,11 +146,11 @@
     "url": "https://www.youtube.com/watch?v=XXmAQYCHucw",
     "country": "US",
     "popularity_metrics": {
-      "views": 90686,
+      "views": 90801,
       "likes": 1566,
       "comments": 21,
-      "like_to_view_ratio": 0.017268,
-      "comment_to_view_ratio": 0.000232
+      "like_to_view_ratio": 0.017247,
+      "comment_to_view_ratio": 0.000231
     }
   },
   {
@@ -146,11 +160,11 @@
     "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
     "country": "US",
     "popularity_metrics": {
-      "views": 1087697,
-      "likes": 32107,
-      "comments": 488,
-      "like_to_view_ratio": 0.029518,
-      "comment_to_view_ratio": 0.000449
+      "views": 1091091,
+      "likes": 32169,
+      "comments": 489,
+      "like_to_view_ratio": 0.029483,
+      "comment_to_view_ratio": 0.000448
     }
   },
   {
@@ -160,25 +174,11 @@
     "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
     "country": "US",
     "popularity_metrics": {
-      "views": 1017268,
+      "views": 1017667,
       "likes": 10860,
       "comments": 259,
-      "like_to_view_ratio": 0.010676,
+      "like_to_view_ratio": 0.010671,
       "comment_to_view_ratio": 0.000255
-    }
-  },
-  {
-    "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
-    "platform": "YouTube",
-    "source_id": "Fqeo8q8-nJg",
-    "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 320740,
-      "likes": 12710,
-      "comments": 256,
-      "like_to_view_ratio": 0.039627,
-      "comment_to_view_ratio": 0.000798
     }
   },
   {
@@ -188,10 +188,10 @@
     "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
     "country": "US",
     "popularity_metrics": {
-      "views": 543413,
-      "likes": 4394,
+      "views": 544074,
+      "likes": 4395,
       "comments": 123,
-      "like_to_view_ratio": 0.008086,
+      "like_to_view_ratio": 0.008078,
       "comment_to_view_ratio": 0.000226
     }
   },
@@ -202,11 +202,11 @@
     "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
     "country": "US",
     "popularity_metrics": {
-      "views": 314169,
-      "likes": 5850,
+      "views": 314427,
+      "likes": 5851,
       "comments": 263,
-      "like_to_view_ratio": 0.018621,
-      "comment_to_view_ratio": 0.000837
+      "like_to_view_ratio": 0.018608,
+      "comment_to_view_ratio": 0.000836
     }
   },
   {
@@ -216,11 +216,11 @@
     "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
     "country": "US",
     "popularity_metrics": {
-      "views": 1018558,
-      "likes": 10243,
+      "views": 1023766,
+      "likes": 10260,
       "comments": 218,
-      "like_to_view_ratio": 0.010056,
-      "comment_to_view_ratio": 0.000214
+      "like_to_view_ratio": 0.010022,
+      "comment_to_view_ratio": 0.000213
     }
   },
   {
@@ -230,53 +230,11 @@
     "url": "https://www.youtube.com/watch?v=ixgnBBbrL58",
     "country": "US",
     "popularity_metrics": {
-      "views": 195896,
-      "likes": 960,
+      "views": 197142,
+      "likes": 967,
       "comments": 34,
-      "like_to_view_ratio": 0.004901,
-      "comment_to_view_ratio": 0.000174
-    }
-  },
-  {
-    "workflow": "2000+ Free n8n Workflows on GitHub  👨‍💻 | Boost Your Productivity Instantly! #shorts",
-    "platform": "YouTube",
-    "source_id": "g2I5SaGTn4w",
-    "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 464235,
-      "likes": 8802,
-      "comments": 7435,
-      "like_to_view_ratio": 0.01896,
-      "comment_to_view_ratio": 0.016016
-    }
-  },
-  {
-    "workflow": "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)",
-    "platform": "YouTube",
-    "source_id": "ZHH3sr234zY",
-    "url": "https://www.youtube.com/watch?v=ZHH3sr234zY",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 547689,
-      "likes": 13896,
-      "comments": 414,
-      "like_to_view_ratio": 0.025372,
-      "comment_to_view_ratio": 0.000756
-    }
-  },
-  {
-    "workflow": "n8n Tutorial for Beginners - Full Course (+ ai agent)",
-    "platform": "YouTube",
-    "source_id": "MkFJX2wHFTE",
-    "url": "https://www.youtube.com/watch?v=MkFJX2wHFTE",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 56307,
-      "likes": 1331,
-      "comments": 54,
-      "like_to_view_ratio": 0.023638,
-      "comment_to_view_ratio": 0.000959
+      "like_to_view_ratio": 0.004905,
+      "comment_to_view_ratio": 0.000172
     }
   },
   {
@@ -286,11 +244,53 @@
     "url": "https://www.youtube.com/watch?v=2aC2ly7vKtM",
     "country": "US",
     "popularity_metrics": {
-      "views": 1397682,
-      "likes": 52379,
+      "views": 1398710,
+      "likes": 52384,
       "comments": 562,
-      "like_to_view_ratio": 0.037476,
+      "like_to_view_ratio": 0.037452,
       "comment_to_view_ratio": 0.000402
+    }
+  },
+  {
+    "workflow": "n8n Tutorial for Beginners - Full Course (+ ai agent)",
+    "platform": "YouTube",
+    "source_id": "MkFJX2wHFTE",
+    "url": "https://www.youtube.com/watch?v=MkFJX2wHFTE",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 57067,
+      "likes": 1336,
+      "comments": 56,
+      "like_to_view_ratio": 0.023411,
+      "comment_to_view_ratio": 0.000981
+    }
+  },
+  {
+    "workflow": "n8n Masterclass: Build AI Agents & Automate Workflows (Beginner to Pro)",
+    "platform": "YouTube",
+    "source_id": "ZHH3sr234zY",
+    "url": "https://www.youtube.com/watch?v=ZHH3sr234zY",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 548307,
+      "likes": 13900,
+      "comments": 414,
+      "like_to_view_ratio": 0.025351,
+      "comment_to_view_ratio": 0.000755
+    }
+  },
+  {
+    "workflow": "2000+ Free n8n Workflows on GitHub  👨‍💻 | Boost Your Productivity Instantly! #shorts",
+    "platform": "YouTube",
+    "source_id": "g2I5SaGTn4w",
+    "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 464692,
+      "likes": 8809,
+      "comments": 7435,
+      "like_to_view_ratio": 0.018957,
+      "comment_to_view_ratio": 0.016
     }
   },
   {
@@ -300,11 +300,11 @@
     "url": "https://www.youtube.com/watch?v=kJHQEl85CN0",
     "country": "US",
     "popularity_metrics": {
-      "views": 198166,
-      "likes": 3216,
+      "views": 199694,
+      "likes": 3234,
       "comments": 72,
-      "like_to_view_ratio": 0.016229,
-      "comment_to_view_ratio": 0.000363
+      "like_to_view_ratio": 0.016195,
+      "comment_to_view_ratio": 0.000361
     }
   },
   {
@@ -314,11 +314,11 @@
     "url": "https://www.youtube.com/watch?v=2T-xz4DmacE",
     "country": "US",
     "popularity_metrics": {
-      "views": 18664,
+      "views": 18786,
       "likes": 434,
       "comments": 55,
-      "like_to_view_ratio": 0.023253,
-      "comment_to_view_ratio": 0.002947
+      "like_to_view_ratio": 0.023102,
+      "comment_to_view_ratio": 0.002928
     }
   },
   {
@@ -328,11 +328,11 @@
     "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
     "country": "US",
     "popularity_metrics": {
-      "views": 293985,
-      "likes": 8685,
+      "views": 294695,
+      "likes": 8692,
       "comments": 297,
-      "like_to_view_ratio": 0.029542,
-      "comment_to_view_ratio": 0.00101
+      "like_to_view_ratio": 0.029495,
+      "comment_to_view_ratio": 0.001008
     }
   },
   {
@@ -342,11 +342,11 @@
     "url": "https://www.youtube.com/watch?v=GBLKHPxokWw",
     "country": "US",
     "popularity_metrics": {
-      "views": 85314,
-      "likes": 1921,
+      "views": 85605,
+      "likes": 1923,
       "comments": 57,
-      "like_to_view_ratio": 0.022517,
-      "comment_to_view_ratio": 0.000668
+      "like_to_view_ratio": 0.022464,
+      "comment_to_view_ratio": 0.000666
     }
   },
   {
@@ -356,11 +356,11 @@
     "url": "https://www.youtube.com/watch?v=tSM8NYUKXP4",
     "country": "US",
     "popularity_metrics": {
-      "views": 25078,
+      "views": 25167,
       "likes": 181,
       "comments": 18,
-      "like_to_view_ratio": 0.007217,
-      "comment_to_view_ratio": 0.000718
+      "like_to_view_ratio": 0.007192,
+      "comment_to_view_ratio": 0.000715
     }
   },
   {
@@ -370,11 +370,11 @@
     "url": "https://www.youtube.com/watch?v=IRGXJXhLa_s",
     "country": "US",
     "popularity_metrics": {
-      "views": 6041,
+      "views": 6060,
       "likes": 95,
       "comments": 11,
-      "like_to_view_ratio": 0.015726,
-      "comment_to_view_ratio": 0.001821
+      "like_to_view_ratio": 0.015677,
+      "comment_to_view_ratio": 0.001815
     }
   },
   {
@@ -384,11 +384,11 @@
     "url": "https://www.youtube.com/watch?v=l0SiFihbetA",
     "country": "US",
     "popularity_metrics": {
-      "views": 81763,
-      "likes": 1208,
+      "views": 81830,
+      "likes": 1209,
       "comments": 90,
-      "like_to_view_ratio": 0.014774,
-      "comment_to_view_ratio": 0.001101
+      "like_to_view_ratio": 0.014775,
+      "comment_to_view_ratio": 0.0011
     }
   },
   {
@@ -398,10 +398,10 @@
     "url": "https://www.youtube.com/watch?v=3Ai1EPznlAc",
     "country": "US",
     "popularity_metrics": {
-      "views": 261402,
+      "views": 261467,
       "likes": 4623,
       "comments": 304,
-      "like_to_view_ratio": 0.017685,
+      "like_to_view_ratio": 0.017681,
       "comment_to_view_ratio": 0.001163
     }
   },
@@ -412,11 +412,11 @@
     "url": "https://www.youtube.com/watch?v=fmJj5NF1zpA",
     "country": "US",
     "popularity_metrics": {
-      "views": 3335,
+      "views": 3351,
       "likes": 51,
       "comments": 1,
-      "like_to_view_ratio": 0.015292,
-      "comment_to_view_ratio": 0.0003
+      "like_to_view_ratio": 0.015219,
+      "comment_to_view_ratio": 0.000298
     }
   },
   {
@@ -426,11 +426,11 @@
     "url": "https://www.youtube.com/watch?v=ZcP4BwY9rHw",
     "country": "US",
     "popularity_metrics": {
-      "views": 174671,
-      "likes": 1334,
+      "views": 175374,
+      "likes": 1337,
       "comments": 23,
-      "like_to_view_ratio": 0.007637,
-      "comment_to_view_ratio": 0.000132
+      "like_to_view_ratio": 0.007624,
+      "comment_to_view_ratio": 0.000131
     }
   },
   {
@@ -440,10 +440,10 @@
     "url": "https://www.youtube.com/watch?v=hxvvl9g7_Zg",
     "country": "US",
     "popularity_metrics": {
-      "views": 32117,
+      "views": 32121,
       "likes": 1119,
       "comments": 28,
-      "like_to_view_ratio": 0.034841,
+      "like_to_view_ratio": 0.034837,
       "comment_to_view_ratio": 0.000872
     }
   },
@@ -454,25 +454,11 @@
     "url": "https://www.youtube.com/watch?v=0GX7xEeRPIo",
     "country": "US",
     "popularity_metrics": {
-      "views": 10101,
+      "views": 10110,
       "likes": 242,
       "comments": 18,
-      "like_to_view_ratio": 0.023958,
-      "comment_to_view_ratio": 0.001782
-    }
-  },
-  {
-    "workflow": "How I Built an AI Agent to Automate my Emails in n8n (Step by Step, No Code)",
-    "platform": "YouTube",
-    "source_id": "KIJHRq_Tg6o",
-    "url": "https://www.youtube.com/watch?v=KIJHRq_Tg6o",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 126442,
-      "likes": 2069,
-      "comments": 90,
-      "like_to_view_ratio": 0.016363,
-      "comment_to_view_ratio": 0.000712
+      "like_to_view_ratio": 0.023937,
+      "comment_to_view_ratio": 0.00178
     }
   },
   {
@@ -482,11 +468,11 @@
     "url": "https://www.youtube.com/watch?v=lXNIteL16Z0",
     "country": "US",
     "popularity_metrics": {
-      "views": 36145,
+      "views": 36203,
       "likes": 1203,
       "comments": 137,
-      "like_to_view_ratio": 0.033283,
-      "comment_to_view_ratio": 0.00379
+      "like_to_view_ratio": 0.033229,
+      "comment_to_view_ratio": 0.003784
     }
   },
   {
@@ -496,11 +482,25 @@
     "url": "https://www.youtube.com/watch?v=L0daoX5b20I",
     "country": "US",
     "popularity_metrics": {
-      "views": 3251,
+      "views": 3279,
       "likes": 21,
       "comments": 0,
-      "like_to_view_ratio": 0.00646,
+      "like_to_view_ratio": 0.006404,
       "comment_to_view_ratio": 0.0
+    }
+  },
+  {
+    "workflow": "How I Built an AI Agent to Automate my Emails in n8n (Step by Step, No Code)",
+    "platform": "YouTube",
+    "source_id": "KIJHRq_Tg6o",
+    "url": "https://www.youtube.com/watch?v=KIJHRq_Tg6o",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 126612,
+      "likes": 2069,
+      "comments": 90,
+      "like_to_view_ratio": 0.016341,
+      "comment_to_view_ratio": 0.000711
     }
   },
   {
@@ -510,7 +510,7 @@
     "url": "https://www.youtube.com/watch?v=suPwuw1gJNU",
     "country": "US",
     "popularity_metrics": {
-      "views": 371,
+      "views": 390,
       "likes": 0,
       "comments": 0,
       "like_to_view_ratio": 0.0,
@@ -524,25 +524,11 @@
     "url": "https://www.youtube.com/watch?v=H1Kt1adcr84",
     "country": "US",
     "popularity_metrics": {
-      "views": 64137,
+      "views": 64156,
       "likes": 1676,
       "comments": 197,
-      "like_to_view_ratio": 0.026132,
-      "comment_to_view_ratio": 0.003072
-    }
-  },
-  {
-    "workflow": "You Won't Believe How Easy GMAIL Automation Is using n8n | n8n tutorial",
-    "platform": "YouTube",
-    "source_id": "yu8JU-hAs0w",
-    "url": "https://www.youtube.com/watch?v=yu8JU-hAs0w",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 4525,
-      "likes": 103,
-      "comments": 18,
-      "like_to_view_ratio": 0.022762,
-      "comment_to_view_ratio": 0.003978
+      "like_to_view_ratio": 0.026124,
+      "comment_to_view_ratio": 0.003071
     }
   },
   {
@@ -552,11 +538,25 @@
     "url": "https://www.youtube.com/watch?v=PwdayYM_hkU",
     "country": "US",
     "popularity_metrics": {
-      "views": 119121,
-      "likes": 3431,
+      "views": 119336,
+      "likes": 3436,
       "comments": 56,
-      "like_to_view_ratio": 0.028803,
-      "comment_to_view_ratio": 0.00047
+      "like_to_view_ratio": 0.028793,
+      "comment_to_view_ratio": 0.000469
+    }
+  },
+  {
+    "workflow": "You Won't Believe How Easy GMAIL Automation Is using n8n | n8n tutorial",
+    "platform": "YouTube",
+    "source_id": "yu8JU-hAs0w",
+    "url": "https://www.youtube.com/watch?v=yu8JU-hAs0w",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 4549,
+      "likes": 103,
+      "comments": 18,
+      "like_to_view_ratio": 0.022642,
+      "comment_to_view_ratio": 0.003957
     }
   },
   {
@@ -566,24 +566,10 @@
     "url": "https://www.youtube.com/watch?v=wUIqm3a_pKc",
     "country": "US",
     "popularity_metrics": {
-      "views": 149,
+      "views": 151,
       "likes": 1,
       "comments": 0,
-      "like_to_view_ratio": 0.006711,
-      "comment_to_view_ratio": 0.0
-    }
-  },
-  {
-    "workflow": "How to Connect Gmail to n8n [2026 Guide]",
-    "platform": "YouTube",
-    "source_id": "kPW7PEQfTn4",
-    "url": "https://www.youtube.com/watch?v=kPW7PEQfTn4",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 121,
-      "likes": 0,
-      "comments": 0,
-      "like_to_view_ratio": 0.0,
+      "like_to_view_ratio": 0.006623,
       "comment_to_view_ratio": 0.0
     }
   },
@@ -594,11 +580,25 @@
     "url": "https://www.youtube.com/watch?v=fNBHxZtNPiY",
     "country": "US",
     "popularity_metrics": {
-      "views": 10588,
+      "views": 10602,
       "likes": 155,
       "comments": 34,
-      "like_to_view_ratio": 0.014639,
-      "comment_to_view_ratio": 0.003211
+      "like_to_view_ratio": 0.01462,
+      "comment_to_view_ratio": 0.003207
+    }
+  },
+  {
+    "workflow": "How to Connect Gmail to n8n [2026 Guide]",
+    "platform": "YouTube",
+    "source_id": "kPW7PEQfTn4",
+    "url": "https://www.youtube.com/watch?v=kPW7PEQfTn4",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 123,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
     }
   },
   {
@@ -622,11 +622,25 @@
     "url": "https://www.youtube.com/watch?v=_2bfCG9922E",
     "country": "US",
     "popularity_metrics": {
-      "views": 20927,
+      "views": 20931,
       "likes": 384,
       "comments": 29,
-      "like_to_view_ratio": 0.01835,
+      "like_to_view_ratio": 0.018346,
       "comment_to_view_ratio": 0.001386
+    }
+  },
+  {
+    "workflow": "Automatise ta boite mail de ZÉRO avec N8N (Guide Débutant)",
+    "platform": "YouTube",
+    "source_id": "VgITvqCFsTQ",
+    "url": "https://www.youtube.com/watch?v=VgITvqCFsTQ",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 9481,
+      "likes": 308,
+      "comments": 42,
+      "like_to_view_ratio": 0.032486,
+      "comment_to_view_ratio": 0.00443
     }
   },
   {
@@ -644,20 +658,6 @@
     }
   },
   {
-    "workflow": "Automatise ta boite mail de ZÉRO avec N8N (Guide Débutant)",
-    "platform": "YouTube",
-    "source_id": "VgITvqCFsTQ",
-    "url": "https://www.youtube.com/watch?v=VgITvqCFsTQ",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 9448,
-      "likes": 307,
-      "comments": 42,
-      "like_to_view_ratio": 0.032494,
-      "comment_to_view_ratio": 0.004445
-    }
-  },
-  {
     "workflow": "Connect Gmail to n8n in 4 Minutes (Step By Step)",
     "platform": "YouTube",
     "source_id": "wVVEpz0Vw34",
@@ -672,31 +672,31 @@
     }
   },
   {
-    "workflow": "I Built an Inbox AI Agent That Handles Your Emails (No-Code, n8n)",
-    "platform": "YouTube",
-    "source_id": "cHFKgOmr6rY",
-    "url": "https://www.youtube.com/watch?v=cHFKgOmr6rY",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 11796,
-      "likes": 326,
-      "comments": 96,
-      "like_to_view_ratio": 0.027636,
-      "comment_to_view_ratio": 0.008138
-    }
-  },
-  {
     "workflow": "How to Connect Gmail to n8n",
     "platform": "YouTube",
     "source_id": "iSpeQ2XUXmM",
     "url": "https://www.youtube.com/watch?v=iSpeQ2XUXmM",
     "country": "US",
     "popularity_metrics": {
-      "views": 5116,
+      "views": 5143,
       "likes": 178,
       "comments": 4,
-      "like_to_view_ratio": 0.034793,
-      "comment_to_view_ratio": 0.000782
+      "like_to_view_ratio": 0.03461,
+      "comment_to_view_ratio": 0.000778
+    }
+  },
+  {
+    "workflow": "Cómo conectar n8n con Google en 3 Minutos: Drive, Gmail, Sheets, Docs (Tutorial 2025)",
+    "platform": "YouTube",
+    "source_id": "H6Xkc9cfdrE",
+    "url": "https://www.youtube.com/watch?v=H6Xkc9cfdrE",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 46694,
+      "likes": 905,
+      "comments": 125,
+      "like_to_view_ratio": 0.019382,
+      "comment_to_view_ratio": 0.002677
     }
   }
 ]
