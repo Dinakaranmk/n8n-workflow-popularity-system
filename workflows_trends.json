@@ -5,20 +5,20 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        7,
-        4,
-        7,
+        5,
+        6,
         6,
         9,
+        6,
+        6,
         7,
-        5,
         7,
-        7,
-        5
+        3,
+        7
       ],
-      "start_value": 85,
-      "end_value": 5,
-      "trend_percentage_change": -94.12
+      "start_value": 100,
+      "end_value": 7,
+      "trend_percentage_change": -93.0
     }
   },
   {
@@ -27,20 +27,20 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
+        25,
         21,
-        26,
-        21,
-        19,
-        35,
-        28,
+        24,
+        37,
+        30,
         27,
-        22,
+        21,
         26,
-        19
+        23,
+        37
       ],
-      "start_value": 80,
-      "end_value": 19,
-      "trend_percentage_change": -76.25
+      "start_value": 93,
+      "end_value": 37,
+      "trend_percentage_change": -60.22
     }
   },
   {
@@ -49,20 +49,20 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        4,
         5,
         5,
-        6,
-        6,
+        7,
+        4,
+        5,
+        4,
         8,
         4,
-        6,
-        5,
-        10,
-        8
+        0
       ],
-      "start_value": 61,
-      "end_value": 8,
-      "trend_percentage_change": -86.89
+      "start_value": 51,
+      "end_value": 0,
+      "trend_percentage_change": -100.0
     }
   },
   {
@@ -71,20 +71,20 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        26,
         25,
-        22,
-        30,
-        34,
-        35,
-        34,
+        28,
         32,
         35,
-        35
+        38,
+        35,
+        34,
+        39,
+        37,
+        37
       ],
-      "start_value": 77,
-      "end_value": 35,
-      "trend_percentage_change": -54.55
+      "start_value": 0,
+      "end_value": 37,
+      "trend_percentage_change": 0
     }
   },
   {
@@ -93,14 +93,14 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        5,
         0,
         0,
-        5,
-        5,
+        0,
+        4,
+        6,
         6,
         5,
-        5,
+        0,
         0,
         0
       ],
@@ -115,20 +115,20 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        10,
-        9,
+        11,
         6,
-        11,
+        15,
         16,
+        16,
+        20,
         14,
-        19,
-        14,
-        11,
-        20
+        15,
+        18,
+        16
       ],
-      "start_value": 100,
-      "end_value": 20,
-      "trend_percentage_change": -80.0
+      "start_value": 0,
+      "end_value": 16,
+      "trend_percentage_change": 0
     }
   },
   {
@@ -137,18 +137,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        0,
+        5,
         4,
+        0,
+        7,
         0,
         4,
         0,
-        0,
-        4,
-        0,
-        4,
         0,
         0
       ],
-      "start_value": 73,
+      "start_value": 50,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -161,10 +161,10 @@
       "trend_values": [
         0,
         0,
+        0,
+        0,
+        0,
         100,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -178,14 +178,14 @@
   {
     "workflow": "n8n slack",
     "platform": "GoogleTrends",
-    "country": "US",
+    "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        100,
         0,
         0,
         0,
-        94,
+        0,
+        0,
         0,
         0,
         0,
@@ -208,8 +208,8 @@
         0,
         0,
         0,
-        100,
         0,
+        100,
         0,
         0,
         0
@@ -225,41 +225,19 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        14,
-        20,
-        14,
+        18,
+        13,
+        11,
+        15,
+        18,
+        27,
         12,
-        17,
-        16,
-        25,
-        14,
-        23,
-        22
+        22,
+        19,
+        18
       ],
       "start_value": 0,
-      "end_value": 22,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n airtable",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
+      "end_value": 18,
       "trend_percentage_change": 0
     }
   },
@@ -294,12 +272,12 @@
         0,
         0,
         0,
-        75,
         0,
-        94,
-        100,
+        8,
+        14,
         0,
-        75,
+        12,
+        0,
         0
       ],
       "start_value": 0,
@@ -313,18 +291,18 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
+        0,
         0,
         0,
         5,
-        0,
-        9,
+        5,
+        5,
         4,
-        7,
-        6,
+        4,
         0,
         0
       ],
-      "start_value": 70,
+      "start_value": 59,
       "end_value": 0,
       "trend_percentage_change": -100.0
     }
@@ -335,55 +313,11 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        57,
-        100,
         0,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 0,
-      "end_value": 0,
-      "trend_percentage_change": 0
-    }
-  },
-  {
-    "workflow": "n8n cron",
-    "platform": "GoogleTrends",
-    "country": "IN",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0,
-        0
-      ],
-      "start_value": 100,
-      "end_value": 0,
-      "trend_percentage_change": -100.0
-    }
-  },
-  {
-    "workflow": "n8n tutorial",
-    "platform": "GoogleTrends",
-    "country": "US",
-    "popularity_metrics": {
-      "trend_values": [
-        0,
-        0,
-        0,
-        0,
-        100,
         0,
         0,
         0,
