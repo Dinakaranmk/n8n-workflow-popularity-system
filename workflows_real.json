@@ -6,11 +6,11 @@
     "url": "https://www.youtube.com/watch?v=_Wf0NikMyAA",
     "country": "US",
     "popularity_metrics": {
-      "views": 332536,
-      "likes": 6060,
+      "views": 334252,
+      "likes": 6073,
       "comments": 76,
-      "like_to_view_ratio": 0.018224,
-      "comment_to_view_ratio": 0.000229
+      "like_to_view_ratio": 0.018169,
+      "comment_to_view_ratio": 0.000227
     }
   },
   {
@@ -20,11 +20,25 @@
     "url": "https://www.youtube.com/watch?v=e3OV3LnrS7o",
     "country": "US",
     "popularity_metrics": {
-      "views": 798688,
-      "likes": 16335,
+      "views": 800751,
+      "likes": 16358,
       "comments": 571,
-      "like_to_view_ratio": 0.020452,
-      "comment_to_view_ratio": 0.000715
+      "like_to_view_ratio": 0.020428,
+      "comment_to_view_ratio": 0.000713
+    }
+  },
+  {
+    "workflow": "n8n will change your life as a developer...",
+    "platform": "YouTube",
+    "source_id": "bS9R6aCVEzw",
+    "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1249646,
+      "likes": 56880,
+      "comments": 2155,
+      "like_to_view_ratio": 0.045517,
+      "comment_to_view_ratio": 0.001724
     }
   },
   {
@@ -34,11 +48,11 @@
     "url": "https://www.youtube.com/watch?v=dZrP2X4zCGk",
     "country": "US",
     "popularity_metrics": {
-      "views": 5889,
+      "views": 5936,
       "likes": 93,
       "comments": 8,
-      "like_to_view_ratio": 0.015792,
-      "comment_to_view_ratio": 0.001358
+      "like_to_view_ratio": 0.015667,
+      "comment_to_view_ratio": 0.001348
     }
   },
   {
@@ -48,10 +62,10 @@
     "url": "https://www.youtube.com/watch?v=ONgECvZNI3o",
     "country": "US",
     "popularity_metrics": {
-      "views": 2634814,
-      "likes": 96841,
+      "views": 2636089,
+      "likes": 96852,
       "comments": 2612,
-      "like_to_view_ratio": 0.036754,
+      "like_to_view_ratio": 0.036741,
       "comment_to_view_ratio": 0.000991
     }
   },
@@ -62,53 +76,25 @@
     "url": "https://www.youtube.com/watch?v=Fy1UCBcgF2o",
     "country": "US",
     "popularity_metrics": {
-      "views": 749409,
-      "likes": 12358,
+      "views": 750091,
+      "likes": 12366,
       "comments": 286,
-      "like_to_view_ratio": 0.01649,
-      "comment_to_view_ratio": 0.000382
+      "like_to_view_ratio": 0.016486,
+      "comment_to_view_ratio": 0.000381
     }
   },
   {
-    "workflow": "n8n will change your life as a developer...",
+    "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
     "platform": "YouTube",
-    "source_id": "bS9R6aCVEzw",
-    "url": "https://www.youtube.com/watch?v=bS9R6aCVEzw",
+    "source_id": "Fqeo8q8-nJg",
+    "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
     "country": "US",
     "popularity_metrics": {
-      "views": 1248755,
-      "likes": 56882,
-      "comments": 2155,
-      "like_to_view_ratio": 0.045551,
-      "comment_to_view_ratio": 0.001726
-    }
-  },
-  {
-    "workflow": "Seriously, please watch this before you start learning n8n",
-    "platform": "YouTube",
-    "source_id": "ofC4OeNjDx8",
-    "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 298296,
-      "likes": 5602,
-      "comments": 618,
-      "like_to_view_ratio": 0.01878,
-      "comment_to_view_ratio": 0.002072
-    }
-  },
-  {
-    "workflow": "AI Agent Extracts Text From Images in n8n",
-    "platform": "YouTube",
-    "source_id": "XXmAQYCHucw",
-    "url": "https://www.youtube.com/watch?v=XXmAQYCHucw",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 92039,
-      "likes": 1578,
-      "comments": 21,
-      "like_to_view_ratio": 0.017145,
-      "comment_to_view_ratio": 0.000228
+      "views": 330698,
+      "likes": 12864,
+      "comments": 255,
+      "like_to_view_ratio": 0.0389,
+      "comment_to_view_ratio": 0.000771
     }
   },
   {
@@ -118,11 +104,25 @@
     "url": "https://www.youtube.com/watch?v=GBLKHPxokWw",
     "country": "US",
     "popularity_metrics": {
-      "views": 89926,
-      "likes": 1977,
+      "views": 90227,
+      "likes": 1979,
       "comments": 58,
-      "like_to_view_ratio": 0.021985,
-      "comment_to_view_ratio": 0.000645
+      "like_to_view_ratio": 0.021934,
+      "comment_to_view_ratio": 0.000643
+    }
+  },
+  {
+    "workflow": "AI Agent Extracts Text From Images in n8n",
+    "platform": "YouTube",
+    "source_id": "XXmAQYCHucw",
+    "url": "https://www.youtube.com/watch?v=XXmAQYCHucw",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 92120,
+      "likes": 1579,
+      "comments": 21,
+      "like_to_view_ratio": 0.017141,
+      "comment_to_view_ratio": 0.000228
     }
   },
   {
@@ -132,10 +132,10 @@
     "url": "https://www.youtube.com/watch?v=4cQWJViybAQ",
     "country": "US",
     "popularity_metrics": {
-      "views": 1024119,
-      "likes": 10913,
+      "views": 1024518,
+      "likes": 10915,
       "comments": 260,
-      "like_to_view_ratio": 0.010656,
+      "like_to_view_ratio": 0.010654,
       "comment_to_view_ratio": 0.000254
     }
   },
@@ -146,39 +146,11 @@
     "url": "https://www.youtube.com/watch?v=vcvRVlc_VFg",
     "country": "US",
     "popularity_metrics": {
-      "views": 1593560,
-      "likes": 37862,
+      "views": 1595690,
+      "likes": 37890,
       "comments": 908,
-      "like_to_view_ratio": 0.023759,
-      "comment_to_view_ratio": 0.00057
-    }
-  },
-  {
-    "workflow": "n8n Tutorial – Zero to Hero Course",
-    "platform": "YouTube",
-    "source_id": "UIf-SlmMays",
-    "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 1097944,
-      "likes": 10520,
-      "comments": 228,
-      "like_to_view_ratio": 0.009582,
-      "comment_to_view_ratio": 0.000208
-    }
-  },
-  {
-    "workflow": "How I'd Learn n8n if I had to Start Over in 2026",
-    "platform": "YouTube",
-    "source_id": "Fqeo8q8-nJg",
-    "url": "https://www.youtube.com/watch?v=Fqeo8q8-nJg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 330195,
-      "likes": 12862,
-      "comments": 258,
-      "like_to_view_ratio": 0.038953,
-      "comment_to_view_ratio": 0.000781
+      "like_to_view_ratio": 0.023745,
+      "comment_to_view_ratio": 0.000569
     }
   },
   {
@@ -188,25 +160,53 @@
     "url": "https://www.youtube.com/watch?v=gEElEzKazYA",
     "country": "US",
     "popularity_metrics": {
-      "views": 1150718,
-      "likes": 33281,
+      "views": 1154023,
+      "likes": 33327,
       "comments": 500,
-      "like_to_view_ratio": 0.028922,
-      "comment_to_view_ratio": 0.000435
+      "like_to_view_ratio": 0.028879,
+      "comment_to_view_ratio": 0.000433
     }
   },
   {
-    "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
+    "workflow": "Seriously, please watch this before you start learning n8n",
     "platform": "YouTube",
-    "source_id": "ZeJXI2MAhj0",
-    "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
+    "source_id": "ofC4OeNjDx8",
+    "url": "https://www.youtube.com/watch?v=ofC4OeNjDx8",
     "country": "US",
     "popularity_metrics": {
-      "views": 495946,
-      "likes": 11234,
-      "comments": 487,
-      "like_to_view_ratio": 0.022652,
-      "comment_to_view_ratio": 0.000982
+      "views": 298772,
+      "likes": 5604,
+      "comments": 618,
+      "like_to_view_ratio": 0.018757,
+      "comment_to_view_ratio": 0.002068
+    }
+  },
+  {
+    "workflow": "n8n Tutorial – Zero to Hero Course",
+    "platform": "YouTube",
+    "source_id": "UIf-SlmMays",
+    "url": "https://www.youtube.com/watch?v=UIf-SlmMays",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1104195,
+      "likes": 10548,
+      "comments": 228,
+      "like_to_view_ratio": 0.009553,
+      "comment_to_view_ratio": 0.000206
+    }
+  },
+  {
+    "workflow": "n8n Full Course – Architect Scalable AI Automations from Scratch",
+    "platform": "YouTube",
+    "source_id": "YY-egxTQirA",
+    "url": "https://www.youtube.com/watch?v=YY-egxTQirA",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 119891,
+      "likes": 1417,
+      "comments": 41,
+      "like_to_view_ratio": 0.011819,
+      "comment_to_view_ratio": 0.000342
     }
   },
   {
@@ -216,11 +216,25 @@
     "url": "https://www.youtube.com/watch?v=s96JeuuwLzc",
     "country": "US",
     "popularity_metrics": {
-      "views": 678186,
-      "likes": 18276,
+      "views": 678942,
+      "likes": 18279,
       "comments": 1568,
-      "like_to_view_ratio": 0.026948,
-      "comment_to_view_ratio": 0.002312
+      "like_to_view_ratio": 0.026923,
+      "comment_to_view_ratio": 0.002309
+    }
+  },
+  {
+    "workflow": "Stop Learning n8n in 2026...Learn THIS Instead",
+    "platform": "YouTube",
+    "source_id": "ZeJXI2MAhj0",
+    "url": "https://www.youtube.com/watch?v=ZeJXI2MAhj0",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 497463,
+      "likes": 11248,
+      "comments": 488,
+      "like_to_view_ratio": 0.022611,
+      "comment_to_view_ratio": 0.000981
     }
   },
   {
@@ -230,11 +244,39 @@
     "url": "https://www.youtube.com/watch?v=tf1mnCVWJkQ",
     "country": "US",
     "popularity_metrics": {
-      "views": 303252,
-      "likes": 8797,
+      "views": 303713,
+      "likes": 8800,
       "comments": 297,
-      "like_to_view_ratio": 0.029009,
-      "comment_to_view_ratio": 0.000979
+      "like_to_view_ratio": 0.028975,
+      "comment_to_view_ratio": 0.000978
+    }
+  },
+  {
+    "workflow": "When to use the New Agents vs A workflow with AI",
+    "platform": "YouTube",
+    "source_id": "P5x0nsY8hCg",
+    "url": "https://www.youtube.com/watch?v=P5x0nsY8hCg",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 25739,
+      "likes": 285,
+      "comments": 29,
+      "like_to_view_ratio": 0.011073,
+      "comment_to_view_ratio": 0.001127
+    }
+  },
+  {
+    "workflow": "2000+ Free n8n Workflows on GitHub  👨‍💻 | Boost Your Productivity Instantly! #shorts",
+    "platform": "YouTube",
+    "source_id": "g2I5SaGTn4w",
+    "url": "https://www.youtube.com/watch?v=g2I5SaGTn4w",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 469538,
+      "likes": 8830,
+      "comments": 7428,
+      "like_to_view_ratio": 0.018806,
+      "comment_to_view_ratio": 0.01582
     }
   },
   {
@@ -244,39 +286,25 @@
     "url": "https://www.youtube.com/watch?v=niHtZBNaJ58",
     "country": "US",
     "popularity_metrics": {
-      "views": 415633,
-      "likes": 17181,
+      "views": 416288,
+      "likes": 17198,
       "comments": 138,
-      "like_to_view_ratio": 0.041337,
+      "like_to_view_ratio": 0.041313,
       "comment_to_view_ratio": 0.000332
     }
   },
   {
-    "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
+    "workflow": "What Is n8n? Workflow Automation Explained in 60 Seconds #Shorts",
     "platform": "YouTube",
-    "source_id": "Dt6u-yFEpsk",
-    "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
+    "source_id": "eKv1kpJNVkY",
+    "url": "https://www.youtube.com/watch?v=eKv1kpJNVkY",
     "country": "US",
     "popularity_metrics": {
-      "views": 318249,
-      "likes": 5865,
-      "comments": 263,
-      "like_to_view_ratio": 0.018429,
-      "comment_to_view_ratio": 0.000826
-    }
-  },
-  {
-    "workflow": "n8n Course for Beginners – Build Complex Workflows & Master AI Integration",
-    "platform": "YouTube",
-    "source_id": "GIZzRGYpCbM",
-    "url": "https://www.youtube.com/watch?v=GIZzRGYpCbM",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 361774,
-      "likes": 4989,
-      "comments": 140,
-      "like_to_view_ratio": 0.01379,
-      "comment_to_view_ratio": 0.000387
+      "views": 237,
+      "likes": 20,
+      "comments": 19,
+      "like_to_view_ratio": 0.084388,
+      "comment_to_view_ratio": 0.080169
     }
   },
   {
@@ -286,25 +314,25 @@
     "url": "https://www.youtube.com/watch?v=p4M50NgC9qU",
     "country": "US",
     "popularity_metrics": {
-      "views": 233606,
-      "likes": 5607,
+      "views": 233766,
+      "likes": 5609,
       "comments": 69,
-      "like_to_view_ratio": 0.024002,
+      "like_to_view_ratio": 0.023994,
       "comment_to_view_ratio": 0.000295
     }
   },
   {
-    "workflow": "n8n Quick Start Tutorial: Build Your First AI Agent [2026]",
+    "workflow": "10 Insane AI Agent Use Cases in n8n! (steal these)",
     "platform": "YouTube",
-    "source_id": "GuaKeDS6UKU",
-    "url": "https://www.youtube.com/watch?v=GuaKeDS6UKU",
+    "source_id": "Dt6u-yFEpsk",
+    "url": "https://www.youtube.com/watch?v=Dt6u-yFEpsk",
     "country": "US",
     "popularity_metrics": {
-      "views": 551898,
-      "likes": 4446,
-      "comments": 132,
-      "like_to_view_ratio": 0.008056,
-      "comment_to_view_ratio": 0.000239
+      "views": 318454,
+      "likes": 5865,
+      "comments": 263,
+      "like_to_view_ratio": 0.018417,
+      "comment_to_view_ratio": 0.000826
     }
   },
   {
@@ -314,39 +342,11 @@
     "url": "https://www.youtube.com/watch?v=ixgnBBbrL58",
     "country": "US",
     "popularity_metrics": {
-      "views": 207998,
-      "likes": 1002,
+      "views": 208432,
+      "likes": 1003,
       "comments": 35,
-      "like_to_view_ratio": 0.004817,
+      "like_to_view_ratio": 0.004812,
       "comment_to_view_ratio": 0.000168
-    }
-  },
-  {
-    "workflow": "n8n Tutorial for Beginners - Full Course (+ ai agent)",
-    "platform": "YouTube",
-    "source_id": "MkFJX2wHFTE",
-    "url": "https://www.youtube.com/watch?v=MkFJX2wHFTE",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 65538,
-      "likes": 1438,
-      "comments": 57,
-      "like_to_view_ratio": 0.021941,
-      "comment_to_view_ratio": 0.00087
-    }
-  },
-  {
-    "workflow": "I Built an AI Agent Swarm in n8n in an Hour  #artificialintelligence #aiagent #n8n",
-    "platform": "YouTube",
-    "source_id": "wxkIQPuUdjo",
-    "url": "https://www.youtube.com/watch?v=wxkIQPuUdjo",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 185364,
-      "likes": 5987,
-      "comments": 80,
-      "like_to_view_ratio": 0.032299,
-      "comment_to_view_ratio": 0.000432
     }
   },
   {
@@ -356,11 +356,11 @@
     "url": "https://www.youtube.com/watch?v=tSM8NYUKXP4",
     "country": "US",
     "popularity_metrics": {
-      "views": 26025,
+      "views": 26072,
       "likes": 184,
       "comments": 18,
-      "like_to_view_ratio": 0.00707,
-      "comment_to_view_ratio": 0.000692
+      "like_to_view_ratio": 0.007057,
+      "comment_to_view_ratio": 0.00069
     }
   },
   {
@@ -370,39 +370,11 @@
     "url": "https://www.youtube.com/watch?v=l0SiFihbetA",
     "country": "US",
     "popularity_metrics": {
-      "views": 82777,
+      "views": 82833,
       "likes": 1215,
       "comments": 90,
-      "like_to_view_ratio": 0.014678,
+      "like_to_view_ratio": 0.014668,
       "comment_to_view_ratio": 0.001087
-    }
-  },
-  {
-    "workflow": "Setup Google Credentials in n8n in 5 Minutes (Google Sheets, Drive, & Gmail)",
-    "platform": "YouTube",
-    "source_id": "lXNIteL16Z0",
-    "url": "https://www.youtube.com/watch?v=lXNIteL16Z0",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 36955,
-      "likes": 1213,
-      "comments": 137,
-      "like_to_view_ratio": 0.032824,
-      "comment_to_view_ratio": 0.003707
-    }
-  },
-  {
-    "workflow": "How to connect N8N to Gmail, Google Sheets, Drive, Docs, Calendar (Google Auth)",
-    "platform": "YouTube",
-    "source_id": "0GX7xEeRPIo",
-    "url": "https://www.youtube.com/watch?v=0GX7xEeRPIo",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 10212,
-      "likes": 244,
-      "comments": 18,
-      "like_to_view_ratio": 0.023893,
-      "comment_to_view_ratio": 0.001763
     }
   },
   {
@@ -412,151 +384,67 @@
     "url": "https://www.youtube.com/watch?v=IRGXJXhLa_s",
     "country": "US",
     "popularity_metrics": {
-      "views": 6447,
+      "views": 6462,
       "likes": 95,
       "comments": 11,
-      "like_to_view_ratio": 0.014736,
-      "comment_to_view_ratio": 0.001706
+      "like_to_view_ratio": 0.014701,
+      "comment_to_view_ratio": 0.001702
     }
   },
   {
-    "workflow": "Create Gmail Credentials in n8n FAST (Step-by-Step for Beginners!)",
+    "workflow": "Setup Google Credentials in n8n in 5 Minutes (Google Sheets, Drive, & Gmail)",
     "platform": "YouTube",
-    "source_id": "y191unHU-y8",
-    "url": "https://www.youtube.com/watch?v=y191unHU-y8",
+    "source_id": "lXNIteL16Z0",
+    "url": "https://www.youtube.com/watch?v=lXNIteL16Z0",
     "country": "US",
     "popularity_metrics": {
-      "views": 75,
-      "likes": 6,
-      "comments": 1,
-      "like_to_view_ratio": 0.08,
-      "comment_to_view_ratio": 0.013333
+      "views": 36997,
+      "likes": 1213,
+      "comments": 137,
+      "like_to_view_ratio": 0.032786,
+      "comment_to_view_ratio": 0.003703
     }
   },
   {
-    "workflow": "How to Connect Gmail to n8n (Updated 2026)",
+    "workflow": "How to connect N8N to Gmail, Google Sheets, Drive, Docs, Calendar (Google Auth)",
     "platform": "YouTube",
-    "source_id": "suPwuw1gJNU",
-    "url": "https://www.youtube.com/watch?v=suPwuw1gJNU",
+    "source_id": "0GX7xEeRPIo",
+    "url": "https://www.youtube.com/watch?v=0GX7xEeRPIo",
     "country": "US",
     "popularity_metrics": {
-      "views": 503,
-      "likes": 0,
-      "comments": 0,
-      "like_to_view_ratio": 0.0,
-      "comment_to_view_ratio": 0.0
+      "views": 10226,
+      "likes": 244,
+      "comments": 18,
+      "like_to_view_ratio": 0.023861,
+      "comment_to_view_ratio": 0.00176
     }
   },
   {
-    "workflow": "Build an AI Agent That Reads & Replies to Gmail (No Code)",
+    "workflow": "Automatiza tu Gmail con n8n | Clasifica correos automáticamente",
     "platform": "YouTube",
-    "source_id": "ZcP4BwY9rHw",
-    "url": "https://www.youtube.com/watch?v=ZcP4BwY9rHw",
+    "source_id": "xddoVdTjRTU",
+    "url": "https://www.youtube.com/watch?v=xddoVdTjRTU",
     "country": "US",
     "popularity_metrics": {
-      "views": 184907,
-      "likes": 1383,
-      "comments": 23,
-      "like_to_view_ratio": 0.007479,
-      "comment_to_view_ratio": 0.000124
+      "views": 17777,
+      "likes": 702,
+      "comments": 51,
+      "like_to_view_ratio": 0.039489,
+      "comment_to_view_ratio": 0.002869
     }
   },
   {
-    "workflow": "Connect N8N to Gmail in 5 Minutes: Step-by-Step Automation Guide",
+    "workflow": "Cómo conectar n8n con Google en 3 Minutos: Drive, Gmail, Sheets, Docs (Tutorial 2025)",
     "platform": "YouTube",
-    "source_id": "fmJj5NF1zpA",
-    "url": "https://www.youtube.com/watch?v=fmJj5NF1zpA",
+    "source_id": "H6Xkc9cfdrE",
+    "url": "https://www.youtube.com/watch?v=H6Xkc9cfdrE",
     "country": "US",
     "popularity_metrics": {
-      "views": 3581,
-      "likes": 51,
-      "comments": 1,
-      "like_to_view_ratio": 0.014242,
-      "comment_to_view_ratio": 0.000279
-    }
-  },
-  {
-    "workflow": "How to Connect Gmail to n8n [2026 Guide]",
-    "platform": "YouTube",
-    "source_id": "kPW7PEQfTn4",
-    "url": "https://www.youtube.com/watch?v=kPW7PEQfTn4",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 144,
-      "likes": 0,
-      "comments": 0,
-      "like_to_view_ratio": 0.0,
-      "comment_to_view_ratio": 0.0
-    }
-  },
-  {
-    "workflow": "Set Up Google Credentials In n8n In 5 Mins (Gmail, Drive, Sheets & More)",
-    "platform": "YouTube",
-    "source_id": "H1Kt1adcr84",
-    "url": "https://www.youtube.com/watch?v=H1Kt1adcr84",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 64403,
-      "likes": 1678,
-      "comments": 197,
-      "like_to_view_ratio": 0.026055,
-      "comment_to_view_ratio": 0.003059
-    }
-  },
-  {
-    "workflow": "Build an AI Email Assistant in n8n | Gmail Automation Walkthrough",
-    "platform": "YouTube",
-    "source_id": "fNBHxZtNPiY",
-    "url": "https://www.youtube.com/watch?v=fNBHxZtNPiY",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 10760,
-      "likes": 156,
-      "comments": 34,
-      "like_to_view_ratio": 0.014498,
-      "comment_to_view_ratio": 0.00316
-    }
-  },
-  {
-    "workflow": "How To Build an Email Agent in Under a Minute with n8n  #n8n #agentgpt #artificialintelligence",
-    "platform": "YouTube",
-    "source_id": "PwdayYM_hkU",
-    "url": "https://www.youtube.com/watch?v=PwdayYM_hkU",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 122454,
-      "likes": 3485,
-      "comments": 56,
-      "like_to_view_ratio": 0.02846,
-      "comment_to_view_ratio": 0.000457
-    }
-  },
-  {
-    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
-    "platform": "YouTube",
-    "source_id": "_2bfCG9922E",
-    "url": "https://www.youtube.com/watch?v=_2bfCG9922E",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 20985,
-      "likes": 384,
-      "comments": 30,
-      "like_to_view_ratio": 0.018299,
-      "comment_to_view_ratio": 0.00143
-    }
-  },
-  {
-    "workflow": "Automate Your Emails with n8n + Gmail — Step by Step",
-    "platform": "YouTube",
-    "source_id": "mS2NRbeRJsg",
-    "url": "https://www.youtube.com/watch?v=mS2NRbeRJsg",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 124,
-      "likes": 3,
-      "comments": 2,
-      "like_to_view_ratio": 0.024194,
-      "comment_to_view_ratio": 0.016129
+      "views": 47246,
+      "likes": 907,
+      "comments": 126,
+      "like_to_view_ratio": 0.019197,
+      "comment_to_view_ratio": 0.002667
     }
   },
   {
@@ -566,25 +454,81 @@
     "url": "https://www.youtube.com/watch?v=oQHblLQyGMc",
     "country": "US",
     "popularity_metrics": {
-      "views": 2415,
+      "views": 2418,
       "likes": 111,
       "comments": 27,
-      "like_to_view_ratio": 0.045963,
-      "comment_to_view_ratio": 0.01118
+      "like_to_view_ratio": 0.045906,
+      "comment_to_view_ratio": 0.011166
     }
   },
   {
-    "workflow": "How To Connect n8n To Gmail - Step by Step",
+    "workflow": "How to Connect Gmail to n8n (Updated 2026)",
     "platform": "YouTube",
-    "source_id": "I5g3uok8DOc",
-    "url": "https://www.youtube.com/watch?v=I5g3uok8DOc",
+    "source_id": "suPwuw1gJNU",
+    "url": "https://www.youtube.com/watch?v=suPwuw1gJNU",
     "country": "US",
     "popularity_metrics": {
-      "views": 1722,
-      "likes": 5,
-      "comments": 2,
-      "like_to_view_ratio": 0.002904,
-      "comment_to_view_ratio": 0.001161
+      "views": 509,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
+    }
+  },
+  {
+    "workflow": "Build an AI Email Assistant in n8n | Gmail Automation Walkthrough",
+    "platform": "YouTube",
+    "source_id": "fNBHxZtNPiY",
+    "url": "https://www.youtube.com/watch?v=fNBHxZtNPiY",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 10765,
+      "likes": 156,
+      "comments": 34,
+      "like_to_view_ratio": 0.014491,
+      "comment_to_view_ratio": 0.003158
+    }
+  },
+  {
+    "workflow": "Gmail on Autopilot: 15 Insane n8n Automation Hacks",
+    "platform": "YouTube",
+    "source_id": "_2bfCG9922E",
+    "url": "https://www.youtube.com/watch?v=_2bfCG9922E",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 20988,
+      "likes": 384,
+      "comments": 30,
+      "like_to_view_ratio": 0.018296,
+      "comment_to_view_ratio": 0.001429
+    }
+  },
+  {
+    "workflow": "Set Up Google Credentials In n8n In 5 Mins (Gmail, Drive, Sheets & More)",
+    "platform": "YouTube",
+    "source_id": "H1Kt1adcr84",
+    "url": "https://www.youtube.com/watch?v=H1Kt1adcr84",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 64408,
+      "likes": 1678,
+      "comments": 197,
+      "like_to_view_ratio": 0.026053,
+      "comment_to_view_ratio": 0.003059
+    }
+  },
+  {
+    "workflow": "Connect N8N to Gmail in 5 Minutes: Step-by-Step Automation Guide",
+    "platform": "YouTube",
+    "source_id": "fmJj5NF1zpA",
+    "url": "https://www.youtube.com/watch?v=fmJj5NF1zpA",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 3595,
+      "likes": 51,
+      "comments": 1,
+      "like_to_view_ratio": 0.014186,
+      "comment_to_view_ratio": 0.000278
     }
   },
   {
@@ -602,31 +546,17 @@
     }
   },
   {
-    "workflow": "AI Inbox Organizer for Gmail - Ready to use n8n template",
+    "workflow": "How To Connect Gmail To N8N (Automation Setup)",
     "platform": "YouTube",
-    "source_id": "L0daoX5b20I",
-    "url": "https://www.youtube.com/watch?v=L0daoX5b20I",
+    "source_id": "yWU2s3ZfQno",
+    "url": "https://www.youtube.com/watch?v=yWU2s3ZfQno",
     "country": "US",
     "popularity_metrics": {
-      "views": 3755,
-      "likes": 21,
-      "comments": 0,
-      "like_to_view_ratio": 0.005593,
-      "comment_to_view_ratio": 0.0
-    }
-  },
-  {
-    "workflow": "Send Gmail Emails From N8N [Step by Step]",
-    "platform": "YouTube",
-    "source_id": "wUIqm3a_pKc",
-    "url": "https://www.youtube.com/watch?v=wUIqm3a_pKc",
-    "country": "US",
-    "popularity_metrics": {
-      "views": 212,
-      "likes": 1,
-      "comments": 0,
-      "like_to_view_ratio": 0.004717,
-      "comment_to_view_ratio": 0.0
+      "views": 1655,
+      "likes": 8,
+      "comments": 1,
+      "like_to_view_ratio": 0.004834,
+      "comment_to_view_ratio": 0.000604
     }
   },
   {
@@ -636,39 +566,39 @@
     "url": "https://www.youtube.com/watch?v=v-PD0novMJ8",
     "country": "US",
     "popularity_metrics": {
-      "views": 12180,
+      "views": 12185,
       "likes": 142,
       "comments": 39,
-      "like_to_view_ratio": 0.011658,
-      "comment_to_view_ratio": 0.003202
+      "like_to_view_ratio": 0.011654,
+      "comment_to_view_ratio": 0.003201
     }
   },
   {
-    "workflow": "How to connect gmail to n8n - AI agent Course #5",
+    "workflow": "How To Build an Email Agent in Under a Minute with n8n  #n8n #agentgpt #artificialintelligence",
     "platform": "YouTube",
-    "source_id": "m6qY2hZ0oNE",
-    "url": "https://www.youtube.com/watch?v=m6qY2hZ0oNE",
+    "source_id": "PwdayYM_hkU",
+    "url": "https://www.youtube.com/watch?v=PwdayYM_hkU",
     "country": "US",
     "popularity_metrics": {
-      "views": 3947,
-      "likes": 94,
-      "comments": 3,
-      "like_to_view_ratio": 0.023816,
-      "comment_to_view_ratio": 0.00076
+      "views": 122684,
+      "likes": 3486,
+      "comments": 56,
+      "like_to_view_ratio": 0.028414,
+      "comment_to_view_ratio": 0.000456
     }
   },
   {
-    "workflow": "How To Add Gmail Credentials in n8n Step-By-Step",
+    "workflow": "Create Gmail Credentials in n8n FAST (Step-by-Step for Beginners!)",
     "platform": "YouTube",
-    "source_id": "iU3Jd-Uu5DI",
-    "url": "https://www.youtube.com/watch?v=iU3Jd-Uu5DI",
+    "source_id": "y191unHU-y8",
+    "url": "https://www.youtube.com/watch?v=y191unHU-y8",
     "country": "US",
     "popularity_metrics": {
-      "views": 486,
-      "likes": 12,
-      "comments": 5,
-      "like_to_view_ratio": 0.024691,
-      "comment_to_view_ratio": 0.010288
+      "views": 78,
+      "likes": 6,
+      "comments": 1,
+      "like_to_view_ratio": 0.076923,
+      "comment_to_view_ratio": 0.012821
     }
   },
   {
@@ -678,25 +608,95 @@
     "url": "https://www.youtube.com/watch?v=iSpeQ2XUXmM",
     "country": "US",
     "popularity_metrics": {
-      "views": 5582,
-      "likes": 182,
+      "views": 5617,
+      "likes": 183,
       "comments": 4,
-      "like_to_view_ratio": 0.032605,
-      "comment_to_view_ratio": 0.000717
+      "like_to_view_ratio": 0.03258,
+      "comment_to_view_ratio": 0.000712
     }
   },
   {
-    "workflow": "Cómo conectar n8n con Google en 3 Minutos: Drive, Gmail, Sheets, Docs (Tutorial 2025)",
+    "workflow": "This Gmail AI Agent classifies/labels incoming Emails and even generates a personal response #n8n",
     "platform": "YouTube",
-    "source_id": "H6Xkc9cfdrE",
-    "url": "https://www.youtube.com/watch?v=H6Xkc9cfdrE",
+    "source_id": "hxvvl9g7_Zg",
+    "url": "https://www.youtube.com/watch?v=hxvvl9g7_Zg",
     "country": "US",
     "popularity_metrics": {
-      "views": 47213,
-      "likes": 907,
-      "comments": 126,
-      "like_to_view_ratio": 0.019211,
-      "comment_to_view_ratio": 0.002669
+      "views": 32251,
+      "likes": 1120,
+      "comments": 28,
+      "like_to_view_ratio": 0.034728,
+      "comment_to_view_ratio": 0.000868
+    }
+  },
+  {
+    "workflow": "Build an AI Agent That Reads & Replies to Gmail (No Code)",
+    "platform": "YouTube",
+    "source_id": "ZcP4BwY9rHw",
+    "url": "https://www.youtube.com/watch?v=ZcP4BwY9rHw",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 185400,
+      "likes": 1384,
+      "comments": 23,
+      "like_to_view_ratio": 0.007465,
+      "comment_to_view_ratio": 0.000124
+    }
+  },
+  {
+    "workflow": "How to Connect Gmail to n8n [2026 Guide]",
+    "platform": "YouTube",
+    "source_id": "kPW7PEQfTn4",
+    "url": "https://www.youtube.com/watch?v=kPW7PEQfTn4",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 144,
+      "likes": 0,
+      "comments": 0,
+      "like_to_view_ratio": 0.0,
+      "comment_to_view_ratio": 0.0
+    }
+  },
+  {
+    "workflow": "Comment automatiser Gmail avec N8N en 2025 sans code (Tutoriel complet)",
+    "platform": "YouTube",
+    "source_id": "mNMnJU_9quU",
+    "url": "https://www.youtube.com/watch?v=mNMnJU_9quU",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 1091,
+      "likes": 15,
+      "comments": 6,
+      "like_to_view_ratio": 0.013749,
+      "comment_to_view_ratio": 0.0055
+    }
+  },
+  {
+    "workflow": "Automate Your Emails with n8n + Gmail — Step by Step",
+    "platform": "YouTube",
+    "source_id": "mS2NRbeRJsg",
+    "url": "https://www.youtube.com/watch?v=mS2NRbeRJsg",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 125,
+      "likes": 3,
+      "comments": 2,
+      "like_to_view_ratio": 0.024,
+      "comment_to_view_ratio": 0.016
+    }
+  },
+  {
+    "workflow": "How to send automated emails from Google Sheets using AI n8n tutorial #n8n",
+    "platform": "YouTube",
+    "source_id": "UHgytaNodAo",
+    "url": "https://www.youtube.com/watch?v=UHgytaNodAo",
+    "country": "US",
+    "popularity_metrics": {
+      "views": 6454,
+      "likes": 223,
+      "comments": 5,
+      "like_to_view_ratio": 0.034552,
+      "comment_to_view_ratio": 0.000775
     }
   }
 ]
