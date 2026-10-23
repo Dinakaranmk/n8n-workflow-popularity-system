@@ -5,20 +5,20 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        22,
-        16,
-        20,
-        23,
-        16,
-        17,
-        22,
-        17,
-        18,
-        23
+        26,
+        28,
+        33,
+        29,
+        25,
+        28,
+        26,
+        27,
+        27,
+        31
       ],
-      "start_value": 82,
-      "end_value": 23,
-      "trend_percentage_change": -71.95
+      "start_value": 0,
+      "end_value": 31,
+      "trend_percentage_change": 0
     }
   },
   {
@@ -27,19 +27,19 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        24,
+        26,
+        28,
         29,
-        27,
-        29,
-        20,
-        18,
-        20,
-        24,
-        33,
-        23
+        22,
+        17,
+        22,
+        23,
+        28,
+        30,
+        30
       ],
       "start_value": 0,
-      "end_value": 23,
+      "end_value": 30,
       "trend_percentage_change": 0
     }
   },
@@ -50,18 +50,18 @@
     "popularity_metrics": {
       "trend_values": [
         22,
+        18,
+        30,
+        27,
+        17,
+        26,
+        27,
+        17,
         21,
-        18,
-        25,
-        26,
-        18,
-        25,
-        26,
-        18,
-        25
+        20
       ],
       "start_value": 0,
-      "end_value": 25,
+      "end_value": 20,
       "trend_percentage_change": 0
     }
   },
@@ -71,19 +71,19 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        38,
-        35,
-        40,
+        34,
         37,
-        41,
         35,
+        39,
+        33,
         32,
-        40,
-        40,
-        30
+        39,
+        41,
+        38,
+        37
       ],
       "start_value": 0,
-      "end_value": 30,
+      "end_value": 37,
       "trend_percentage_change": 0
     }
   },
@@ -93,15 +93,15 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        82,
-        90,
-        93,
-        75,
+        85,
+        88,
+        59,
+        85,
+        0,
+        63,
+        72,
         100,
         0,
-        72,
-        0,
-        59,
         0
       ],
       "start_value": 0,
@@ -115,19 +115,19 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        73,
-        100,
-        77,
-        78,
-        71,
-        66,
-        56,
-        57,
-        74,
-        64
+        21,
+        18,
+        18,
+        12,
+        18,
+        12,
+        20,
+        16,
+        21,
+        27
       ],
       "start_value": 0,
-      "end_value": 64,
+      "end_value": 27,
       "trend_percentage_change": 0
     }
   },
@@ -139,11 +139,11 @@
       "trend_values": [
         0,
         0,
+        92,
         0,
-        10,
         0,
+        70,
         0,
-        14,
         0,
         0,
         0
@@ -159,7 +159,7 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        7,
+        0,
         0,
         0,
         0,
@@ -203,26 +203,26 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        85,
-        73,
-        89,
-        65,
-        80,
-        55,
-        58,
-        58,
-        48,
-        68
+        17,
+        18,
+        22,
+        20,
+        22,
+        21,
+        14,
+        15,
+        20,
+        31
       ],
       "start_value": 0,
-      "end_value": 68,
+      "end_value": 31,
       "trend_percentage_change": 0
     }
   },
   {
     "workflow": "n8n airtable",
     "platform": "GoogleTrends",
-    "country": "IN",
+    "country": "US",
     "popularity_metrics": {
       "trend_values": [
         0,
@@ -247,15 +247,15 @@
     "country": "IN",
     "popularity_metrics": {
       "trend_values": [
-        46,
+        0,
+        92,
+        0,
+        100,
+        100,
         0,
         0,
+        81,
         0,
-        72,
-        60,
-        0,
-        0,
-        68,
         0
       ],
       "start_value": 0,
@@ -269,15 +269,15 @@
     "country": "US",
     "popularity_metrics": {
       "trend_values": [
-        48,
-        73,
+        3,
         0,
-        94,
-        51,
+        4,
         0,
-        58,
-        100,
-        46,
+        2,
+        2,
+        3,
+        3,
+        3,
         0
       ],
       "start_value": 0,
@@ -296,7 +296,7 @@
         0,
         0,
         0,
-        0,
+        100,
         0,
         0,
         0,
@@ -332,7 +332,7 @@
   {
     "workflow": "n8n tutorial",
     "platform": "GoogleTrends",
-    "country": "IN",
+    "country": "US",
     "popularity_metrics": {
       "trend_values": [
         0,
@@ -340,9 +340,31 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
         100,
+        0
+      ],
+      "start_value": 0,
+      "end_value": 0,
+      "trend_percentage_change": 0
+    }
+  },
+  {
+    "workflow": "n8n tutorial",
+    "platform": "GoogleTrends",
+    "country": "IN",
+    "popularity_metrics": {
+      "trend_values": [
         0,
         0,
+        4,
+        0,
+        0,
+        0,
+        5,
+        5,
         0,
         0
       ],
