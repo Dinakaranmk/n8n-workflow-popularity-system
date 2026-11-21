@@ -6,7 +6,7 @@
     "url": "https://community.n8n.io/t/nod-an-open-source-personal-agent-with-its-own-computer-research-preview-from-n8n-labs/328026",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 1230,
+      "views": 1300,
       "likes": 24,
       "replies": 1,
       "unique_contributors": 0,
@@ -20,7 +20,7 @@
     "url": "https://community.n8n.io/t/welcome-to-the-n8n-community/7",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 22045,
+      "views": 22058,
       "likes": 133,
       "replies": 0,
       "unique_contributors": 0,
@@ -28,45 +28,17 @@
     }
   },
   {
-    "workflow": "UK VAT threshold monitor: rolling 12 months vs £90,000 (Google Sheets + Gmail)",
+    "workflow": "Gmail Reply to a topic with a label",
     "platform": "Forum",
-    "source_id": 329393,
-    "url": "https://community.n8n.io/t/uk-vat-threshold-monitor-rolling-12-months-vs-90-000-google-sheets-gmail/329393",
+    "source_id": 329908,
+    "url": "https://community.n8n.io/t/gmail-reply-to-a-topic-with-a-label/329908",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 28,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "N8n Cloud Form Trigger – Submission Fails Despite Authentication Set to None",
-    "platform": "Forum",
-    "source_id": 329416,
-    "url": "https://community.n8n.io/t/n8n-cloud-form-trigger-submission-fails-despite-authentication-set-to-none/329416",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 85,
-      "likes": 6,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 9
-    }
-  },
-  {
-    "workflow": "Regression in 2.46.0: $('Node').first() returns null for a node's error output in webhook executions (fixed by N8N_EXPRESSION_ENGINE=legacy)",
-    "platform": "Forum",
-    "source_id": 329337,
-    "url": "https://community.n8n.io/t/regression-in-2-46-0-node-first-returns-null-for-a-nodes-error-output-in-webhook-executions-fixed-by-n8n-expression-engine-legacy/329337",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 83,
+      "views": 34,
       "likes": 2,
-      "replies": 0,
+      "replies": 5,
       "unique_contributors": 0,
-      "engagement_score": 2
+      "engagement_score": 7
     }
   },
   {
@@ -76,11 +48,39 @@
     "url": "https://community.n8n.io/t/agents-preview-how-to-deliver-an-n8n-agent-from-a-dev-instance-to-a-prod-instance-couldnt-load-agent-details-after-moving-the-workflow/329692",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 8,
+      "views": 40,
       "likes": 0,
-      "replies": 0,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 0
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How Do You Prevent Duplicate API Operations When Workflows Retry Failed Requests?",
+    "platform": "Forum",
+    "source_id": 329364,
+    "url": "https://community.n8n.io/t/how-do-you-prevent-duplicate-api-operations-when-workflows-retry-failed-requests/329364",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 139,
+      "likes": 1,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "For human approval in n8n, do you prefer the Wait form or Slack Send and Wait for Response?",
+    "platform": "Forum",
+    "source_id": 328231,
+    "url": "https://community.n8n.io/t/for-human-approval-in-n8n-do-you-prefer-the-wait-form-or-slack-send-and-wait-for-response/328231",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 212,
+      "likes": 10,
+      "replies": 11,
+      "unique_contributors": 0,
+      "engagement_score": 21
     }
   },
   {
@@ -90,39 +90,95 @@
     "url": "https://community.n8n.io/t/if-node-problem-emails-nicht-sortiert/329550",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 56,
+      "views": 97,
       "likes": 0,
-      "replies": 5,
+      "replies": 11,
       "unique_contributors": 0,
-      "engagement_score": 5
+      "engagement_score": 11
     }
   },
   {
-    "workflow": "Help - all my workflows are down",
+    "workflow": "How do you handle the atomic claim for webhook duplicates?",
     "platform": "Forum",
-    "source_id": 329632,
-    "url": "https://community.n8n.io/t/help-all-my-workflows-are-down/329632",
+    "source_id": 325875,
+    "url": "https://community.n8n.io/t/how-do-you-handle-the-atomic-claim-for-webhook-duplicates/325875",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 56,
+      "views": 214,
       "likes": 0,
-      "replies": 8,
+      "replies": 2,
       "unique_contributors": 0,
-      "engagement_score": 8
+      "engagement_score": 2
     }
   },
   {
-    "workflow": "Creator Portal False Rejection for @creative-x-lab/n8n-nodes-17track",
+    "workflow": "N8n 2.49 beta: four changes I'm actually testing before stable hits",
     "platform": "Forum",
-    "source_id": 329685,
-    "url": "https://community.n8n.io/t/creator-portal-false-rejection-for-creative-x-lab-n8n-nodes-17track/329685",
+    "source_id": 329907,
+    "url": "https://community.n8n.io/t/n8n-2-49-beta-four-changes-im-actually-testing-before-stable-hits/329907",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 9,
+      "views": 11,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Automatizar",
+    "platform": "Forum",
+    "source_id": 329458,
+    "url": "https://community.n8n.io/t/automatizar/329458",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 59,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "For those who deliver PDF/doc extraction to clients — what happens after your review queue?",
+    "platform": "Forum",
+    "source_id": 329724,
+    "url": "https://community.n8n.io/t/for-those-who-deliver-pdf-doc-extraction-to-clients-what-happens-after-your-review-queue/329724",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 59,
+      "likes": 0,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "1688 Supplier Finder: find Chinese factories and your margin in one click",
+    "platform": "Forum",
+    "source_id": 329879,
+    "url": "https://community.n8n.io/t/1688-supplier-finder-find-chinese-factories-and-your-margin-in-one-click/329879",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 21,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "The pattern I use so a webhook retry in n8n never fires the action twice",
+    "platform": "Forum",
+    "source_id": 329105,
+    "url": "https://community.n8n.io/t/the-pattern-i-use-so-a-webhook-retry-in-n8n-never-fires-the-action-twice/329105",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 55,
+      "likes": 3,
+      "replies": 3,
+      "unique_contributors": 0,
+      "engagement_score": 6
     }
   },
   {
@@ -132,165 +188,25 @@
     "url": "https://community.n8n.io/t/would-you-let-an-ai-agent-fix-your-production-n8n-workflows-without-your-approval/329570",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 96,
-      "likes": 7,
-      "replies": 13,
+      "views": 177,
+      "likes": 19,
+      "replies": 18,
       "unique_contributors": 0,
-      "engagement_score": 20
+      "engagement_score": 37
     }
   },
   {
-    "workflow": "Why my approval webhook kept leaving people with a spinning browser (Sharing my learnings)",
+    "workflow": "Small echo workflow I use when a request works in Postman but not in n8n",
     "platform": "Forum",
-    "source_id": 329582,
-    "url": "https://community.n8n.io/t/why-my-approval-webhook-kept-leaving-people-with-a-spinning-browser-sharing-my-learnings/329582",
+    "source_id": 329864,
+    "url": "https://community.n8n.io/t/small-echo-workflow-i-use-when-a-request-works-in-postman-but-not-in-n8n/329864",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 41,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Reasoning_effort error with n8n Assistant and OpenAI-compatible endpoint",
-    "platform": "Forum",
-    "source_id": 329448,
-    "url": "https://community.n8n.io/t/reasoning-effort-error-with-n8n-assistant-and-openai-compatible-endpoint/329448",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 86,
+      "views": 33,
       "likes": 1,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Intermittent ETIMEDOUT / ECONNABORTED from HTTP Request to api.attio.com on n8n Cloud",
-    "platform": "Forum",
-    "source_id": 328327,
-    "url": "https://community.n8n.io/t/intermittent-etimedout-econnaborted-from-http-request-to-api-attio-com-on-n8n-cloud/328327",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 189,
-      "likes": 1,
-      "replies": 12,
-      "unique_contributors": 0,
-      "engagement_score": 13
-    }
-  },
-  {
-    "workflow": "Postgres connections with custom SSL certs finally work properly (3.1)",
-    "platform": "Forum",
-    "source_id": 329670,
-    "url": "https://community.n8n.io/t/postgres-connections-with-custom-ssl-certs-finally-work-properly-3-1/329670",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 15,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Agent Settings: memory context window and compression-model warnings",
-    "platform": "Forum",
-    "source_id": 328744,
-    "url": "https://community.n8n.io/t/agent-settings-memory-context-window-and-compression-model-warnings/328744",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 45,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Would you let an AI agent modify your production n8n workflows without approval?",
-    "platform": "Forum",
-    "source_id": 329557,
-    "url": "https://community.n8n.io/t/would-you-let-an-ai-agent-modify-your-production-n8n-workflows-without-approval/329557",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 37,
-      "likes": 2,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "Your client noticed the automation broke before you did. Again",
-    "platform": "Forum",
-    "source_id": 329329,
-    "url": "https://community.n8n.io/t/your-client-noticed-the-automation-broke-before-you-did-again/329329",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 59,
-      "likes": 0,
       "replies": 1,
       "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Switching from Cursor to n8n workflows — what are people using for AI coding help?",
-    "platform": "Forum",
-    "source_id": 329324,
-    "url": "https://community.n8n.io/t/switching-from-cursor-to-n8n-workflows-what-are-people-using-for-ai-coding-help/329324",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 59,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "How Do You Handle Client Credentials When Building n8n Automations for Non-Technical Clients?",
-    "platform": "Forum",
-    "source_id": 329522,
-    "url": "https://community.n8n.io/t/how-do-you-handle-client-credentials-when-building-n8n-automations-for-non-technical-clients/329522",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 73,
-      "likes": 2,
-      "replies": 1,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "Orvanta: a control center for your n8n workflows and AI agents (alerts, pause, approvals)",
-    "platform": "Forum",
-    "source_id": 328547,
-    "url": "https://community.n8n.io/t/orvanta-a-control-center-for-your-n8n-workflows-and-ai-agents-alerts-pause-approvals/328547",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 63,
-      "likes": 0,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 3
-    }
-  },
-  {
-    "workflow": "From learning n8n to finding my first clients — building an automation business in public",
-    "platform": "Forum",
-    "source_id": 318265,
-    "url": "https://community.n8n.io/t/from-learning-n8n-to-finding-my-first-clients-building-an-automation-business-in-public/318265",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 221,
-      "likes": 11,
-      "replies": 2,
-      "unique_contributors": 0,
-      "engagement_score": 13
+      "engagement_score": 2
     }
   },
   {
@@ -300,123 +216,95 @@
     "url": "https://community.n8n.io/t/whats-worse-than-a-broken-n8n-workflow-one-you-already-fixed-or-so-you-thought/329225",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 52,
-      "likes": 2,
-      "replies": 3,
+      "views": 81,
+      "likes": 5,
+      "replies": 5,
+      "unique_contributors": 0,
+      "engagement_score": 10
+    }
+  },
+  {
+    "workflow": "HVAC company question: High efficiency rebates - n8n workflow to remind PSEG customers about upgrades and service",
+    "platform": "Forum",
+    "source_id": 328494,
+    "url": "https://community.n8n.io/t/hvac-company-question-high-efficiency-rebates-n8n-workflow-to-remind-pseg-customers-about-upgrades-and-service/328494",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 119,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "N8n Cloud: three parallel sub-workflows become “crashed” almost simultaneously, with no recorded node errors",
+    "platform": "Forum",
+    "source_id": 327592,
+    "url": "https://community.n8n.io/t/n8n-cloud-three-parallel-sub-workflows-become-crashed-almost-simultaneously-with-no-recorded-node-errors/327592",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 104,
+      "likes": 5,
+      "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 5
     }
   },
   {
-    "workflow": "Would you trust your n8n workflows to run for 30 days without checking them?",
+    "workflow": "Monthly maintenance clients: what do you send them in a month where nothing broke?",
     "platform": "Forum",
-    "source_id": 328741,
-    "url": "https://community.n8n.io/t/would-you-trust-your-n8n-workflows-to-run-for-30-days-without-checking-them/328741",
+    "source_id": 328887,
+    "url": "https://community.n8n.io/t/monthly-maintenance-clients-what-do-you-send-them-in-a-month-where-nothing-broke/328887",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 154,
-      "likes": 13,
-      "replies": 19,
+      "views": 117,
+      "likes": 8,
+      "replies": 10,
       "unique_contributors": 0,
-      "engagement_score": 32
+      "engagement_score": 18
     }
   },
   {
-    "workflow": "The workflow failed, but the email still went out. How do you test for that?",
+    "workflow": "💡 Sharing an idea (dream?): automating credentials creation",
     "platform": "Forum",
-    "source_id": 328182,
-    "url": "https://community.n8n.io/t/the-workflow-failed-but-the-email-still-went-out-how-do-you-test-for-that/328182",
+    "source_id": 34041,
+    "url": "https://community.n8n.io/t/sharing-an-idea-dream-automating-credentials-creation/34041",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 198,
-      "likes": 20,
-      "replies": 22,
-      "unique_contributors": 0,
-      "engagement_score": 42
-    }
-  },
-  {
-    "workflow": "N8n Forms + Nextcloud WebDAV: a German working-time checker (ETag locking, Form node gotchas on 2.46.6)",
-    "platform": "Forum",
-    "source_id": 329586,
-    "url": "https://community.n8n.io/t/n8n-forms-nextcloud-webdav-a-german-working-time-checker-etag-locking-form-node-gotchas-on-2-46-6/329586",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 30,
-      "likes": 1,
-      "replies": 3,
-      "unique_contributors": 0,
-      "engagement_score": 4
-    }
-  },
-  {
-    "workflow": "I made a game where you are the human in the loop. Would you have approved the €4,800 refund?",
-    "platform": "Forum",
-    "source_id": 329392,
-    "url": "https://community.n8n.io/t/i-made-a-game-where-you-are-the-human-in-the-loop-would-you-have-approved-the-4-800-refund/329392",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 91,
+      "views": 235,
       "likes": 0,
-      "replies": 8,
+      "replies": 0,
       "unique_contributors": 0,
-      "engagement_score": 8
+      "engagement_score": 0
     }
   },
   {
-    "workflow": "How I stop an AI support bot from promising refunds: a policy guard pattern for n8n",
+    "workflow": "Getting alerted when a workflow fails: Error Trigger setup and the gaps people miss",
     "platform": "Forum",
-    "source_id": 328085,
-    "url": "https://community.n8n.io/t/how-i-stop-an-ai-support-bot-from-promising-refunds-a-policy-guard-pattern-for-n8n/328085",
+    "source_id": 329789,
+    "url": "https://community.n8n.io/t/getting-alerted-when-a-workflow-fails-error-trigger-setup-and-the-gaps-people-miss/329789",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 105,
+      "views": 36,
       "likes": 1,
-      "replies": 5,
-      "unique_contributors": 0,
-      "engagement_score": 6
-    }
-  },
-  {
-    "workflow": "Retry re-sent 49 emails that had already gone out (and node \"Retry On Fail\" marked it as success)",
-    "platform": "Forum",
-    "source_id": 327579,
-    "url": "https://community.n8n.io/t/retry-re-sent-49-emails-that-had-already-gone-out-and-node-retry-on-fail-marked-it-as-success/327579",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 338,
-      "likes": 4,
-      "replies": 18,
-      "unique_contributors": 0,
-      "engagement_score": 22
-    }
-  },
-  {
-    "workflow": "How Are You Preserving Context When Handing Work Between AI Agents?",
-    "platform": "Forum",
-    "source_id": 329418,
-    "url": "https://community.n8n.io/t/how-are-you-preserving-context-when-handing-work-between-ai-agents/329418",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 68,
-      "likes": 3,
       "replies": 1,
       "unique_contributors": 0,
-      "engagement_score": 4
+      "engagement_score": 2
     }
   },
   {
-    "workflow": "Approval is not execution: a decision-routing issue fixed in an n8n community node",
+    "workflow": "Orvanta: a control center for your n8n workflows and AI agents (alerts, pause, approvals)",
     "platform": "Forum",
-    "source_id": 329222,
-    "url": "https://community.n8n.io/t/approval-is-not-execution-a-decision-routing-issue-fixed-in-an-n8n-community-node/329222",
+    "source_id": 328547,
+    "url": "https://community.n8n.io/t/orvanta-a-control-center-for-your-n8n-workflows-and-ai-agents-alerts-pause-approvals/328547",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 59,
-      "likes": 1,
-      "replies": 2,
+      "views": 76,
+      "likes": 0,
+      "replies": 4,
       "unique_contributors": 0,
-      "engagement_score": 3
+      "engagement_score": 4
     }
   },
   {
@@ -426,7 +314,7 @@
     "url": "https://community.n8n.io/t/loop-node-issue-it-outputs-more-than-one-item-when-it-is-done/329435",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 73,
+      "views": 89,
       "likes": 1,
       "replies": 3,
       "unique_contributors": 0,
@@ -434,27 +322,13 @@
     }
   },
   {
-    "workflow": "Different behaviour for HTTP GET nodes when running workflow vs running node individually",
+    "workflow": "Self-conflicting webhook path after Unpublish: cannot republish same workflow (self-hosted CE)",
     "platform": "Forum",
-    "source_id": 329564,
-    "url": "https://community.n8n.io/t/different-behaviour-for-http-get-nodes-when-running-workflow-vs-running-node-individually/329564",
+    "source_id": 329412,
+    "url": "https://community.n8n.io/t/self-conflicting-webhook-path-after-unpublish-cannot-republish-same-workflow-self-hosted-ce/329412",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 36,
-      "likes": 0,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 0
-    }
-  },
-  {
-    "workflow": "Não está sendo gerado output",
-    "platform": "Forum",
-    "source_id": 329468,
-    "url": "https://community.n8n.io/t/nao-esta-sendo-gerado-output/329468",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 44,
+      "views": 73,
       "likes": 2,
       "replies": 0,
       "unique_contributors": 0,
@@ -462,41 +336,27 @@
     }
   },
   {
-    "workflow": "N8N Agent Slack Chat response fix?",
+    "workflow": "How Do You Handle Client Credentials When Building n8n Automations for Non-Technical Clients?",
     "platform": "Forum",
-    "source_id": 329464,
-    "url": "https://community.n8n.io/t/n8n-agent-slack-chat-response-fix/329464",
+    "source_id": 329522,
+    "url": "https://community.n8n.io/t/how-do-you-handle-client-credentials-when-building-n8n-automations-for-non-technical-clients/329522",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 54,
-      "likes": 3,
-      "replies": 0,
+      "views": 102,
+      "likes": 2,
+      "replies": 1,
       "unique_contributors": 0,
       "engagement_score": 3
     }
   },
   {
-    "workflow": "Nod Questions - managing context window size?",
+    "workflow": "4 silent webhook & AI agent failure patterns I keep seeing in n8n workflows (+ free local JSON auditor)",
     "platform": "Forum",
-    "source_id": 329530,
-    "url": "https://community.n8n.io/t/nod-questions-managing-context-window-size/329530",
+    "source_id": 329853,
+    "url": "https://community.n8n.io/t/4-silent-webhook-ai-agent-failure-patterns-i-keep-seeing-in-n8n-workflows-free-local-json-auditor/329853",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 36,
-      "likes": 2,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 2
-    }
-  },
-  {
-    "workflow": "Routing Carrier Tracking Webhooks Into One Shipment Status Feed in n8n: Where Custom Logistics Software Development Fits",
-    "platform": "Forum",
-    "source_id": 329573,
-    "url": "https://community.n8n.io/t/routing-carrier-tracking-webhooks-into-one-shipment-status-feed-in-n8n-where-custom-logistics-software-development-fits/329573",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 18,
+      "views": 19,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -510,77 +370,119 @@
     "url": "https://community.n8n.io/t/multi-agent-eeg-seizure-detection-labview-n8n-3-groq-agents-google-sheets-open-source/320408",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 154,
+      "views": 169,
+      "likes": 6,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 10
+    }
+  },
+  {
+    "workflow": "Request to Enable Service Access for Users in Syria",
+    "platform": "Forum",
+    "source_id": 329410,
+    "url": "https://community.n8n.io/t/request-to-enable-service-access-for-users-in-syria/329410",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 29,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "Regression in 2.46.0: $('Node').first() returns null for a node's error output in webhook executions (fixed by N8N_EXPRESSION_ENGINE=legacy)",
+    "platform": "Forum",
+    "source_id": 329337,
+    "url": "https://community.n8n.io/t/regression-in-2-46-0-node-first-returns-null-for-a-nodes-error-output-in-webhook-executions-fixed-by-n8n-expression-engine-legacy/329337",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 102,
+      "likes": 3,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 3
+    }
+  },
+  {
+    "workflow": "N8n Forms + Nextcloud WebDAV: a German working-time checker (ETag locking, Form node gotchas on 2.46.6)",
+    "platform": "Forum",
+    "source_id": 329586,
+    "url": "https://community.n8n.io/t/n8n-forms-nextcloud-webdav-a-german-working-time-checker-etag-locking-form-node-gotchas-on-2-46-6/329586",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 43,
+      "likes": 1,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 5
+    }
+  },
+  {
+    "workflow": "Looking for Guidance: How Should Someone With Zero Tech Background Start Learning n8n?",
+    "platform": "Forum",
+    "source_id": 329140,
+    "url": "https://community.n8n.io/t/looking-for-guidance-how-should-someone-with-zero-tech-background-start-learning-n8n/329140",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 73,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "I built an n8n power planner that shows the cheapest and greenest hours (live data + JSON)",
+    "platform": "Forum",
+    "source_id": 329837,
+    "url": "https://community.n8n.io/t/i-built-an-n8n-power-planner-that-shows-the-cheapest-and-greenest-hours-live-data-json/329837",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 19,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Building a WooCommerce order report in n8n: the edge cases that take longer than the workflow",
+    "platform": "Forum",
+    "source_id": 327989,
+    "url": "https://community.n8n.io/t/building-a-woocommerce-order-report-in-n8n-the-edge-cases-that-take-longer-than-the-workflow/327989",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 110,
+      "likes": 4,
+      "replies": 7,
+      "unique_contributors": 0,
+      "engagement_score": 11
+    }
+  },
+  {
+    "workflow": "Open-source n8n templates for bulk email verification — Sheets, CSV cleanup, signup webhook, AI agent tool (EN/中文)",
+    "platform": "Forum",
+    "source_id": 322589,
+    "url": "https://community.n8n.io/t/open-source-n8n-templates-for-bulk-email-verification-sheets-csv-cleanup-signup-webhook-ai-agent-tool-en/322589",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 159,
       "likes": 5,
-      "replies": 3,
+      "replies": 4,
       "unique_contributors": 0,
-      "engagement_score": 8
+      "engagement_score": 9
     }
   },
   {
-    "workflow": "You inherit 50 n8n workflows from another developer. What's the FIRST thing you check?",
+    "workflow": "Free template: Draft sales call follow-up emails from Fireflies with OpenAI and Gmail",
     "platform": "Forum",
-    "source_id": 329108,
-    "url": "https://community.n8n.io/t/you-inherit-50-n8n-workflows-from-another-developer-whats-the-first-thing-you-check/329108",
+    "source_id": 322633,
+    "url": "https://community.n8n.io/t/free-template-draft-sales-call-follow-up-emails-from-fireflies-with-openai-and-gmail/322633",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 116,
-      "likes": 10,
-      "replies": 15,
-      "unique_contributors": 0,
-      "engagement_score": 25
-    }
-  },
-  {
-    "workflow": "Any additional deployment options for the new n8n agents?",
-    "platform": "Forum",
-    "source_id": 329531,
-    "url": "https://community.n8n.io/t/any-additional-deployment-options-for-the-new-n8n-agents/329531",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 37,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "QS101 Question 5 — totalBooked value mismatch in Code node",
-    "platform": "Forum",
-    "source_id": 315629,
-    "url": "https://community.n8n.io/t/qs101-question-5-totalbooked-value-mismatch-in-code-node/315629",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 137,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "WhatsApp AI chatbot for a fast food restaurant in n8n: 5 things that broke",
-    "platform": "Forum",
-    "source_id": 329201,
-    "url": "https://community.n8n.io/t/whatsapp-ai-chatbot-for-a-fast-food-restaurant-in-n8n-5-things-that-broke/329201",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 56,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Improved wait node forms: dynamic fields, customization and multi-step forms",
-    "platform": "Forum",
-    "source_id": 327742,
-    "url": "https://community.n8n.io/t/improved-wait-node-forms-dynamic-fields-customization-and-multi-step-forms/327742",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 45,
+      "views": 51,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
@@ -588,17 +490,31 @@
     }
   },
   {
-    "workflow": "[Sharing] Multi-Platform Lead Capture workflow (Webhook + Conversation Memory + Google Sheets)",
+    "workflow": "Daily $1M+ SEC Form D Funded Startup & CEO Phone Alerts (Filtering Out 76% Fund Noise in 5 Nodes)",
     "platform": "Forum",
-    "source_id": 329552,
-    "url": "https://community.n8n.io/t/sharing-multi-platform-lead-capture-workflow-webhook-conversation-memory-google-sheets/329552",
+    "source_id": 329617,
+    "url": "https://community.n8n.io/t/daily-1m-sec-form-d-funded-startup-ceo-phone-alerts-filtering-out-76-fund-noise-in-5-nodes/329617",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 16,
+      "views": 22,
       "likes": 0,
       "replies": 0,
       "unique_contributors": 0,
       "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "I let n8n write and publish blog posts for a real site. Here's what I'd change",
+    "platform": "Forum",
+    "source_id": 327848,
+    "url": "https://community.n8n.io/t/i-let-n8n-write-and-publish-blog-posts-for-a-real-site-heres-what-id-change/327848",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 41,
+      "likes": 1,
+      "replies": 1,
+      "unique_contributors": 0,
+      "engagement_score": 2
     }
   },
   {
@@ -608,7 +524,7 @@
     "url": "https://community.n8n.io/t/early-thoughts-after-using-nod/328512",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 264,
+      "views": 286,
       "likes": 4,
       "replies": 0,
       "unique_contributors": 0,
@@ -616,87 +532,171 @@
     }
   },
   {
-    "workflow": "Would you pay $29/mo to know when a client's workflow fails silently?",
+    "workflow": "Approval is not execution: a decision-routing issue fixed in an n8n community node",
     "platform": "Forum",
-    "source_id": 328555,
-    "url": "https://community.n8n.io/t/would-you-pay-29-mo-to-know-when-a-clients-workflow-fails-silently/328555",
+    "source_id": 329222,
+    "url": "https://community.n8n.io/t/approval-is-not-execution-a-decision-routing-issue-fixed-in-an-n8n-community-node/329222",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 153,
-      "likes": 0,
-      "replies": 13,
-      "unique_contributors": 0,
-      "engagement_score": 13
-    }
-  },
-  {
-    "workflow": "Building AI WhatsApp Automation for Dental Clinics: Architecture, Edge Cases & System Management?",
-    "platform": "Forum",
-    "source_id": 323579,
-    "url": "https://community.n8n.io/t/building-ai-whatsapp-automation-for-dental-clinics-architecture-edge-cases-system-management/323579",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 309,
-      "likes": 2,
-      "replies": 1,
+      "views": 65,
+      "likes": 1,
+      "replies": 2,
       "unique_contributors": 0,
       "engagement_score": 3
     }
   },
   {
-    "workflow": "Made a community node for German E-Rechnung (ZUGFeRD & XRechnung)",
+    "workflow": "B2B telecom pre-sales in n8n: an orchestrator, three specialist agents and one shared RAG (public workflows, fictional data)",
     "platform": "Forum",
-    "source_id": 328915,
-    "url": "https://community.n8n.io/t/made-a-community-node-for-german-e-rechnung-zugferd-xrechnung/328915",
+    "source_id": 328226,
+    "url": "https://community.n8n.io/t/b2b-telecom-pre-sales-in-n8n-an-orchestrator-three-specialist-agents-and-one-shared-rag-public-workflows-fictional-data/328226",
     "country": "GLOBAL",
     "popularity_metrics": {
-      "views": 41,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Zendesk is retiring API tokens. Your n8n workflows keep running until they don't",
-    "platform": "Forum",
-    "source_id": 329524,
-    "url": "https://community.n8n.io/t/zendesk-is-retiring-api-tokens-your-n8n-workflows-keep-running-until-they-dont/329524",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 16,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "A free browser game for practising n8n workflows",
-    "platform": "Forum",
-    "source_id": 329520,
-    "url": "https://community.n8n.io/t/a-free-browser-game-for-practising-n8n-workflows/329520",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 22,
-      "likes": 1,
-      "replies": 0,
-      "unique_contributors": 0,
-      "engagement_score": 1
-    }
-  },
-  {
-    "workflow": "Which n8n expression mistake has bitten you — || eating 0, or dates in the wrong timezone?",
-    "platform": "Forum",
-    "source_id": 328974,
-    "url": "https://community.n8n.io/t/which-n8n-expression-mistake-has-bitten-you-eating-0-or-dates-in-the-wrong-timezone/328974",
-    "country": "GLOBAL",
-    "popularity_metrics": {
-      "views": 92,
+      "views": 63,
       "likes": 0,
-      "replies": 2,
+      "replies": 4,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "WhatsApp AI assistant for language academies (Spanish): live seats from Google Sheets, level tests and waiting list",
+    "platform": "Forum",
+    "source_id": 329794,
+    "url": "https://community.n8n.io/t/whatsapp-ai-assistant-for-language-academies-spanish-live-seats-from-google-sheets-level-tests-and-waiting-list/329794",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 24,
+      "likes": 1,
+      "replies": 1,
       "unique_contributors": 0,
       "engagement_score": 2
+    }
+  },
+  {
+    "workflow": "How I stop an AI support bot from promising refunds: a policy guard pattern for n8n",
+    "platform": "Forum",
+    "source_id": 328085,
+    "url": "https://community.n8n.io/t/how-i-stop-an-ai-support-bot-from-promising-refunds-a-policy-guard-pattern-for-n8n/328085",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 116,
+      "likes": 1,
+      "replies": 6,
+      "unique_contributors": 0,
+      "engagement_score": 7
+    }
+  },
+  {
+    "workflow": "Free n8n workflow: 15-second Twilio missed-call text-back with client-local timezone TCPA quiet hours & STOP handling (RevCapture OS Lite)",
+    "platform": "Forum",
+    "source_id": 329812,
+    "url": "https://community.n8n.io/t/free-n8n-workflow-15-second-twilio-missed-call-text-back-with-client-local-timezone-tcpa-quiet-hours-stop-handling-revcapture-os-lite/329812",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 15,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Retrieving my workflow",
+    "platform": "Forum",
+    "source_id": 329590,
+    "url": "https://community.n8n.io/t/retrieving-my-workflow/329590",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 25,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Would you let an AI agent modify your production n8n workflows without approval?",
+    "platform": "Forum",
+    "source_id": 329557,
+    "url": "https://community.n8n.io/t/would-you-let-an-ai-agent-modify-your-production-n8n-workflows-without-approval/329557",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 53,
+      "likes": 2,
+      "replies": 2,
+      "unique_contributors": 0,
+      "engagement_score": 4
+    }
+  },
+  {
+    "workflow": "How does a verified community node get the \"official node maintained by\" mark? (n8n-nodes-socialapis)",
+    "platform": "Forum",
+    "source_id": 329807,
+    "url": "https://community.n8n.io/t/how-does-a-verified-community-node-get-the-official-node-maintained-by-mark-n8n-nodes-socialapis/329807",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 25,
+      "likes": 1,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 1
+    }
+  },
+  {
+    "workflow": "Hotel booking agent in n8n where the model never touches inventory or money (public workflows, fictional hotel)",
+    "platform": "Forum",
+    "source_id": 329809,
+    "url": "https://community.n8n.io/t/hotel-booking-agent-in-n8n-where-the-model-never-touches-inventory-or-money-public-workflows-fictional-hotel/329809",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 17,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "Keyword alerts from RSS, Atom and news feeds: one morning email with only new matches (importable JSON)",
+    "platform": "Forum",
+    "source_id": 329806,
+    "url": "https://community.n8n.io/t/keyword-alerts-from-rss-atom-and-news-feeds-one-morning-email-with-only-new-matches-importable-json/329806",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 10,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "[New Community Node] LexGrid: Sovereign EU Compliance, VIES KYB, ANAC Public Procurement & Tax Tools",
+    "platform": "Forum",
+    "source_id": 329804,
+    "url": "https://community.n8n.io/t/new-community-node-lexgrid-sovereign-eu-compliance-vies-kyb-anac-public-procurement-tax-tools/329804",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
+    }
+  },
+  {
+    "workflow": "New jobs at 500 large US employers every morning, only the new ones (4 nodes, Workday career sites, workflow JSON)",
+    "platform": "Forum",
+    "source_id": 329796,
+    "url": "https://community.n8n.io/t/new-jobs-at-500-large-us-employers-every-morning-only-the-new-ones-4-nodes-workday-career-sites-workflow-json/329796",
+    "country": "GLOBAL",
+    "popularity_metrics": {
+      "views": 13,
+      "likes": 0,
+      "replies": 0,
+      "unique_contributors": 0,
+      "engagement_score": 0
     }
   }
 ]
